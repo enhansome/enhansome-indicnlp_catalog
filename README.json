@@ -1,0 +1,1648 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CLTK",
+          "description": "Toolkit for many of the world's classical languages. Support for Sanskrit. Some parts of the Sanskrit library are forked from the Indic NLP Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T22:16:44Z",
+            "owner": "cltk",
+            "repo": "cltk",
+            "stars": 916
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iNLTK",
+          "description": "iNLTK aims to provide out of the box support for various NLP tasks that an application developer might need for Indic languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-20T12:40:33Z",
+            "owner": "goru001",
+            "repo": "inltk",
+            "stars": 838
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Indic NLP Library",
+          "description": "Python Library for various Indian language NLP tasks like tokenization, sentence splitting, normalization, script conversion, transliteration, etc",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Devnagri to Roman transliteration",
+              "description": "using hand-crafted rules and lexicons.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-01-20T19:56:45Z",
+                "owner": "ritwikmishra",
+                "repo": "devanagari-to-roman-script-transliteration",
+                "stars": 25
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-07T07:14:41Z",
+            "owner": "anoopkunchukuttan",
+            "repo": "indic_nlp_library",
+            "stars": 642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BNLP",
+          "description": "Bengali language processing toolkit with tokenization, embedding, POS tagging, NER suppport",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-01T14:49:55Z",
+            "owner": "sagorbrur",
+            "repo": "bnlp",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sanskrit Coders Indic Transliteration",
+          "description": "Script conversion and romanization for Indian languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T01:14:07Z",
+            "owner": "indic-transliteration",
+            "repo": "indic_transliteration_py",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeSwitch",
+          "description": "Language identification, POS Tagging, NER, sentiment analysis support for code mixed data including Hindi and Nepali language",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-11-02T12:55:48Z",
+            "owner": "sagorbrur",
+            "repo": "codeswitch",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyiwn",
+          "description": "Python Interface to IndoWordNet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-26T12:35:57Z",
+            "owner": "cfiltnlp",
+            "repo": "pyiwn",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart Sanskirt Annotator",
+          "description": "Annotation tool for Sanskrit paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-31T18:38:08Z",
+            "owner": "iamdsc",
+            "repo": "smart-sanskrit-annotator",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IndIE",
+          "description": "An Open Information Extraction tool (triple extractor) in Hindi. It is conjectured to work for Tamil, Telugu, and Urdu as well.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-26T15:11:59Z",
+            "owner": "ritwikmishra",
+            "repo": "IndIE",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hindi-BenchIE",
+          "description": "A triple evaluation tool for 112 Hindi sentences.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-12T12:59:06Z",
+            "owner": "ritwikmishra",
+            "repo": "hindi-benchie",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Libraries and Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Text Corpora"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Janmabhumi Malayalam Corpus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-31T18:23:17Z",
+            "owner": "ABHISHEKVALSAN",
+            "repo": "Malayalam-Newspaper-Article-Dataset",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sanskrit-Hindi-MT",
+          "description": "The Sanskrit Monolingual Data is available here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-01-16T20:30:12Z",
+            "owner": "priyanshu2103",
+            "repo": "Sanskrit-Hindi-Machine-Translation",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lot Of Indic Tweets Corpus",
+          "description": "Large twitter datasets for telugu (7.9 million) and hindi (17.6 million) and fasttext skipgram and cbow word vectors for the same.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-10-04T10:07:05Z",
+            "owner": "bedapudi6788",
+            "repo": "LOIT",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CMU Romanized Hinglish Corpus",
+          "description": "See THIS PAPER for details.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-05-14T15:19:22Z",
+            "owner": "khyathiraghavi",
+            "repo": "multi_task_code_switched_language_modeling",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JNU-BHLTR Bhojpuri Corpus",
+          "description": "Bhojpuri corpus of 45k sentences.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-12T15:10:26Z",
+            "owner": "shashwatup9k",
+            "repo": "BHLTR",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kangri_corpus",
+          "description": "Monolingual corpus of Himachali low resource endangered language, Kangri comprising of 1,81,552 sentences. Described in this paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-27T07:40:43Z",
+            "owner": "chauhanshweta",
+            "repo": "Kangri_corpus",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KMI Linguistics Bodo",
+          "description": "Contains the Bodo corpus and the frequency-ordered word and punctuation list.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-07-31T15:19:46Z",
+            "owner": "kmi-linguistics",
+            "repo": "bodo",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KMI Magahi Corpus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-07-30T16:41:39Z",
+            "owner": "kmi-linguistics",
+            "repo": "magahi",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KMI Awadhi Corpus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-09-08T18:12:14Z",
+            "owner": "kmi-linguistics",
+            "repo": "awadhi",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FacebookDecadeCorpora",
+          "description": "Contains two language corpora of colloquial Sinhala content extracted from Facebook using the Crowdtangle platform. The larger corpus contains 28,825,820 to 29,549,672 words of text, mostly in Sinhala, English and Tamil and the smaller corpus amounts to 5,402,76 words of only Sinhala text extracted from Corpus-Alpha. Described in this paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-07-15T13:01:09Z",
+            "owner": "samithaj",
+            "repo": "FacebookDecadeCorpora",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "[AIBharat IndicCorp]: Text corpora for Indian languages",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "v2",
+              "description": "contains 20 billion tokens from 22 Indian languages (including Indian English). [paper]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-04-06T21:35:01Z",
+                "owner": "AI4Bharat",
+                "repo": "IndicBERT",
+                "stars": 122
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "v1",
+              "description": "contains 8.9 billion tokens from 12 Indian languages (including Indian English). [paper]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-01-01T19:06:56Z",
+                "owner": "AI4Bharat",
+                "repo": "indicnlp_suite",
+                "stars": 2
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Monolingual Corpus"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Toxicity-200",
+          "description": "Toxicity Lists for 200 languages including 27 Indian languages.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-11-20T21:03:52Z",
+            "owner": "facebookresearch",
+            "repo": "flores",
+            "stars": 770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI4Bharat Word Frequency Lists",
+          "description": "Tokens and their frequencies from the AI4Bharat corpus, a large monolingual corpus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-16T13:05:27Z",
+            "owner": "AI4Bharat",
+            "repo": "indicnlp_corpus",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IIIT-Hyderabad Word Similarity Database",
+          "description": "7 Indian languages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-05-23T22:24:06Z",
+            "owner": "syedsarfarazakhtar",
+            "repo": "Word-Similarity-Datasets-for-Indian-Languages",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hindi RG-63",
+          "description": "Hindi version of the Rubenstein and Goodenough (RG-65) word similarity dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-04-19T03:04:45Z",
+            "owner": "ashwinivd",
+            "repo": "similarity_hindi",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MGAD Hindi Analogy dataset",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-05-10T00:44:02Z",
+            "owner": "rutrastone",
+            "repo": "MGAD",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IITB Cognate Datasets",
+          "description": "Dataset of Cognates and False Friend Pairs for 12 Indian Languages. (Paper)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-04-26T12:43:41Z",
+            "owner": "cfiltnlp",
+            "repo": "challengeCognateFF",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FacebookDecadeCorpora",
+          "description": "Contains a list of algorithmically derived stopwords extracted from Corpus-Sinhala-Redux. Described in this paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-07-15T13:01:09Z",
+            "owner": "samithaj",
+            "repo": "FacebookDecadeCorpora",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Lexical Resources and Semantic Similarity"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "L3Cube-MahaNER",
+          "description": "The first major gold standard named entity recognition dataset in Marathi consisting of 25,000 sentences in Marathi language. Described in this paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-14T16:16:13Z",
+            "owner": "l3cube-pune",
+            "repo": "MarathiNLP",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CFILT HiNER",
+          "description": "A large Hindi NER dataset containing 109,146 sentences and 2,220,856 tokens. Described in this paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-06-06T15:52:22Z",
+            "owner": "cfiltnlp",
+            "repo": "HiNER",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "a-mma NER data",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2019-02-09T16:13:23Z",
+            "owner": "a-mma",
+            "repo": "NER_Open_Data",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "NER Corpora"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CCMatrix",
+          "description": "Parallel corpus mined from CommonCrawl, looks noisy (statmt repo).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-05-02T20:24:47Z",
+            "owner": "facebookresearch",
+            "repo": "LASER",
+            "stars": 3660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FLORES-101",
+          "description": "Human translated evaluation sets for 101 languages released by Facebook. It includes 14 Indic languages. The testsets are n-way parallel.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-11-20T21:03:52Z",
+            "owner": "facebookresearch",
+            "repo": "flores",
+            "stars": 770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FLORES-200",
+          "description": "Human translated evaluation sets for 200 languages released by Facebook. It includes 24 Indic languages. The testsets are n-way parallel.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-11-20T21:03:52Z",
+            "owner": "facebookresearch",
+            "repo": "flores",
+            "stars": 770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FLORES dataset",
+          "description": "English-Sinhala and English-Nepali corpora",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-11-20T21:03:52Z",
+            "owner": "facebookresearch",
+            "repo": "flores",
+            "stars": 770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NLLB-Seed",
+          "description": "Small human-translated parallel corpora from Wikipedia articles for very low resource languages. Includes 5 Indian languages: Kashmiri, Manipuri, Maithili, Bhojpuri, Chattisgarhi.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-11-20T21:03:52Z",
+            "owner": "facebookresearch",
+            "repo": "flores",
+            "stars": 770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NLLB-MD",
+          "description": "NLLB Multi Domain is a set of professionally-translated sentences in News, Unscripted informal speech, and Health domains. Cover Bhojpuri amongst Indian languages.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-11-20T21:03:52Z",
+            "owner": "facebookresearch",
+            "repo": "flores",
+            "stars": 770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BPCC Parallel Corpus",
+          "description": "Largest parallel corpus for English and 22 Indian languages (as of Jan 2024). It comprises 230 million sentence pairs between English-Indian languages. A subset of this corpus is the BPCC-Human Corpus containing 2.2 English-Indic pairs for 22 Indic languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-03T07:05:20Z",
+            "owner": "AI4Bharat",
+            "repo": "IndicTrans2",
+            "stars": 457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TED Parallel Corpus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-01-04T08:39:24Z",
+            "owner": "ajinkyakulkarni14",
+            "repo": "TED-Multilingual-Parallel-Corpus",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BUET English-Bangla Corpus, EMNLP-2020",
+          "description": "2.7M sentences (has overlaps with OPUS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-23T06:57:02Z",
+            "owner": "csebuetnlp",
+            "repo": "banglanmt",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Itihasa Parallel Corpus",
+          "description": "93k parallel sentences between English and Sanskrit from the Ramanyana and Mahabharata.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-03-20T16:52:33Z",
+            "owner": "rahular",
+            "repo": "itihasa",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MTurk Indian Parallel Corpus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2023-06-29T19:55:03Z",
+            "owner": "joshua-decoder",
+            "repo": "indian-parallel-corpora",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kathmandu University-English–Nepali Parallel Corpus",
+          "description": "A parallel corpus of size 1.8 million sentence pairs for a low resource language pair Nepali–English. Described in this paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-24T02:29:14Z",
+            "owner": "sharad461",
+            "repo": "nepali-translator",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sanskrit-Hindi-MT",
+          "description": "Machine Translation from Sanskrit to Hindi using Unsupervised and Supervised Learning. Contains Sanskrit-English parallel data and Sanskrit-Hindi parallel(test) data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-01-16T20:30:12Z",
+            "owner": "priyanshu2103",
+            "repo": "Sanskrit-Hindi-Machine-Translation",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SAP Software Documentation",
+          "description": "test and evaluation set for English-Hindi in the software documentation domain [paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Wolfram Language",
+            "last_commit": "2026-06-12T12:15:52Z",
+            "owner": "SAP",
+            "repo": "software-documentation-data-set-for-machine-translation",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NLPC-UoM English-Tamil Corpus",
+          "description": "9k sentences, 24k glossary terms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-04T16:29:54Z",
+            "owner": "nlpcuom",
+            "repo": "English-Tamil-Parallel-Corpus",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IIIT-H en-hi-codemixed-corpus",
+          "description": "A gold standard parallel corpus consisting of 6096 English-Hindi code-mixed sentences containing a total of 63,913 tokens and monolingual English. Described in this paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-02-17T23:56:23Z",
+            "owner": "mrinaldhar",
+            "repo": "en-hi-codemixed-corpus",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uka Tarsadia University Corpus",
+          "description": "65k English-Gujarati sentence pairs. Corpus is described in this paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-12-27T14:19:27Z",
+            "owner": "shahparth123",
+            "repo": "eng_guj_parallel_corpus",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MTEnglish2Odia",
+          "description": "English-Odia (42k pairs)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-08-09T03:40:58Z",
+            "owner": "soumendrak",
+            "repo": "MTEnglish2Odia",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IndoWordnet Parallel Corpus",
+          "description": "Parallel corpora mined from IndoWordNet gloss and/or examples for Indian-Indian language corpora (6.3 million segments, 18 languages).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-16T15:34:54Z",
+            "owner": "anoopkunchukuttan",
+            "repo": "indowordnet_parallel",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JNU-BHLTR Bhojpuri Corpus",
+          "description": "English-Bhojpuri corpus of 65k sentences",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-12T15:10:26Z",
+            "owner": "shashwatup9k",
+            "repo": "BHLTR",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kangri_corpus",
+          "description": "The corpus contains 27,362 Hindi-Kangri Parallel corpora. Described in [this paper] (https://arxiv.org/abs/2103.11596).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-27T07:40:43Z",
+            "owner": "chauhanshweta",
+            "repo": "Kangri_corpus",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoPara",
+          "description": "Long-context parallel corpora for 4 Dravidian languages. Contains 2586 passage pairs mined from New India Samachar [paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-09-15T18:15:51Z",
+            "owner": "ENikhil",
+            "repo": "CoPara",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Parallel Translation Corpus"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dakshina Dataset",
+          "description": "The Dakshina dataset is a collection of text in both Latin and native scripts for 12 South Asian languages. Contains an aggregate of around 300k word pairs and 120k sentence pairs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2020-05-27T22:38:33Z",
+            "owner": "google-research-datasets",
+            "repo": "dakshina",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xlit-Crowd",
+          "description": "Hindi-English Transliteration Corpus created via crowdsourcing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-02-17T13:08:26Z",
+            "owner": "anoopkunchukuttan",
+            "repo": "crowd-indic-transliteration-data",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NotAI-tech English-Telugu",
+          "description": "Around 38k word pairs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-07-25T15:18:26Z",
+            "owner": "notAI-tech",
+            "repo": "Datasets",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Parallel Transliteration Corpus"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "iNLTK News Headlines classification",
+          "description": "Datasets for multiple Indian languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-20T12:40:33Z",
+            "owner": "goru001",
+            "repo": "inltk",
+            "stars": 838
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BBC news articles classification dataset",
+          "description": "14 class classification",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-03-09T07:42:56Z",
+            "owner": "NirantK",
+            "repo": "hindi2vec",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI4Bharat IndicNLP News Articles",
+          "description": "Word embeddings for 10 Indian languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-16T13:05:27Z",
+            "owner": "AI4Bharat",
+            "repo": "indicnlp_corpus",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XCOPA",
+          "description": "A Multilingual Dataset for Causal Commonsense Reasoning in 11 languages (includes Tamil). Described in this paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-02-04T01:56:39Z",
+            "owner": "cambridgeltl",
+            "repo": "xcopa",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KMI Linguistics TRAC - 1",
+          "description": "Contains aggression-annotated dataset (in English and Hindi) for the Shared Task on Aggression Identification during First Workshop on Trolling, Aggression and Cyberbullying (TRAC - 1) at COLING - 2018.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-03-12T17:22:11Z",
+            "owner": "kmi-linguistics",
+            "repo": "trac-1",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Text Classification"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bengali Sentiment Analysis - Classification Benchmark, 2020",
+          "description": "8k sentences",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-07-26T10:48:25Z",
+            "owner": "rezacsedu",
+            "repo": "Classification_Benchmarks_Benglai_NLP",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BHAAV (भाव) Corpus",
+          "description": "A Text Corpus for Emotion Analysis from Hindi Stories",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-11-26T17:15:40Z",
+            "owner": "midas-research",
+            "repo": "bhaav",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SentNoB",
+          "description": "sentiment dataset for Bangla from 3 domains on user comments containing 15k examples (Paper) (Dataset)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-29T02:05:30Z",
+            "owner": "KhondokerIslam",
+            "repo": "SentNoB",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UoM-Sinhala Sentiment Analysis",
+          "description": "Sentiment Analysis for Sinhala Language. Consists of a multi-class annotated data set with 15059 sentiment annotated Sinhala news comments extracted from two Sinhala online news papers with four sentiment categories namely POSITIVE, NEGATIVE, NEUTRAL and CONFLICT and a corpus of 9.48 million tokens. Described in this paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-11-09T05:06:48Z",
+            "owner": "LahiruSen",
+            "repo": "sinhala_sentiment_anlaysis_tallip",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ACTSA corpus for Telugu",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Sentiment, Sarcasm, Emotion Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fear Speech in Indian WhatsApp Groups, 2021",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-27T03:25:22Z",
+            "owner": "hate-alert",
+            "repo": "Fear-speech-analysis",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bengali Hate Speech - Classification Benchmark, 2020",
+          "description": "1.5k sentences",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-07-26T10:48:25Z",
+            "owner": "rezacsedu",
+            "repo": "Classification_Benchmarks_Benglai_NLP",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roman Urdu Offensive Language Detection, 2020",
+          "description": "10k tweets, can also used for Hindi, (Paper)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-09-03T05:40:20Z",
+            "owner": "haroonshakeel",
+            "repo": "roman_urdu_hate_speech",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HateCheckHIn",
+          "description": "An evaluation dataset for Hindi Hate Speech Detection Models having a total of 34 functionalities out of which 28 functionalities are monolingual and the remaining 6 are multilingual. Hindi is used as the base language. Described in this paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-07T10:01:34Z",
+            "owner": "hate-alert",
+            "repo": "HateCheckHIn",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Did You Offend Me? Classification of Offensive Tweets in Hinglish Language, 2018",
+          "description": "3k tweets (Paper)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-13T13:32:56Z",
+            "owner": "pmathur5k10",
+            "repo": "Hinglish-Offensive-Text-Classification",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Dataset of Hindi-English Code-Mixed Social Media Text for Hate Speech Detection, 2018",
+          "description": "4.5k Tweets (Paper)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-09-13T14:21:22Z",
+            "owner": "punyajoy",
+            "repo": "HateSpeech-Hindi-English-Code-Mixed-Social-Media-Text",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Hate Speech and Offensive Comments"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TyDi QA datasets",
+          "description": "QA dataset for Bengali and Telugu.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-05-28T09:54:36Z",
+            "owner": "google-research-datasets",
+            "repo": "tydiqa",
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facebook Multilingual QA datasets",
+          "description": "Contains dev and test sets for Hindi.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-08-31T18:39:34Z",
+            "owner": "facebookresearch",
+            "repo": "MLQA",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XQuAD",
+          "description": "testset for Hindi QA from human translation of subset of SQuAD v1.1. Described in this paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-11-12T10:48:06Z",
+            "owner": "google-deepmind",
+            "repo": "xquad",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XQA",
+          "description": "testset for Tamil QA. Described in this paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-16T14:38:29Z",
+            "owner": "thunlp",
+            "repo": "XQA",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XOR QA",
+          "description": "A large-scale cross-lingual open-retrieval QA dataset (includes Bengali and Telugu) with 40k newly annotated open-retrieval questions that cover seven typologically diverse languages. Described in this paper. More information is available here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-03T15:05:59Z",
+            "owner": "AkariAsai",
+            "repo": "XORQA",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IITH HiDG",
+          "description": "A Distractor Generation Dataset for Hindi consisting of 1k/1k/5k (train/validation/test) split. Described in this paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-19T07:52:05Z",
+            "owner": "kaushal0494",
+            "repo": "ZmBART",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MMQA dataset",
+          "description": "Hindi QA dataset described in this paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-11-16T18:20:20Z",
+            "owner": "deepaknlp",
+            "repo": "MMQA",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HindiRC",
+          "description": "A Dataset for Reading Comprehension in Hindi containing 127 questions and 24 passages. Described in this paper",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-01-14T08:53:51Z",
+            "owner": "erzaliator",
+            "repo": "HindiRC-Data",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Question Answering"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A Code-Mixed Medical Task-Oriented Dialog Dataset",
+          "description": "The dataset contains 3005 Telugu–English Code-Mixed dialogs with 29 k utterances covering ten specializations with an average code-mixing index (CMI) of 33.3%. Described in this paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-02-03T06:07:05Z",
+            "owner": "suman101112",
+            "repo": "Code-Mixed-TOD-Medical-Dataset",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "a-mma Indic Casual Dialogs Datasets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-02-09T16:11:13Z",
+            "owner": "a-mma",
+            "repo": "indic_casual_dialogs_dataset",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Dialog"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JNU-BHLTR Bhojpuri Corpus",
+          "description": "Bhojpuri corpus of 5000 sentences.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-12T15:10:26Z",
+            "owner": "shashwatup9k",
+            "repo": "BHLTR",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KMI Magahi Corpus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-07-30T16:41:39Z",
+            "owner": "kmi-linguistics",
+            "repo": "magahi",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KMI Awadhi Corpus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-09-08T18:12:14Z",
+            "owner": "kmi-linguistics",
+            "repo": "awadhi",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "POS Tagged corpus"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vedic Sanskrit Treebank",
+          "description": "4k Sanskrit dependency treebank [paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-05T18:37:43Z",
+            "owner": "OliverHellwig",
+            "repo": "sanskrit",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Universal Dependencies Hindi Treebank",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-06T19:07:15Z",
+            "owner": "UniversalDependencies",
+            "repo": "UD_Hindi-HDTB",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Universal Dependencies Urdu Treebank",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-06T19:15:45Z",
+            "owner": "UniversalDependencies",
+            "repo": "UD_Urdu-UDTB",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Dependency Parse Corpus"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "XL-Sum",
+          "description": "A Large-Scale Multilingual Abstractive Summarization for 44 Languages with a comprehensive and diverse dataset comprising of 1 million professionally annotated article-summary pairs from BBC. Span 150k examples across 10 Indic languages. Described in this paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-26T06:20:04Z",
+            "owner": "csebuetnlp",
+            "repo": "xl-sum",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WikiLingua",
+          "description": "Cross-lingual summarization dataset created from WikiHow. Contains 9k English-Hindi article-summary pairs. [paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-14T18:37:21Z",
+            "owner": "esdurmus",
+            "repo": "Wikilingua",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MassiveSum",
+          "description": "A large summarization dataset for containing 13 Indian languages with ~1.9million article-summary pairs. The summaries are mined from article metadata. [paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-21T04:55:41Z",
+            "owner": "danielvarab",
+            "repo": "massive-summ",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Summarization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Models"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sanskrit-Hindi-MT",
+          "description": "The FastText embeddings for Sanskrit is available here and for Hindi here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-01-16T20:30:12Z",
+            "owner": "priyanshu2103",
+            "repo": "Sanskrit-Hindi-Machine-Translation",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UoM-Sinhala Sentiment Analysis- FastText 300",
+          "description": "The FastText word embedding model for Sinhala language. Described in this paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-11-09T05:06:48Z",
+            "owner": "LahiruSen",
+            "repo": "sinhala_sentiment_anlaysis_tallip",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Word Embeddings"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BERT Multilingual",
+          "description": "BERT model trained on Wikipedias of many languages (including major Indic languages).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-07-23T23:39:41Z",
+            "owner": "google-research",
+            "repo": "bert",
+            "stars": 40057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LASER3",
+          "description": "Encoder models suitable for sentence retrieval tasks supporting 200 languages (including 27 Indic languges).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-09-30T11:16:06Z",
+            "owner": "facebookresearch",
+            "repo": "fairseq",
+            "stars": 32241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iNLTK",
+          "description": "ULMFit and TransformerXL pre-trained embeddings for many languages trained on Wikipedia and some News articles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-20T12:40:33Z",
+            "owner": "goru001",
+            "repo": "inltk",
+            "stars": 838
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BanglaBERT",
+          "description": "Language Model Pretraining and Benchmarks for Low-Resource Language Understanding Evaluation in Bangla. Described in this paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-24T14:58:01Z",
+            "owner": "csebuetnlp",
+            "repo": "banglabert",
+            "stars": 254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bangla-BERT-Base",
+          "description": "Bengali BERT model trained on Bengali wikipedia and OSCAR datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-04-29T04:16:03Z",
+            "owner": "sagorbrur",
+            "repo": "bangla-bert",
+            "stars": 83
+          }
+        }
+      ],
+      "title": "Pre-trained Language Models"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Babylon Partners",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-10T17:39:46Z",
+            "owner": "babylonhealth",
+            "repo": "fastText_multilingual",
+            "stars": 1201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoMM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T02:29:28Z",
+            "owner": "anoopkunchukuttan",
+            "repo": "geomm",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Multilingual Word Embeddings"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CoVoST 2",
+          "description": "Tamil 2 hrs data",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-09-14T21:59:06Z",
+            "owner": "facebookresearch",
+            "repo": "covost",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vāksañcayaḥ Sanskrit Speech Corpus",
+          "description": "78 hours of speech corpus in Sanskrit prose, with a speaker disjoint splits of train, dev and test. It also contains an additional out of domain test data with speakers having pronunciation influences from L1 (paper).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-07-22T01:05:25Z",
+            "owner": "cyfer0618",
+            "repo": "Vaksanca",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Speech Corpora"
+    },
+    {
+      "description": "Pointers to language-specific NLP resource catalogs",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nepali",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-05-13T17:42:32Z",
+            "owner": "amitness",
+            "repo": "ml-datasets",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Urdu",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-11T07:42:31Z",
+            "owner": "urduhack",
+            "repo": "awesome-urdu",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Odia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-23T21:44:53Z",
+            "owner": "shantipriyap",
+            "repo": "Odia-NLP-Resource-Catalog",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sinhala",
+          "description": "[git repo]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-12-23T08:15:31Z",
+            "owner": "lknlp",
+            "repo": "lknlp.github.io",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Language Specific Catalogs"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:15:26.241Z",
+    "original_repository": "AI4Bharat/indicnlp_catalog",
+    "original_repository_sha": "7c608d6fddbecae59ddfd110cf4ff0bd14e4d2d0",
+    "enhanced_repository": "enhansome/enhansome-indicnlp_catalog",
+    "enhanced_repository_description": null,
+    "title": "Awesome :bookmark: The Indic NLP Catalog with stars"
+  }
+}
