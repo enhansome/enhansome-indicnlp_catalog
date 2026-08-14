@@ -1444,7 +1444,7 @@
             "last_commit": "2024-07-23T23:39:41Z",
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40057
+            "stars": 40053
           }
         },
         {
@@ -1458,7 +1458,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32242
+            "stars": 32241
           }
         },
         {
@@ -1638,7 +1638,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T14:07:55.590Z",
+    "last_updated": "2026-08-14T14:01:48.533Z",
     "original_repository": "AI4Bharat/indicnlp_catalog",
     "original_repository_sha": "7c608d6fddbecae59ddfd110cf4ff0bd14e4d2d0",
     "enhanced_repository": "enhansome/enhansome-indicnlp_catalog",
