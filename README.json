@@ -14,7 +14,7 @@
             "last_commit": "2026-08-01T22:16:44Z",
             "owner": "cltk",
             "repo": "cltk",
-            "stars": 916
+            "stars": 917
           }
         },
         {
@@ -85,7 +85,7 @@
             "last_commit": "2026-08-02T01:14:07Z",
             "owner": "indic-transliteration",
             "repo": "indic_transliteration_py",
-            "stars": 210
+            "stars": 211
           }
         },
         {
@@ -597,7 +597,7 @@
             "last_commit": "2025-10-03T07:05:20Z",
             "owner": "AI4Bharat",
             "repo": "IndicTrans2",
-            "stars": 458
+            "stars": 459
           }
         },
         {
@@ -1444,7 +1444,7 @@
             "last_commit": "2024-07-23T23:39:41Z",
             "owner": "google-research",
             "repo": "bert",
-            "stars": 40052
+            "stars": 40051
           }
         },
         {
@@ -1458,7 +1458,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32240
+            "stars": 32239
           }
         },
         {
@@ -1638,7 +1638,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:17:05.753Z",
+    "last_updated": "2026-08-16T13:18:25.234Z",
     "original_repository": "AI4Bharat/indicnlp_catalog",
     "original_repository_sha": "7c608d6fddbecae59ddfd110cf4ff0bd14e4d2d0",
     "enhanced_repository": "enhansome/enhansome-indicnlp_catalog",
