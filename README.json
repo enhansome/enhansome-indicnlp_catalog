@@ -15,7 +15,7 @@
             "last_commit": "2026-08-01T22:16:44Z",
             "owner": "cltk",
             "repo": "cltk",
-            "stars": 918
+            "stars": 917
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-01-20T12:40:33Z",
             "owner": "goru001",
             "repo": "inltk",
-            "stars": 838
+            "stars": 837
           }
         },
         {
@@ -936,7 +936,7 @@
                 "last_commit": "2024-01-20T12:40:33Z",
                 "owner": "goru001",
                 "repo": "inltk",
-                "stars": 838
+                "stars": 837
               }
             },
             {
@@ -1545,7 +1545,7 @@
                 "last_commit": "2024-07-23T23:39:41Z",
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40048
+                "stars": 40047
               }
             },
             {
@@ -1560,7 +1560,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32234
+                "stars": 32233
               }
             },
             {
@@ -1575,7 +1575,7 @@
                 "last_commit": "2024-01-20T12:40:33Z",
                 "owner": "goru001",
                 "repo": "inltk",
-                "stars": 838
+                "stars": 837
               }
             },
             {
@@ -1757,7 +1757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T13:33:09.768Z",
+    "last_updated": "2026-08-21T13:31:57.305Z",
     "original_repository": "AI4Bharat/indicnlp_catalog",
     "original_repository_id": 205125725,
     "original_repository_sha": "7c608d6fddbecae59ddfd110cf4ff0bd14e4d2d0",

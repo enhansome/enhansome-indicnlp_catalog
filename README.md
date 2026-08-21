@@ -91,8 +91,8 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 
 ## <a name='Libraries'></a>Libraries and Tools
 
-* [CLTK](https://github.com/cltk/cltk/tree/master/cltk) ⭐ 918 | 🐛 5 | 🌐 Python | 📅 2026-08-01: Toolkit for many of the world's classical languages. Support for Sanskrit. Some parts of the Sanskrit library are forked from the Indic NLP Library.
-* [iNLTK](https://github.com/goru001/inltk) ⭐ 838 | 🐛 39 | 🌐 Python | 📅 2024-01-20: iNLTK aims to provide out of the box support for various NLP tasks that an application developer might need for Indic languages.
+* [CLTK](https://github.com/cltk/cltk/tree/master/cltk) ⭐ 917 | 🐛 5 | 🌐 Python | 📅 2026-08-01: Toolkit for many of the world's classical languages. Support for Sanskrit. Some parts of the Sanskrit library are forked from the Indic NLP Library.
+* [iNLTK](https://github.com/goru001/inltk) ⭐ 837 | 🐛 39 | 🌐 Python | 📅 2024-01-20: iNLTK aims to provide out of the box support for various NLP tasks that an application developer might need for Indic languages.
 * [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library) ⭐ 643 | 🐛 34 | 🌐 Python | 📅 2024-06-07: Python Library for various Indian language NLP tasks like tokenization, sentence splitting, normalization, script conversion, transliteration, *etc*
   * [Devnagri to Roman transliteration](https://github.com/ritwikmishra/devanagari-to-roman-script-transliteration) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-01-20 using hand-crafted rules and lexicons.
 * [BNLP](https://github.com/sagorbrur/bnlp) ⭐ 309 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-04-01: Bengali language processing toolkit with tokenization, embedding, POS tagging, NER suppport
@@ -263,7 +263,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='TextualClassification'></a>Text Classification
 
-* [iNLTK News Headlines classification](https://github.com/goru001/inltk) ⭐ 838 | 🐛 39 | 🌐 Python | 📅 2024-01-20: Datasets for multiple Indian languages.
+* [iNLTK News Headlines classification](https://github.com/goru001/inltk) ⭐ 837 | 🐛 39 | 🌐 Python | 📅 2024-01-20: Datasets for multiple Indian languages.
 * [BBC news articles classification dataset](https://github.com/NirantK/hindi2vec/releases/tag/bbc-hindi-v0.1) ⭐ 219 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2019-03-09: 14 class classification
 * [AI4Bharat IndicNLP News Articles](https://github.com/ai4bharat/indicnlp_corpus) ⭐ 206 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Word embeddings for 10 Indian languages.
 * [XCOPA](https://github.com/cambridgeltl/xcopa) ⭐ 105 | 🐛 1 | 📅 2021-02-04: A Multilingual Dataset for Causal Commonsense Reasoning in 11 languages (includes Tamil). Described in [this paper](https://ducdauge.github.io/files/xcopa.pdf).
@@ -397,7 +397,7 @@ Benchmarks spanning multiple tasks.
 
 * [BERT Multilingual](https://github.com/google-research/bert) ⚠️ Archived: BERT model trained on Wikipedias of many languages (including major Indic languages).
 * [LASER3](https://github.com/facebookresearch/fairseq/tree/nllb#laser3-encoder-models) ⚠️ Archived: Encoder models suitable for sentence retrieval tasks supporting 200 languages (including 27 Indic languges).
-* [iNLTK](https://github.com/goru001/inltk) ⭐ 838 | 🐛 39 | 🌐 Python | 📅 2024-01-20: ULMFit and TransformerXL pre-trained embeddings for many languages trained on Wikipedia and some News articles.
+* [iNLTK](https://github.com/goru001/inltk) ⭐ 837 | 🐛 39 | 🌐 Python | 📅 2024-01-20: ULMFit and TransformerXL pre-trained embeddings for many languages trained on Wikipedia and some News articles.
 * [BanglaBERT](https://github.com/csebuetnlp/banglabert) ⭐ 254 | 🐛 0 | 🌐 Python | 📅 2023-01-24: Language Model Pretraining and Benchmarks for Low-Resource Language Understanding Evaluation in Bangla. Described in [this paper](https://arxiv.org/abs/2101.00204).
 * [Bangla-BERT-Base](https://github.com/sagorbrur/bangla-bert) ⭐ 83 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-04-29: Bengali BERT model trained on Bengali wikipedia and OSCAR datasets.
 * [AI4Bharat IndicBERT](https://ai4bharat.iitm.ac.in/indic-bert): Multilingual ALBERT based embeddings spanning 12 languages for Natural Language Understanding (including Indian English).
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
