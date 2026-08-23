@@ -254,6 +254,21 @@
             },
             {
               "node_type": "item",
+              "title": "KMI Linguistics Bodo",
+              "description": "Contains the Bodo corpus and the frequency-ordered word and punctuation list.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 284065532,
+                "language": null,
+                "last_commit": "2020-07-31T15:19:46Z",
+                "owner": "kmi-linguistics",
+                "repo": "bodo",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Kangri_corpus",
               "description": "Monolingual corpus of Himachali low resource endangered language, Kangri comprising of 1,81,552 sentences. Described in this paper.",
               "children": [],
@@ -265,21 +280,6 @@
                 "owner": "chauhanshweta",
                 "repo": "Kangri_corpus",
                 "stars": 5
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "KMI Linguistics Bodo",
-              "description": "Contains the Bodo corpus and the frequency-ordered word and punctuation list.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 284065532,
-                "language": null,
-                "last_commit": "2020-07-31T15:19:46Z",
-                "owner": "kmi-linguistics",
-                "repo": "bodo",
-                "stars": 4
               }
             },
             {
@@ -1545,7 +1545,7 @@
                 "last_commit": "2024-07-23T23:39:41Z",
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40046
+                "stars": 40045
               }
             },
             {
@@ -1757,7 +1757,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T13:18:23.288Z",
+    "last_updated": "2026-08-23T13:19:22.143Z",
     "original_repository": "AI4Bharat/indicnlp_catalog",
     "original_repository_id": 205125725,
     "original_repository_sha": "7c608d6fddbecae59ddfd110cf4ff0bd14e4d2d0",

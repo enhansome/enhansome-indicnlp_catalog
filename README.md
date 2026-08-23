@@ -129,8 +129,8 @@ Benchmarks spanning multiple tasks.
 * [Lot Of Indic Tweets Corpus](https://github.com/bedapudi6788/LOIT) ⭐ 13 | 🐛 2 | 🌐 Python | 📅 2019-10-04: Large twitter datasets for telugu (7.9 million) and hindi (17.6 million) and fasttext skipgram and cbow word vectors for the same.
 * [CMU Romanized Hinglish Corpus](https://github.com/khyathiraghavi/multi_task_code_switched_language_modeling/tree/master/hinglishData) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2018-05-14: See [THIS PAPER](https://www.aclweb.org/anthology/W18-3211.pdf) for details.
 * [JNU-BHLTR Bhojpuri Corpus](https://github.com/shashwatup9k/bho-resources/tree/master/mono-bho-corpus) ⭐ 5 | 🐛 0 | 📅 2026-06-12: Bhojpuri corpus of 45k sentences.
+* [KMI Linguistics Bodo](https://github.com/kmi-linguistics/bodo) ⭐ 5 | 🐛 0 | 📅 2020-07-31: Contains the Bodo corpus and the frequency-ordered word and punctuation list.
 * [Kangri\_corpus](https://github.com/chauhanshweta/Kangri_corpus) ⭐ 5 | 🐛 0 | 📅 2024-07-27: Monolingual corpus of Himachali low resource endangered language, Kangri comprising of 1,81,552 sentences. Described in [this paper](https://arxiv.org/abs/2103.11596).
-* [KMI Linguistics Bodo](https://github.com/kmi-linguistics/bodo) ⭐ 4 | 🐛 0 | 📅 2020-07-31: Contains the Bodo corpus and the frequency-ordered word and punctuation list.
 * [KMI Magahi Corpus](https://github.com/kmi-linguistics/magahi) ⭐ 3 | 🐛 0 | 🌐 Java | 📅 2020-07-30:
 * [KMI Awadhi Corpus](https://github.com/kmi-linguistics/awadhi) ⭐ 0 | 🐛 0 | 📅 2017-09-08:
 * [FacebookDecadeCorpora](https://github.com/samithaj/FacebookDecadeCorpora) ⭐ 0 | 🐛 0 | 📅 2020-07-15: Contains two language corpora of colloquial Sinhala content extracted from Facebook using the Crowdtangle platform. The larger corpus contains 28,825,820 to 29,549,672 words of text, mostly in Sinhala, English and Tamil and the smaller corpus amounts to 5,402,76 words of only Sinhala text extracted from Corpus-Alpha. Described in [this paper](https://arxiv.org/ftp/arxiv/papers/2007/2007.07884.pdf).
@@ -433,7 +433,7 @@ Benchmarks spanning multiple tasks.
 ### <a name='SpeechModels'></a>Speech Models
 
 * [AI4Bharat IndicWav2Vec](https://ai4bharat.iitm.ac.in/indic-wav-2-vec): Multilingual pre-trained models for 40 Indian languages based on Wav2Vec 2.0.
-* [Vakyansh CLSRIL-23](https://github.com/Open-Speech-EkStep/vakyansh-models) ⭐ 327 | 🐛 8 | 📅 2022-09-16: Pretrained wav2vec2 model trained on 10,000 hours of Speech data in 23 Indic Languages [(documentation)](https://open-speech-ekstep.github.io/) [(experimentation platform)](https://github.com/Open-Speech-EkStep/vakyansh-wav2vec2-experimentation) ⭐ 89 | 🐛 23 | 🌐 Python | 📅 2022-09-22.
+* [Vakyansh CLSRIL-23](https://github.com/Open-Speech-EkStep/vakyansh-models) ⭐ 328 | 🐛 8 | 📅 2022-09-16: Pretrained wav2vec2 model trained on 10,000 hours of Speech data in 23 Indic Languages [(documentation)](https://open-speech-ekstep.github.io/) [(experimentation platform)](https://github.com/Open-Speech-EkStep/vakyansh-wav2vec2-experimentation) ⭐ 89 | 🐛 23 | 🌐 Python | 📅 2022-09-22.
 * [arijitx/wav2vec2-large-xlsr-bengali](https://huggingface.co/arijitx/wav2vec2-large-xlsr-bengali): Pretrained wav2vec2-large-xlsr trained on \~50 hrs(40,000 utterances) of OpenSLR Bengali data. Test WER 32.45% without LM.
 
 ### <a name='NER'></a>NER
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
