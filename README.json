@@ -373,6 +373,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "VarDial 2018 Language Identification Dataset",
+              "description": "5 languages - Hindi, Braj, Awadhi, Bhojpuri, Magahi.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177077935,
+                "language": null,
+                "last_commit": "2019-03-22T06:05:50Z",
+                "owner": "kmi-linguistics",
+                "repo": "vardial2018",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Language Identification"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Toxicity-200",
               "description": "Toxicity Lists for 200 languages including 27 Indian languages.",
               "children": [],
@@ -874,6 +896,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "AI4Bharat IndicMT-Eval",
+              "description": "MT evaluation datasets for 5 Indian languages in En to Indic directions (mr, hi, gu, ta, ml) with Multidimensional Quality Metric (MQM) annotations. 1400 sentence annotations per language (200 sentences and outputs from 7 MT systems).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 644923891,
+                "language": "HTML",
+                "last_commit": "2024-09-15T09:34:48Z",
+                "owner": "AI4Bharat",
+                "repo": "IndicMT-Eval",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MT Evaluation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Dakshina Dataset",
               "description": "The Dakshina dataset is a collection of text in both Latin and native scripts for 12 South Asian languages. Contains an aggregate of around 300k word pairs and 120k sentence pairs.",
               "children": [],
@@ -1003,6 +1047,28 @@
           "description": null,
           "node_type": "group",
           "title": "Text Classification"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "XNLI corpus",
+              "description": "Hindi and Urdu test sets and machine translated training sets (from English MultiNLI).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 148655352,
+                "language": null,
+                "last_commit": "2021-08-30T21:16:02Z",
+                "owner": "facebookresearch",
+                "repo": "XNLI",
+                "stars": 463
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Textual Entailment/Natural Language Inference"
         },
         {
           "children": [
@@ -1336,6 +1402,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "MIDAS-Hindi Discourse Analysis",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 225200055,
+                "language": null,
+                "last_commit": "2020-04-09T13:56:40Z",
+                "owner": "midas-research",
+                "repo": "hindi-discourse",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Discourse"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Amazon MASSIVE",
+              "description": "A Multilingual Amazon SLURP (SLU resource package) for Slot Filling, Intent Classification, and Virtual-Assistant Evaluation containing one million realistic, parallel, labeled virtual-assistant text utterances spanning 51 languages, 18 domains, 60 intents, and 55 slots. Described in this paper.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 482010194,
+                "language": "Python",
+                "last_commit": "2022-11-28T22:22:39Z",
+                "owner": "alexa",
+                "repo": "massive",
+                "stars": 564
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Information Extraction"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "JNU-BHLTR Bhojpuri Corpus",
               "description": "Bhojpuri corpus of 5000 sentences.",
               "children": [],
@@ -1440,6 +1550,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "TransMuCoRes",
+              "description": "Synthetic data in multiple Indian languages. Finetuned model included.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 761049538,
+                "language": "Python",
+                "last_commit": "2026-06-03T11:45:25Z",
+                "owner": "ritwikmishra",
+                "repo": "transmucores",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Coreference Corpus"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "XL-Sum",
               "description": "A Large-Scale Multilingual Abstractive Summarization for 44 Languages with a comprehensive and diverse dataset comprising of 1 million professionally annotated article-summary pairs from BBC. Span 150k examples across 10 Indic languages. Described in this paper.",
               "children": [],
@@ -1487,6 +1619,28 @@
           "description": null,
           "node_type": "group",
           "title": "Summarization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "XAlign",
+              "description": "Cross-lingual Fact-to-Text Alignment and Generation for Low-Resource Languages comprising of a high quality XF2T dataset in 7 languages: Hindi, Marathi, Gujarati, Telugu, Tamil, Kannada, Bengali, and monolingual dataset in English. The dataset is available upon request. Described in this paper.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 466246598,
+                "language": "Python",
+                "last_commit": "2023-01-01T19:07:19Z",
+                "owner": "tushar117",
+                "repo": "XAlign",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data to Text"
         }
       ],
       "title": "Text Corpora"
@@ -1494,6 +1648,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NLLB-200",
+              "description": "LID for 200 languages including 27 Indic languages.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 101782647,
+                "language": "Python",
+                "last_commit": "2025-09-30T11:16:06Z",
+                "owner": "facebookresearch",
+                "repo": "fairseq",
+                "stars": 32234
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Language Identification"
+        },
         {
           "children": [
             {
@@ -1649,6 +1825,94 @@
           "description": null,
           "node_type": "group",
           "title": "Multilingual Word Embeddings"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AI4Bharat IndicNLP Project",
+              "description": "Unsupervised morphanalyzers for 10 Indian languages learnt using morfessor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260000408,
+                "language": "Python",
+                "last_commit": "2023-04-16T13:05:27Z",
+                "owner": "AI4Bharat",
+                "repo": "indicnlp_corpus",
+                "stars": 206
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Morphanalyzers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NLLB-200",
+              "description": "Models for 200 languages including 27 Indic languages.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 101782647,
+                "language": "Python",
+                "last_commit": "2025-09-30T11:16:06Z",
+                "owner": "facebookresearch",
+                "repo": "fairseq",
+                "stars": 32234
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Translation Models"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vakyansh CLSRIL-23",
+              "description": "Pretrained wav2vec2 model trained on 10,000 hours of Speech data in 23 Indic Languages (documentation) (experimentation platform).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 348604930,
+                "language": null,
+                "last_commit": "2022-09-16T06:05:39Z",
+                "owner": "Open-Speech-EkStep",
+                "repo": "vakyansh-models",
+                "stars": 328
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Speech Models"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CFILT HiNER",
+              "description": "Hindi NER models trained on CFILT HiNER dataset. Described in this paper.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 481324612,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-06-06T15:52:22Z",
+                "owner": "cfiltnlp",
+                "repo": "HiNER",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "NER"
         }
       ],
       "title": "Models"
@@ -1688,6 +1952,48 @@
         }
       ],
       "title": "Speech Corpora"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SynthTextHindi",
+          "description": "(Dataset link)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 197420032,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-07-17T21:12:32Z",
+            "owner": "jaya-ingle",
+            "repo": "SynthTextHindi",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "OCR Corpora"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "English-Hindi Flickr 8k",
+          "description": "A subset of images from Flickr8k images captioned by native speakers in both English and Hindi. Code and data available here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 229151198,
+            "language": "Python",
+            "last_commit": "2021-03-22T04:56:38Z",
+            "owner": "madaan",
+            "repo": "PML4DC-Comparable-Data-Collection",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Multimodal Corpora"
     },
     {
       "description": "Pointers to language-specific NLP resource catalogs",
@@ -1757,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:36:53.985Z",
+    "last_updated": "2026-08-24T14:19:51.901Z",
     "original_repository": "AI4Bharat/indicnlp_catalog",
     "original_repository_id": 205125725,
     "original_repository_sha": "7c608d6fddbecae59ddfd110cf4ff0bd14e4d2d0",

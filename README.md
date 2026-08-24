@@ -245,8 +245,8 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='MTEvaluation'></a>MT Evaluation
 
-* [WMT23 QE task](https://wmt-qe-task.github.io):  QE datasets for 5 Indian languages in En to Indic directions (mr, hi, gu, ta, te) with DA annotations. The references are also available, so these can also be used for reference based metrics. For Marathi, post-edits are also available as are word-level annotations error annotations are also available. 26k training sentences for Marathi, 7k for the others.   [report](https://aclanthology.org/2023.wmt-1.52)
 * [AI4Bharat IndicMT-Eval](https://github.com/AI4Bharat/IndicMT-Eval) ⭐ 6 | 🐛 3 | 🌐 HTML | 📅 2024-09-15: MT evaluation datasets for 5 Indian languages in En to Indic directions (mr, hi, gu, ta, ml) with Multidimensional Quality Metric (MQM) annotations. 1400 sentence annotations per language (200 sentences and outputs from 7 MT systems).
+* [WMT23 QE task](https://wmt-qe-task.github.io):  QE datasets for 5 Indian languages in En to Indic directions (mr, hi, gu, ta, te) with DA annotations. The references are also available, so these can also be used for reference based metrics. For Marathi, post-edits are also available as are word-level annotations error annotations are also available. 26k training sentences for Marathi, 7k for the others.   [report](https://aclanthology.org/2023.wmt-1.52)
 
 ### <a name='ParallelTransliterationCorpus'></a>Parallel Transliteration Corpus
 
@@ -330,9 +330,9 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='InformationExtraction'></a>Information Extraction
 
+* [Amazon MASSIVE](https://github.com/alexa/massive) ⭐ 564 | 🐛 4 | 🌐 Python | 📅 2022-11-28: A Multilingual Amazon SLURP (SLU resource package) for Slot Filling, Intent Classification, and Virtual-Assistant Evaluation containing one million realistic, parallel, labeled virtual-assistant text utterances spanning 51 languages, 18 domains, 60 intents, and 55 slots. Described in [this paper](https://arxiv.org/abs/2204.08582).
 * [EventXtract-IL](http://78.46.86.133/EventXtractionIL-FIRE2018): Event extraction for Tamil and Hindi. Described in [this paper](http://ceur-ws.org/Vol-2266/T5-1.pdf).
 * \[EDNIL-FIRE2020]<https://ednilfire.github.io/ednil/2020/index.html>): Event extraction for Tamil, Hindi, Bengali, Marathi, English. Described in [this paper](http://ceur-ws.org/Vol-2266/T5-1.pdf).
-* [Amazon MASSIVE](https://github.com/alexa/massive) ⭐ 564 | 🐛 4 | 🌐 Python | 📅 2022-11-28: A Multilingual Amazon SLURP (SLU resource package) for Slot Filling, Intent Classification, and Virtual-Assistant Evaluation containing one million realistic, parallel, labeled virtual-assistant text utterances spanning 51 languages, 18 domains, 60 intents, and 55 slots. Described in [this paper](https://arxiv.org/abs/2204.08582).
 * [Facebook - MTOP Benchmark](https://fb.me/mtop_dataset): A Comprehensive Multilingual Task-Oriented Semantic Parsing Benchmark with a dataset comprising of 100k annotated utterances in 6 languages(including Indic language: Hindi) across 11 domains. Described in [this paper](https://arxiv.org/pdf/2008.09335.pdf).
 
 ### <a name='POSTaggedcorpus'></a>POS Tagged corpus
@@ -362,9 +362,9 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='CoreferenceCorpus'></a>Coreference Corpus
 
+* [TransMuCoRes](https://github.com/ritwikmishra/transmucores) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-06-03: Synthetic data in multiple Indian languages. Finetuned model included.
 * [IIITH Coreference Anaphora Annotated Data](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi/): Hindi
 * [IIITH Coreference Annotated Data](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi/): Hindi
-* [TransMuCoRes](https://github.com/ritwikmishra/transmucores) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-06-03: Synthetic data in multiple Indian languages. Finetuned model included.
 
 ### <a name='Summarization'></a>Summarization
 
@@ -421,10 +421,10 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='TranslationModels'></a>Translation Models
 
+* [NLLB-200](https://github.com/facebookresearch/fairseq/tree/nllb#open-sourced-models-and-community-integrations) ⚠️ Archived: Models for 200 languages including 27 Indic languages.
 * [IndicTrans](https://ai4bharat.iitm.ac.in/indic-trans): Multilingual neural translation models for translation between English and 11 Indian languages. Supports translation between Indian langauges as well. A total of 110 translation directions are supported.
 * [Shata-Anuvaadak](http://www.cfilt.iitb.ac.in/~moses/shata_anuvaadak/): SMT for 110 language pairs (all pairs between English and 10 Indian languages.
 * [LTRC Vanee](https://ltrc.iiit.ac.in/downloads/tools/Vaanee.tgz): Dependency based Statistical MT system from English to Hindi.
-* [NLLB-200](https://github.com/facebookresearch/fairseq/tree/nllb#open-sourced-models-and-community-integrations) ⚠️ Archived: Models for 200 languages including 27 Indic languages.
 
 ### <a name='TransliterationModels'></a>Transliteration Models
 
@@ -432,16 +432,16 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='SpeechModels'></a>Speech Models
 
-* [AI4Bharat IndicWav2Vec](https://ai4bharat.iitm.ac.in/indic-wav-2-vec): Multilingual pre-trained models for 40 Indian languages based on Wav2Vec 2.0.
 * [Vakyansh CLSRIL-23](https://github.com/Open-Speech-EkStep/vakyansh-models) ⭐ 328 | 🐛 8 | 📅 2022-09-16: Pretrained wav2vec2 model trained on 10,000 hours of Speech data in 23 Indic Languages [(documentation)](https://open-speech-ekstep.github.io/) [(experimentation platform)](https://github.com/Open-Speech-EkStep/vakyansh-wav2vec2-experimentation) ⭐ 89 | 🐛 23 | 🌐 Python | 📅 2022-09-22.
+* [AI4Bharat IndicWav2Vec](https://ai4bharat.iitm.ac.in/indic-wav-2-vec): Multilingual pre-trained models for 40 Indian languages based on Wav2Vec 2.0.
 * [arijitx/wav2vec2-large-xlsr-bengali](https://huggingface.co/arijitx/wav2vec2-large-xlsr-bengali): Pretrained wav2vec2-large-xlsr trained on \~50 hrs(40,000 utterances) of OpenSLR Bengali data. Test WER 32.45% without LM.
 
 ### <a name='NER'></a>NER
 
+* [CFILT HiNER](https://github.com/cfiltnlp/hiner#models) ⭐ 17 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-06-06: Hindi NER models trained on CFILT HiNER dataset. Described in [this paper](https://arxiv.org/abs/2204.13743).
 * [AI4Bharat IndicNER](https://huggingface.co/ai4bharat/IndicNER): NER model for 11 Indic languages.
 * [AsNER](https://arxiv.org/ftp/arxiv/papers/2207/2207.03422.pdf): A Baseline Assamese NER model.
 * [L3Cube-MahaNER-BERT](https://huggingface.co/l3cube-pune/marathi-ner): A 752 million token multilingual BERT model. Described in [this paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/WILDRE6/pdf/2022.wildre6-1.6.pdf).
-* [CFILT HiNER](https://github.com/cfiltnlp/hiner#models) ⭐ 17 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-06-06: Hindi NER models trained on CFILT HiNER dataset. Described in [this paper](https://arxiv.org/abs/2204.13743).
 
 ## <a name='SpeechCorpora'></a>Speech Corpora
 
@@ -476,14 +476,14 @@ Benchmarks spanning multiple tasks.
 
 ## <a name='OCRCorpora'></a>OCR Corpora
 
+* [SynthTextHindi](https://github.com/IngleJaya95/SynthTextHindi) ⭐ 2 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2019-07-17 ([Dataset link](https://ai4bharat.org/articles/sign-board))
 * [Kannada MNIST](https://www.kaggle.com/higgstachyon/kannada-mnist) ([Paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.800.pdf))
 * [Devanagari MNIST](https://www.kaggle.com/ashokpant/devanagari-character-dataset-large)
-* [SynthTextHindi](https://github.com/IngleJaya95/SynthTextHindi) ⭐ 2 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2019-07-17 ([Dataset link](https://ai4bharat.org/articles/sign-board))
 
 ## <a name='MultimodalCorpora'></a>Multimodal Corpora
 
-* [English-Hindi Visual Genome](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2997): Images captioned in both English and Hindi.
 * [English-Hindi Flickr 8k](https://arxiv.org/pdf/2004.11954.pdf): A subset of images from [Flickr8k](https://jair.org/index.php/jair/article/view/10833) images captioned by native speakers in both English and Hindi. Code and data available [here](https://github.com/madaan/PML4DC-Comparable-Data-Collection) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2021-03-22.
+* [English-Hindi Visual Genome](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2997): Images captioned in both English and Hindi.
 
 ## <a name='LanguageSpecificCatalogs'></a>Language Specific Catalogs
 
