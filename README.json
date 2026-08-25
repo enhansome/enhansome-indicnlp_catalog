@@ -659,7 +659,7 @@
                 "last_commit": "2025-10-03T07:05:20Z",
                 "owner": "AI4Bharat",
                 "repo": "IndicTrans2",
-                "stars": 461
+                "stars": 462
               }
             },
             {
@@ -1662,7 +1662,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32235
+                "stars": 32234
               }
             }
           ],
@@ -1736,7 +1736,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32235
+                "stars": 32234
               }
             },
             {
@@ -1862,7 +1862,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32235
+                "stars": 32234
               }
             }
           ],
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:12:29.150Z",
+    "last_updated": "2026-08-25T13:35:01.189Z",
     "original_repository": "AI4Bharat/indicnlp_catalog",
     "original_repository_id": 205125725,
     "original_repository_sha": "7c608d6fddbecae59ddfd110cf4ff0bd14e4d2d0",
