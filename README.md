@@ -132,7 +132,7 @@ Benchmarks spanning multiple tasks.
 * [KMI Linguistics Bodo](https://github.com/kmi-linguistics/bodo) ⭐ 5 | 🐛 0 | 📅 2020-07-31: Contains the Bodo corpus and the frequency-ordered word and punctuation list.
 * [Kangri\_corpus](https://github.com/chauhanshweta/Kangri_corpus) ⭐ 5 | 🐛 0 | 📅 2024-07-27: Monolingual corpus of Himachali low resource endangered language, Kangri comprising of 1,81,552 sentences. Described in [this paper](https://arxiv.org/abs/2103.11596).
 * [KMI Magahi Corpus](https://github.com/kmi-linguistics/magahi) ⭐ 3 | 🐛 0 | 🌐 Java | 📅 2020-07-30:
-* [KMI Awadhi Corpus](https://github.com/kmi-linguistics/awadhi) ⭐ 0 | 🐛 0 | 📅 2017-09-08:
+* [KMI Awadhi Corpus](https://github.com/kmi-linguistics/awadhi) ⭐ 1 | 🐛 0 | 📅 2017-09-08:
 * [FacebookDecadeCorpora](https://github.com/samithaj/FacebookDecadeCorpora) ⭐ 0 | 🐛 0 | 📅 2020-07-15: Contains two language corpora of colloquial Sinhala content extracted from Facebook using the Crowdtangle platform. The larger corpus contains 28,825,820 to 29,549,672 words of text, mostly in Sinhala, English and Tamil and the smaller corpus amounts to 5,402,76 words of only Sinhala text extracted from Corpus-Alpha. Described in [this paper](https://arxiv.org/ftp/arxiv/papers/2007/2007.07884.pdf).
 * \[AIBharat IndicCorp]: Text corpora for Indian languages
   * [v2](https://github.com/AI4Bharat/IndicBERT?tab=readme-ov-file#indiccorp-v2) ⭐ 123 | 🐛 17 | 🌐 Python | 📅 2025-04-06: contains 20 billion tokens from 22 Indian languages (including Indian English). \[[paper](https://aclanthology.org/2023.acl-long.693/)]
@@ -339,7 +339,7 @@ Benchmarks spanning multiple tasks.
 
 * [JNU-BHLTR Bhojpuri Corpus](https://github.com/shashwatup9k/bho-resources/tree/master/mono-bho-corpus) ⭐ 5 | 🐛 0 | 📅 2026-06-12: Bhojpuri corpus of 5000 sentences.
 * [KMI Magahi Corpus](https://github.com/kmi-linguistics/magahi) ⭐ 3 | 🐛 0 | 🌐 Java | 📅 2020-07-30:
-* [KMI Awadhi Corpus](https://github.com/kmi-linguistics/awadhi) ⭐ 0 | 🐛 0 | 📅 2017-09-08:
+* [KMI Awadhi Corpus](https://github.com/kmi-linguistics/awadhi) ⭐ 1 | 🐛 0 | 📅 2017-09-08:
 * [Indian Language Corpora Initiative](http://sanskrit.jnu.ac.in/ilci/index.jsp)
 * [Universal Dependencies](https://universaldependencies.org/)
 * [IIITH Paninian Treebank](https://kcis.iiit.ac.in/LT/): POS annotations for hi, bn, kn, ml and mr.
@@ -353,7 +353,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='DependencyParseCorpus'></a>Dependency Parse Corpus
 
-* [Vedic Sanskrit Treebank](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2020lrec) ⭐ 162 | 🐛 10 | 🌐 Python | 📅 2026-03-05: 4k Sanskrit dependency treebank \[[paper](https://www.aclweb.org/anthology/2020.lrec-1.632.pdf)]
+* [Vedic Sanskrit Treebank](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2020lrec) ⭐ 162 | 🐛 10 | 🌐 Python | 📅 2026-08-24: 4k Sanskrit dependency treebank \[[paper](https://www.aclweb.org/anthology/2020.lrec-1.632.pdf)]
 * [Universal Dependencies Hindi Treebank](https://github.com/UniversalDependencies/UD_Hindi-HDTB) ⭐ 24 | 🐛 2 | 📅 2026-05-06
 * [Universal Dependencies Urdu Treebank](https://github.com/UniversalDependencies/UD_Urdu-UDTB) ⭐ 9 | 🐛 1 | 📅 2026-05-06
 * [IIIT Hyderabad Hindi Treebank](http://tdil-dc.in/index.php?option=com_download\&task=showresourceDetails\&toolid=1977\&lang=en)
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

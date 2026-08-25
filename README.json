@@ -309,7 +309,7 @@
                 "last_commit": "2017-09-08T18:12:14Z",
                 "owner": "kmi-linguistics",
                 "repo": "awadhi",
-                "stars": 0
+                "stars": 1
               }
             },
             {
@@ -1486,7 +1486,7 @@
                 "last_commit": "2017-09-08T18:12:14Z",
                 "owner": "kmi-linguistics",
                 "repo": "awadhi",
-                "stars": 0
+                "stars": 1
               }
             }
           ],
@@ -1505,7 +1505,7 @@
                 "archived": false,
                 "id": 145212180,
                 "language": "Python",
-                "last_commit": "2026-03-05T18:37:43Z",
+                "last_commit": "2026-08-24T18:33:32Z",
                 "owner": "OliverHellwig",
                 "repo": "sanskrit",
                 "stars": 162
@@ -1662,7 +1662,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32234
+                "stars": 32235
               }
             }
           ],
@@ -1721,7 +1721,7 @@
                 "last_commit": "2024-07-23T23:39:41Z",
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40046
+                "stars": 40045
               }
             },
             {
@@ -1736,7 +1736,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32234
+                "stars": 32235
               }
             },
             {
@@ -1862,7 +1862,7 @@
                 "last_commit": "2025-09-30T11:16:06Z",
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32234
+                "stars": 32235
               }
             }
           ],
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:19:51.901Z",
+    "last_updated": "2026-08-25T06:12:29.150Z",
     "original_repository": "AI4Bharat/indicnlp_catalog",
     "original_repository_id": 205125725,
     "original_repository_sha": "7c608d6fddbecae59ddfd110cf4ff0bd14e4d2d0",
