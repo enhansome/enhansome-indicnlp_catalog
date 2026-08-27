@@ -344,7 +344,7 @@
                     "last_commit": "2025-04-06T21:35:01Z",
                     "owner": "AI4Bharat",
                     "repo": "IndicBERT",
-                    "stars": 123
+                    "stars": 122
                   }
                 },
                 {
@@ -659,7 +659,7 @@
                 "last_commit": "2025-10-03T07:05:20Z",
                 "owner": "AI4Bharat",
                 "repo": "IndicTrans2",
-                "stars": 462
+                "stars": 463
               }
             },
             {
@@ -1434,7 +1434,7 @@
                 "last_commit": "2022-11-28T22:22:39Z",
                 "owner": "alexa",
                 "repo": "massive",
-                "stars": 564
+                "stars": 565
               }
             }
           ],
@@ -2063,9 +2063,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:40:12.802Z",
-    "original_repository": "AI4Bharat/indicnlp_catalog",
-    "original_repository_id": 205125725,
+    "last_updated": "2026-08-27T11:43:31.791Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 205125725,
+      "language": null,
+      "last_commit": "2024-12-14T02:21:43Z",
+      "owner": "AI4Bharat",
+      "repo": "indicnlp_catalog",
+      "stars": 638
+    },
     "original_repository_sha": "7c608d6fddbecae59ddfd110cf4ff0bd14e4d2d0",
     "enhanced_repository": "enhansome/enhansome-indicnlp_catalog",
     "enhanced_repository_description": null,

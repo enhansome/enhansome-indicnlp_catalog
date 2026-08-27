@@ -135,7 +135,7 @@ Benchmarks spanning multiple tasks.
 * [KMI Awadhi Corpus](https://github.com/kmi-linguistics/awadhi) ⭐ 1 | 🐛 0 | 📅 2017-09-08:
 * [FacebookDecadeCorpora](https://github.com/samithaj/FacebookDecadeCorpora) ⭐ 0 | 🐛 0 | 📅 2020-07-15: Contains two language corpora of colloquial Sinhala content extracted from Facebook using the Crowdtangle platform. The larger corpus contains 28,825,820 to 29,549,672 words of text, mostly in Sinhala, English and Tamil and the smaller corpus amounts to 5,402,76 words of only Sinhala text extracted from Corpus-Alpha. Described in [this paper](https://arxiv.org/ftp/arxiv/papers/2007/2007.07884.pdf).
 * \[AIBharat IndicCorp]: Text corpora for Indian languages
-  * [v2](https://github.com/AI4Bharat/IndicBERT?tab=readme-ov-file#indiccorp-v2) ⭐ 123 | 🐛 17 | 🌐 Python | 📅 2025-04-06: contains 20 billion tokens from 22 Indian languages (including Indian English). \[[paper](https://aclanthology.org/2023.acl-long.693/)]
+  * [v2](https://github.com/AI4Bharat/IndicBERT?tab=readme-ov-file#indiccorp-v2) ⭐ 122 | 🐛 17 | 🌐 Python | 📅 2025-04-06: contains 20 billion tokens from 22 Indian languages (including Indian English). \[[paper](https://aclanthology.org/2023.acl-long.693/)]
   * [v1](https://github.com/AI4Bharat/indicnlp_suite/blob/master/README.md#indiccorp) ⭐ 2 | 🐛 1 | 📅 2024-01-01: contains 8.9 billion tokens from 12 Indian languages (including Indian English). \[[paper](https://aclanthology.org/2020.findings-emnlp.445)]
 * [Wikipedia Dumps](https://dumps.wikimedia.org)
 * Common Crawl
@@ -195,7 +195,7 @@ Benchmarks spanning multiple tasks.
 * [FLORES dataset](https://github.com/facebookresearch/flores) ⚠️ Archived: English-Sinhala and English-Nepali corpora
 * [NLLB-Seed](https://github.com/facebookresearch/flores/tree/main/nllb_seed) ⚠️ Archived: Small human-translated parallel corpora from Wikipedia articles for very low resource languages. Includes 5 Indian languages: Kashmiri, Manipuri, Maithili, Bhojpuri, Chattisgarhi.
 * [NLLB-MD](https://github.com/facebookresearch/flores/tree/main/nllb_seed) ⚠️ Archived: NLLB Multi Domain is a set of professionally-translated sentences in News, Unscripted informal speech, and Health domains. Cover Bhojpuri amongst Indian languages.
-* [BPCC Parallel Corpus](https://github.com/ai4bharat/IndicTrans2/?tab=readme-ov-file#data) ⭐ 462 | 🐛 16 | 🌐 Python | 📅 2025-10-03: Largest parallel corpus for English and 22 Indian languages (as of Jan 2024). It comprises 230 million sentence pairs between English-Indian languages. A subset of this corpus is the BPCC-Human Corpus containing 2.2 English-Indic pairs for 22 Indic languages.
+* [BPCC Parallel Corpus](https://github.com/ai4bharat/IndicTrans2/?tab=readme-ov-file#data) ⭐ 463 | 🐛 16 | 🌐 Python | 📅 2025-10-03: Largest parallel corpus for English and 22 Indian languages (as of Jan 2024). It comprises 230 million sentence pairs between English-Indian languages. A subset of this corpus is the BPCC-Human Corpus containing 2.2 English-Indic pairs for 22 Indic languages.
 * [TED Parallel Corpus](https://github.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus) ⭐ 257 | 🐛 9 | 📅 2016-01-04
 * [BUET English-Bangla Corpus, EMNLP-2020](https://github.com/csebuetnlp/banglanmt) ⭐ 156 | 🐛 0 | 🌐 Python | 📅 2024-10-23: 2.7M sentences (has overlaps with OPUS)
 * [Itihasa Parallel Corpus](https://github.com/rahular/itihasa) ⭐ 85 | 🐛 1 | 📅 2023-03-20: 93k parallel sentences between English and Sanskrit from the Ramanyana and Mahabharata.
@@ -330,7 +330,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='InformationExtraction'></a>Information Extraction
 
-* [Amazon MASSIVE](https://github.com/alexa/massive) ⭐ 564 | 🐛 4 | 🌐 Python | 📅 2022-11-28: A Multilingual Amazon SLURP (SLU resource package) for Slot Filling, Intent Classification, and Virtual-Assistant Evaluation containing one million realistic, parallel, labeled virtual-assistant text utterances spanning 51 languages, 18 domains, 60 intents, and 55 slots. Described in [this paper](https://arxiv.org/abs/2204.08582).
+* [Amazon MASSIVE](https://github.com/alexa/massive) ⭐ 565 | 🐛 4 | 🌐 Python | 📅 2022-11-28: A Multilingual Amazon SLURP (SLU resource package) for Slot Filling, Intent Classification, and Virtual-Assistant Evaluation containing one million realistic, parallel, labeled virtual-assistant text utterances spanning 51 languages, 18 domains, 60 intents, and 55 slots. Described in [this paper](https://arxiv.org/abs/2204.08582).
 * [EventXtract-IL](http://78.46.86.133/EventXtractionIL-FIRE2018): Event extraction for Tamil and Hindi. Described in [this paper](http://ceur-ws.org/Vol-2266/T5-1.pdf).
 * \[EDNIL-FIRE2020]<https://ednilfire.github.io/ednil/2020/index.html>): Event extraction for Tamil, Hindi, Bengali, Marathi, English. Described in [this paper](http://ceur-ws.org/Vol-2266/T5-1.pdf).
 * [Facebook - MTOP Benchmark](https://fb.me/mtop_dataset): A Comprehensive Multilingual Task-Oriented Semantic Parsing Benchmark with a dataset comprising of 100k annotated utterances in 6 languages(including Indic language: Hindi) across 11 domains. Described in [this paper](https://arxiv.org/pdf/2008.09335.pdf).
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
