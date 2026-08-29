@@ -1027,7 +1027,7 @@
                 "open_issues": 16,
                 "owner": "AI4Bharat",
                 "repo": "IndicTrans2",
-                "stars": 464,
+                "stars": 465,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2638,7 +2638,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40046,
+                "stars": 40047,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:38:30.787Z",
+    "last_updated": "2026-08-29T16:52:24.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
