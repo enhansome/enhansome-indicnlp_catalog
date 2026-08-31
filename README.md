@@ -399,7 +399,7 @@ Benchmarks spanning multiple tasks.
 * [LASER3](https://github.com/facebookresearch/fairseq/tree/nllb#laser3-encoder-models) ⚠️ Archived: Encoder models suitable for sentence retrieval tasks supporting 200 languages (including 27 Indic languges).
 * [iNLTK](https://github.com/goru001/inltk) ⭐ 837 | 🐛 39 | 🌐 Python | 📅 2024-01-20: ULMFit and TransformerXL pre-trained embeddings for many languages trained on Wikipedia and some News articles.
 * [BanglaBERT](https://github.com/csebuetnlp/banglabert) ⭐ 254 | 🐛 0 | 🌐 Python | 📅 2023-01-24: Language Model Pretraining and Benchmarks for Low-Resource Language Understanding Evaluation in Bangla. Described in [this paper](https://arxiv.org/abs/2101.00204).
-* [Bangla-BERT-Base](https://github.com/sagorbrur/bangla-bert) ⭐ 83 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-04-29: Bengali BERT model trained on Bengali wikipedia and OSCAR datasets.
+* [Bangla-BERT-Base](https://github.com/sagorbrur/bangla-bert) ⭐ 84 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-04-29: Bengali BERT model trained on Bengali wikipedia and OSCAR datasets.
 * [AI4Bharat IndicBERT](https://ai4bharat.iitm.ac.in/indic-bert): Multilingual ALBERT based embeddings spanning 12 languages for Natural Language Understanding (including Indian English).
 * [AI4Bharat IndicBART](https://ai4bharat.iitm.ac.in/indic-bart): A multilingual,sequence-to-sequence pre-trained model based on the mBART architecture focusing on 11 Indic languages and English for Natural Language Generation of Indic Languages. Described in [this paper](https://arxiv.org/abs/2109.02903).
 * [MuRIL](https://huggingface.co/google/muril-base-cased): Multilingual mBERT based embeddings spanning 17 languages and their transliterated counterparts for Natural Language Understanding [(paper)](https://arxiv.org/abs/2103.10730).
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
