@@ -51,7 +51,7 @@
             "open_issues": 39,
             "owner": "goru001",
             "repo": "inltk",
-            "stars": 837,
+            "stars": 838,
             "topics": [
               "data-augmentation",
               "deep-learning",
@@ -104,7 +104,7 @@
             "open_issues": 34,
             "owner": "anoopkunchukuttan",
             "repo": "indic_nlp_library",
-            "stars": 645,
+            "stars": 646,
             "topics": [
               "indian-languages",
               "natural-language-processing",
@@ -1518,7 +1518,7 @@
                 "open_issues": 39,
                 "owner": "goru001",
                 "repo": "inltk",
-                "stars": 837,
+                "stars": 838,
                 "topics": [
                   "data-augmentation",
                   "deep-learning",
@@ -2638,7 +2638,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40046,
+                "stars": 40045,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -2690,7 +2690,7 @@
                 "open_issues": 39,
                 "owner": "goru001",
                 "repo": "inltk",
-                "stars": 837,
+                "stars": 838,
                 "topics": [
                   "data-augmentation",
                   "deep-learning",
@@ -3099,7 +3099,7 @@
             "open_issues": 0,
             "owner": "amitness",
             "repo": "ml-datasets",
-            "stars": 194,
+            "stars": 193,
             "topics": [
               "dataset",
               "machine-learning-datasets",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T16:51:48.127Z",
+    "last_updated": "2026-09-03T16:41:12.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
