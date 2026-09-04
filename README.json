@@ -1027,7 +1027,7 @@
                 "open_issues": 16,
                 "owner": "AI4Bharat",
                 "repo": "IndicTrans2",
-                "stars": 468,
+                "stars": 469,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2316,7 +2316,7 @@
                 "open_issues": 10,
                 "owner": "OliverHellwig",
                 "repo": "sanskrit",
-                "stars": 163,
+                "stars": 164,
                 "topics": [
                   "ancient-languages",
                   "corpus-linguistics",
@@ -2338,7 +2338,7 @@
                 "id": 35936963,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-05-06T19:07:15Z",
+                "last_commit": "2026-09-04T14:47:44Z",
                 "open_issues": 2,
                 "owner": "UniversalDependencies",
                 "repo": "UD_Hindi-HDTB",
@@ -2359,7 +2359,7 @@
                 "id": 67670847,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-05-06T19:15:45Z",
+                "last_commit": "2026-09-04T12:35:34Z",
                 "open_issues": 1,
                 "owner": "UniversalDependencies",
                 "repo": "UD_Urdu-UDTB",
@@ -2638,7 +2638,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40045,
+                "stars": 40044,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T16:41:12.986Z",
+    "last_updated": "2026-09-04T16:36:07.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
