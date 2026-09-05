@@ -2638,7 +2638,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40044,
+                "stars": 40043,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -2918,7 +2918,7 @@
                 "open_issues": 8,
                 "owner": "Open-Speech-EkStep",
                 "repo": "vakyansh-models",
-                "stars": 328,
+                "stars": 329,
                 "topics": [
                   "indic-languages",
                   "speech-recognition",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:36:07.080Z",
+    "last_updated": "2026-09-05T15:33:32.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",

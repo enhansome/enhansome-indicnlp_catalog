@@ -432,7 +432,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='SpeechModels'></a>Speech Models
 
-* [Vakyansh CLSRIL-23](https://github.com/Open-Speech-EkStep/vakyansh-models) ⭐ 328 | 🐛 8 | 📅 2022-09-16: Pretrained wav2vec2 model trained on 10,000 hours of Speech data in 23 Indic Languages [(documentation)](https://open-speech-ekstep.github.io/) [(experimentation platform)](https://github.com/Open-Speech-EkStep/vakyansh-wav2vec2-experimentation) ⭐ 90 | 🐛 23 | 🌐 Python | 📅 2022-09-22.
+* [Vakyansh CLSRIL-23](https://github.com/Open-Speech-EkStep/vakyansh-models) ⭐ 329 | 🐛 8 | 📅 2022-09-16: Pretrained wav2vec2 model trained on 10,000 hours of Speech data in 23 Indic Languages [(documentation)](https://open-speech-ekstep.github.io/) [(experimentation platform)](https://github.com/Open-Speech-EkStep/vakyansh-wav2vec2-experimentation) ⭐ 90 | 🐛 23 | 🌐 Python | 📅 2022-09-22.
 * [AI4Bharat IndicWav2Vec](https://ai4bharat.iitm.ac.in/indic-wav-2-vec): Multilingual pre-trained models for 40 Indian languages based on Wav2Vec 2.0.
 * [arijitx/wav2vec2-large-xlsr-bengali](https://huggingface.co/arijitx/wav2vec2-large-xlsr-bengali): Pretrained wav2vec2-large-xlsr trained on \~50 hrs(40,000 utterances) of OpenSLR Bengali data. Test WER 32.45% without LM.
 
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
