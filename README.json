@@ -1982,7 +1982,7 @@
                 "open_issues": 3,
                 "owner": "google-deepmind",
                 "repo": "xquad",
-                "stars": 212,
+                "stars": 213,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2211,7 +2211,7 @@
                 "open_issues": 4,
                 "owner": "alexa",
                 "repo": "massive",
-                "stars": 565,
+                "stars": 566,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2338,7 +2338,7 @@
                 "id": 35936963,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T14:47:44Z",
+                "last_commit": "2026-09-06T07:57:55Z",
                 "open_issues": 2,
                 "owner": "UniversalDependencies",
                 "repo": "UD_Hindi-HDTB",
@@ -2359,7 +2359,7 @@
                 "id": 67670847,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T12:35:34Z",
+                "last_commit": "2026-09-06T07:56:23Z",
                 "open_issues": 1,
                 "owner": "UniversalDependencies",
                 "repo": "UD_Urdu-UDTB",
@@ -2549,7 +2549,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32230,
+                "stars": 32231,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2638,7 +2638,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40043,
+                "stars": 40044,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -2665,7 +2665,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32230,
+                "stars": 32231,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2886,7 +2886,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32230,
+                "stars": 32231,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -3099,7 +3099,7 @@
             "open_issues": 0,
             "owner": "amitness",
             "repo": "ml-datasets",
-            "stars": 193,
+            "stars": 192,
             "topics": [
               "dataset",
               "machine-learning-datasets",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T15:33:32.860Z",
+    "last_updated": "2026-09-06T15:47:37.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",

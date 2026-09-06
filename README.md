@@ -308,7 +308,7 @@ Benchmarks spanning multiple tasks.
 
 * [TyDi QA datasets](https://github.com/google-research-datasets/tydiqa) ⚠️ Archived: QA dataset for Bengali and Telugu.
 * [Facebook Multilingual QA datasets](https://github.com/facebookresearch/MLQA) ⚠️ Archived: Contains dev and test sets for Hindi.
-* [XQuAD](https://github.com/deepmind/xquad) ⭐ 212 | 🐛 3 | 📅 2021-11-12: testset for Hindi QA from human translation of subset of SQuAD v1.1. Described in [this paper](https://arxiv.org/abs/1910.11856)
+* [XQuAD](https://github.com/deepmind/xquad) ⭐ 213 | 🐛 3 | 📅 2021-11-12: testset for Hindi QA from human translation of subset of SQuAD v1.1. Described in [this paper](https://arxiv.org/abs/1910.11856)
 * [XQA](http://github.com/thunlp/XQA) ⭐ 89 | 🐛 2 | 🌐 Python | 📅 2021-11-16: testset for Tamil QA. Described in [this paper](https://www.aclweb.org/anthology/P19-1227.pdf)
 * [XOR QA](https://github.com/AkariAsai/XORQA) ⭐ 80 | 🐛 1 | 🌐 Python | 📅 2021-06-03: A large-scale cross-lingual open-retrieval QA dataset (includes Bengali and Telugu) with 40k newly annotated open-retrieval questions that cover seven typologically diverse languages. Described in [this paper](https://arxiv.org/pdf/2010.11856.pdf). More information is available [here](https://nlp.cs.washington.edu/xorqa/).
 * [IITH HiDG](https://github.com/kaushal0494/ZmBART) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-03-19: A Distractor Generation [Dataset](https://drive.google.com/drive/folders/1XlY9yOfk0XcfHNO5k0QGsbLQU1nMekG-) for Hindi consisting of 1k/1k/5k (train/validation/test) split. Described in [this paper](https://arxiv.org/pdf/2106.01597.pdf)
@@ -330,7 +330,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='InformationExtraction'></a>Information Extraction
 
-* [Amazon MASSIVE](https://github.com/alexa/massive) ⭐ 565 | 🐛 4 | 🌐 Python | 📅 2022-11-28: A Multilingual Amazon SLURP (SLU resource package) for Slot Filling, Intent Classification, and Virtual-Assistant Evaluation containing one million realistic, parallel, labeled virtual-assistant text utterances spanning 51 languages, 18 domains, 60 intents, and 55 slots. Described in [this paper](https://arxiv.org/abs/2204.08582).
+* [Amazon MASSIVE](https://github.com/alexa/massive) ⭐ 566 | 🐛 4 | 🌐 Python | 📅 2022-11-28: A Multilingual Amazon SLURP (SLU resource package) for Slot Filling, Intent Classification, and Virtual-Assistant Evaluation containing one million realistic, parallel, labeled virtual-assistant text utterances spanning 51 languages, 18 domains, 60 intents, and 55 slots. Described in [this paper](https://arxiv.org/abs/2204.08582).
 * [EventXtract-IL](http://78.46.86.133/EventXtractionIL-FIRE2018): Event extraction for Tamil and Hindi. Described in [this paper](http://ceur-ws.org/Vol-2266/T5-1.pdf).
 * \[EDNIL-FIRE2020]<https://ednilfire.github.io/ednil/2020/index.html>): Event extraction for Tamil, Hindi, Bengali, Marathi, English. Described in [this paper](http://ceur-ws.org/Vol-2266/T5-1.pdf).
 * [Facebook - MTOP Benchmark](https://fb.me/mtop_dataset): A Comprehensive Multilingual Task-Oriented Semantic Parsing Benchmark with a dataset comprising of 100k annotated utterances in 6 languages(including Indic language: Hindi) across 11 domains. Described in [this paper](https://arxiv.org/pdf/2008.09335.pdf).
@@ -354,8 +354,8 @@ Benchmarks spanning multiple tasks.
 ### <a name='DependencyParseCorpus'></a>Dependency Parse Corpus
 
 * [Vedic Sanskrit Treebank](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2020lrec) ⭐ 164 | 🐛 10 | 🌐 Python | 📅 2026-08-24: 4k Sanskrit dependency treebank \[[paper](https://www.aclweb.org/anthology/2020.lrec-1.632.pdf)]
-* [Universal Dependencies Hindi Treebank](https://github.com/UniversalDependencies/UD_Hindi-HDTB) ⭐ 24 | 🐛 2 | 📅 2026-09-04
-* [Universal Dependencies Urdu Treebank](https://github.com/UniversalDependencies/UD_Urdu-UDTB) ⭐ 9 | 🐛 1 | 📅 2026-09-04
+* [Universal Dependencies Hindi Treebank](https://github.com/UniversalDependencies/UD_Hindi-HDTB) ⭐ 24 | 🐛 2 | 📅 2026-09-06
+* [Universal Dependencies Urdu Treebank](https://github.com/UniversalDependencies/UD_Urdu-UDTB) ⭐ 9 | 🐛 1 | 📅 2026-09-06
 * [IIIT Hyderabad Hindi Treebank](http://tdil-dc.in/index.php?option=com_download\&task=showresourceDetails\&toolid=1977\&lang=en)
 * [Universal Dependencies](https://universaldependencies.org/)
 * [IIITH Paninian Treebank](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/kolhi): Paninian Grammar Framework annotations along with mappings to Stanford dependency annotations for hi, bn, kn, ml and mr.
@@ -489,7 +489,7 @@ Benchmarks spanning multiple tasks.
 
 Pointers to language-specific NLP resource catalogs
 
-* [Nepali](https://github.com/amitness/ml-datasets) ⭐ 193 | 🐛 0 | 📅 2023-05-13
+* [Nepali](https://github.com/amitness/ml-datasets) ⭐ 192 | 🐛 0 | 📅 2023-05-13
 * [Urdu](https://github.com/urduhack/awesome-urdu) ⭐ 80 | 🐛 2 | 📅 2021-05-11
 * [Odia](https://github.com/shantipriyap/Odia-NLP-Resource-Catalog) ⭐ 33 | 🐛 0 | 📅 2024-01-23
 * [Sinhala](https://lknlp.github.io): [\[git repo\]](https://github.com/lknlp/lknlp.github.io) ⭐ 18 | 🐛 5 | 🌐 HTML | 📅 2023-12-23
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
