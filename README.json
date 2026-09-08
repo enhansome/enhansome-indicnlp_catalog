@@ -166,7 +166,7 @@
             "id": 93286921,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-28T05:43:15Z",
+            "last_commit": "2026-09-08T12:13:44Z",
             "open_issues": 8,
             "owner": "indic-transliteration",
             "repo": "indic_transliteration_py",
@@ -1048,7 +1048,7 @@
                 "open_issues": 9,
                 "owner": "ajinkyakulkarni14",
                 "repo": "TED-Multilingual-Parallel-Corpus",
-                "stars": 257,
+                "stars": 258,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2211,7 +2211,7 @@
                 "open_issues": 4,
                 "owner": "alexa",
                 "repo": "massive",
-                "stars": 566,
+                "stars": 567,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T17:54:40.756Z",
+    "last_updated": "2026-09-08T16:51:11.489Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
