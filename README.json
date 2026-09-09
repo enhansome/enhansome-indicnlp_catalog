@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-01T22:16:44Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "cltk",
             "repo": "cltk",
             "stars": 919,
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T16:51:11.489Z",
+    "last_updated": "2026-09-09T16:53:28.449Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
