@@ -111,7 +111,7 @@ Benchmarks spanning multiple tasks.
 * [AI4Bharat IndicGLUE](https://ai4bharat.iitm.ac.in/indic-glue): NLU benchmark for 11 languages.
 * [AI4Bharat IndicNLG Suite](https://ai4bharat.iitm.ac.in/indic-nlg-suite): NLG benchmark for 11 languages spanning 5 generation tasks: biography generation, sentence summarization, headline generation, paraphrase generation and question generation.
 * [GLUECoS](https://microsoft.github.io/GLUECoS): For Hindi-English code-mixed benchmark containing the following tasks - Language Identification (LID), POS Tagging (POS), Named Entity Recognition (NER), Sentiment Analysis (SA), Question Answering (QA), Natural Language Inference (NLI).
-* [AI4Bharat Text Classification](https://github.com/ai4bharat/indicnlp_corpus#publicly-available-classification-datasets) ⭐ 206 | 🐛 10 | 🌐 Python | 📅 2023-04-16: A compilation of classification datasets for 10 languages.
+* [AI4Bharat Text Classification](https://github.com/ai4bharat/indicnlp_corpus#publicly-available-classification-datasets) ⭐ 207 | 🐛 10 | 🌐 Python | 📅 2023-04-16: A compilation of classification datasets for 10 languages.
 * [WAT 2021 Translation Dataset](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual): Standard train and test sets for translation between English and 10 Indian languages.
 
 ## <a name='Standards'></a>Standards
@@ -163,7 +163,7 @@ Benchmarks spanning multiple tasks.
 ### <a name='LexicalResources'></a>Lexical Resources and Semantic Similarity
 
 * [Toxicity-200](https://github.com/facebookresearch/flores/blob/main/toxicity) ⚠️ Archived: Toxicity Lists for 200 languages including 27 Indian languages.
-* [AI4Bharat Word Frequency Lists](https://github.com/AI4Bharat/indicnlp_corpus#text-corpora) ⭐ 206 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Tokens and their frequencies from the AI4Bharat corpus, a large monolingual corpus.
+* [AI4Bharat Word Frequency Lists](https://github.com/AI4Bharat/indicnlp_corpus#text-corpora) ⭐ 207 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Tokens and their frequencies from the AI4Bharat corpus, a large monolingual corpus.
 * [IIIT-Hyderabad Word Similarity Database](https://github.com/syedsarfarazakhtar/Word-Similarity-Datasets-for-Indian-Languages) ⭐ 8 | 🐛 0 | 📅 2017-05-23: 7 Indian languages
 * [Hindi RG-63](https://github.com/ashwinivd/similarity_hindi) ⭐ 3 | 🐛 0 | 📅 2021-04-19: Hindi version of the Rubenstein and Goodenough (RG-65) word similarity dataset
 * [MGAD Hindi Analogy dataset](https://github.com/rutrastone/MGAD) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2018-05-10
@@ -195,7 +195,7 @@ Benchmarks spanning multiple tasks.
 * [FLORES dataset](https://github.com/facebookresearch/flores) ⚠️ Archived: English-Sinhala and English-Nepali corpora
 * [NLLB-Seed](https://github.com/facebookresearch/flores/tree/main/nllb_seed) ⚠️ Archived: Small human-translated parallel corpora from Wikipedia articles for very low resource languages. Includes 5 Indian languages: Kashmiri, Manipuri, Maithili, Bhojpuri, Chattisgarhi.
 * [NLLB-MD](https://github.com/facebookresearch/flores/tree/main/nllb_seed) ⚠️ Archived: NLLB Multi Domain is a set of professionally-translated sentences in News, Unscripted informal speech, and Health domains. Cover Bhojpuri amongst Indian languages.
-* [BPCC Parallel Corpus](https://github.com/ai4bharat/IndicTrans2/?tab=readme-ov-file#data) ⭐ 472 | 🐛 17 | 🌐 Python | 📅 2025-10-03: Largest parallel corpus for English and 22 Indian languages (as of Jan 2024). It comprises 230 million sentence pairs between English-Indian languages. A subset of this corpus is the BPCC-Human Corpus containing 2.2 English-Indic pairs for 22 Indic languages.
+* [BPCC Parallel Corpus](https://github.com/ai4bharat/IndicTrans2/?tab=readme-ov-file#data) ⭐ 473 | 🐛 17 | 🌐 Python | 📅 2025-10-03: Largest parallel corpus for English and 22 Indian languages (as of Jan 2024). It comprises 230 million sentence pairs between English-Indian languages. A subset of this corpus is the BPCC-Human Corpus containing 2.2 English-Indic pairs for 22 Indic languages.
 * [TED Parallel Corpus](https://github.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus) ⭐ 257 | 🐛 9 | 📅 2016-01-04
 * [BUET English-Bangla Corpus, EMNLP-2020](https://github.com/csebuetnlp/banglanmt) ⭐ 156 | 🐛 0 | 🌐 Python | 📅 2024-10-23: 2.7M sentences (has overlaps with OPUS)
 * [Itihasa Parallel Corpus](https://github.com/rahular/itihasa) ⭐ 85 | 🐛 1 | 📅 2023-03-20: 93k parallel sentences between English and Sanskrit from the Ramanyana and Mahabharata.
@@ -265,7 +265,7 @@ Benchmarks spanning multiple tasks.
 
 * [iNLTK News Headlines classification](https://github.com/goru001/inltk) ⭐ 839 | 🐛 39 | 🌐 Python | 📅 2024-01-20: Datasets for multiple Indian languages.
 * [BBC news articles classification dataset](https://github.com/NirantK/hindi2vec/releases/tag/bbc-hindi-v0.1) ⭐ 219 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2019-03-09: 14 class classification
-* [AI4Bharat IndicNLP News Articles](https://github.com/ai4bharat/indicnlp_corpus) ⭐ 206 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Word embeddings for 10 Indian languages.
+* [AI4Bharat IndicNLP News Articles](https://github.com/ai4bharat/indicnlp_corpus) ⭐ 207 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Word embeddings for 10 Indian languages.
 * [XCOPA](https://github.com/cambridgeltl/xcopa) ⭐ 105 | 🐛 1 | 📅 2021-02-04: A Multilingual Dataset for Causal Commonsense Reasoning in 11 languages (includes Tamil). Described in [this paper](https://ducdauge.github.io/files/xcopa.pdf).
 * [KMI Linguistics TRAC - 1](https://github.com/kmi-linguistics/trac-1) ⭐ 10 | 🐛 0 | 📅 2018-03-12: Contains aggression-annotated dataset (in English and Hindi) for the Shared Task on Aggression Identification during First Workshop on Trolling, Aggression and Cyberbullying (TRAC - 1) at COLING - 2018.
 
@@ -297,7 +297,7 @@ Benchmarks spanning multiple tasks.
 * [Bengali Hate Speech - Classification Benchmark, 2020](https://github.com/rezacsedu/BengFastText) ⭐ 20 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-07-26: 1.5k sentences
 * [Roman Urdu Offensive Language Detection, 2020](https://github.com/haroonshakeel/roman_urdu_hate_speech) ⭐ 17 | 🐛 1 | 📅 2021-09-03: 10k tweets, can also used for Hindi, ([Paper](https://www.aclweb.org/anthology/2020.emnlp-main.197))
 * [HateCheckHIn](https://github.com/hate-alert/HateCheckHIn) ⭐ 6 | 🐛 0 | 📅 2022-05-07: An evaluation dataset for Hindi Hate Speech Detection Models having a total of 34 functionalities out of which 28 functionalities are monolingual and the remaining 6 are multilingual. Hindi is used as the base language. Described in [this paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.575.pdf).
-* [Did You Offend Me? Classification of Offensive Tweets in Hinglish Language, 2018](https://github.com/pmathur5k10/Hinglish-Offensive-Text-Classification/tree/b8433ff1ebb885bd657f5117eab6bd3798f20408) ⭐ 5 | 🐛 0 | 📅 2023-04-13: 3k tweets ([Paper](https://www.aclweb.org/anthology/W18-5118))
+* [Did You Offend Me? Classification of Offensive Tweets in Hinglish Language, 2018](https://github.com/pmathur5k10/Hinglish-Offensive-Text-Classification/tree/b8433ff1ebb885bd657f5117eab6bd3798f20408) ⭐ 4 | 🐛 0 | 📅 2023-04-13: 3k tweets ([Paper](https://www.aclweb.org/anthology/W18-5118))
 * [A Dataset of Hindi-English Code-Mixed Social Media Text for Hate Speech Detection, 2018](https://github.com/punyajoy/HateSpeech-Hindi-English-Code-Mixed-Social-Media-Text) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2018-09-13: 4.5k Tweets ([Paper](https://www.aclweb.org/anthology/W18-1105))
 * [Hate Speech and Offensive Content Identification in Indo-European Languages](https://hasocfire.github.io/hasoc/2020/dataset.html):  (HASOC FIRE-2020)
 * [An Indian Language Social Media Collection for Hate and Offensive Speech, 2020](https://www.aclweb.org/anthology/2020.restup-1.2/): Hinglish Tweets and FB Comments collected during Parliamentary Election 2019 of India (Dataset available on request)
@@ -398,7 +398,7 @@ Benchmarks spanning multiple tasks.
 * [BERT Multilingual](https://github.com/google-research/bert) ⚠️ Archived: BERT model trained on Wikipedias of many languages (including major Indic languages).
 * [LASER3](https://github.com/facebookresearch/fairseq/tree/nllb#laser3-encoder-models) ⚠️ Archived: Encoder models suitable for sentence retrieval tasks supporting 200 languages (including 27 Indic languges).
 * [iNLTK](https://github.com/goru001/inltk) ⭐ 839 | 🐛 39 | 🌐 Python | 📅 2024-01-20: ULMFit and TransformerXL pre-trained embeddings for many languages trained on Wikipedia and some News articles.
-* [BanglaBERT](https://github.com/csebuetnlp/banglabert) ⭐ 255 | 🐛 0 | 🌐 Python | 📅 2023-01-24: Language Model Pretraining and Benchmarks for Low-Resource Language Understanding Evaluation in Bangla. Described in [this paper](https://arxiv.org/abs/2101.00204).
+* [BanglaBERT](https://github.com/csebuetnlp/banglabert) ⭐ 256 | 🐛 0 | 🌐 Python | 📅 2023-01-24: Language Model Pretraining and Benchmarks for Low-Resource Language Understanding Evaluation in Bangla. Described in [this paper](https://arxiv.org/abs/2101.00204).
 * [Bangla-BERT-Base](https://github.com/sagorbrur/bangla-bert) ⭐ 84 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-04-29: Bengali BERT model trained on Bengali wikipedia and OSCAR datasets.
 * [AI4Bharat IndicBERT](https://ai4bharat.iitm.ac.in/indic-bert): Multilingual ALBERT based embeddings spanning 12 languages for Natural Language Understanding (including Indian English).
 * [AI4Bharat IndicBART](https://ai4bharat.iitm.ac.in/indic-bart): A multilingual,sequence-to-sequence pre-trained model based on the mBART architecture focusing on 11 Indic languages and English for Natural Language Generation of Indic Languages. Described in [this paper](https://arxiv.org/abs/2109.02903).
@@ -417,7 +417,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='Morphanalyzers'></a>Morphanalyzers
 
-* [AI4Bharat IndicNLP Project](https://github.com/ai4bharat/indicnlp_corpus) ⭐ 206 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Unsupervised morphanalyzers for 10 Indian languages learnt using morfessor.
+* [AI4Bharat IndicNLP Project](https://github.com/ai4bharat/indicnlp_corpus) ⭐ 207 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Unsupervised morphanalyzers for 10 Indian languages learnt using morfessor.
 
 ### <a name='TranslationModels'></a>Translation Models
 
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
