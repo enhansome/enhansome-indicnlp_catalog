@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "cltk",
             "repo": "cltk",
-            "stars": 920,
+            "stars": 921,
             "topics": [
               "ai",
               "greek",
@@ -1027,7 +1027,7 @@
                 "open_issues": 17,
                 "owner": "AI4Bharat",
                 "repo": "IndicTrans2",
-                "stars": 473,
+                "stars": 474,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2419,7 +2419,7 @@
                 "open_issues": 0,
                 "owner": "csebuetnlp",
                 "repo": "xl-sum",
-                "stars": 279,
+                "stars": 280,
                 "topics": [
                   "abstractive-summarization",
                   "abstractive-text-summarization",
@@ -2459,7 +2459,7 @@
                 "open_issues": 2,
                 "owner": "esdurmus",
                 "repo": "Wikilingua",
-                "stars": 99,
+                "stars": 100,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2549,7 +2549,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32221,
+                "stars": 32223,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2638,7 +2638,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40041,
+                "stars": 40042,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -2665,7 +2665,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32221,
+                "stars": 32223,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2886,7 +2886,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32221,
+                "stars": 32223,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T16:43:39.988Z",
+    "last_updated": "2026-09-19T16:03:59.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
