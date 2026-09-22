@@ -86,7 +86,7 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 * [National Platform for Language Technology](https://nplt.in/demo/index.php?route=product/category\&path=75_59\&limit=100)
 * [BUET CSE NLP Group](https://csebuetnlp.github.io)
 * [KMI Linguistics](https://github.com/kmi-linguistics)
-* [L3Cube](https://github.com/l3cube-pune/MarathiNLP) ⭐ 163 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-09-14
+* [L3Cube](https://github.com/l3cube-pune/MarathiNLP) ⭐ 164 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-09-14
 * [IIT Patna](https://www.iitp.ac.in/~ai-nlp-ml/resources.html)
 
 ## <a name='Libraries'></a>Libraries and Tools
@@ -96,7 +96,7 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 * [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library) ⭐ 648 | 🐛 34 | 🌐 Python | 📅 2024-06-07: Python Library for various Indian language NLP tasks like tokenization, sentence splitting, normalization, script conversion, transliteration, *etc*
   * [Devnagri to Roman transliteration](https://github.com/ritwikmishra/devanagari-to-roman-script-transliteration) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-01-20 using hand-crafted rules and lexicons.
 * [BNLP](https://github.com/sagorbrur/bnlp) ⭐ 310 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-04-01: Bengali language processing toolkit with tokenization, embedding, POS tagging, NER suppport
-* [Sanskrit Coders Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 212 | 🐛 8 | 🌐 Python | 📅 2026-09-08: Script conversion and romanization for Indian languages.
+* [Sanskrit Coders Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 212 | 🐛 11 | 🌐 Python | 📅 2026-09-08: Script conversion and romanization for Indian languages.
 * [CodeSwitch](https://github.com/sagorbrur/codeswitch) ⭐ 37 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2020-11-02: Language identification, POS Tagging, NER, sentiment analysis support for code mixed data including Hindi and Nepali language
 * [pyiwn](https://github.com/riteshpanjwani/pyiwn) ⭐ 36 | 🐛 7 | 🌐 Python | 📅 2022-04-26: Python Interface to IndoWordNet
 * [Smart Sanskirt Annotator](https://github.com/iamdsc/smart-sanskrit-annotator) ⭐ 9 | 🐛 2 | 🌐 JavaScript | 📅 2020-10-31: Annotation tool for Sanskrit [paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.874.pdf)
@@ -175,7 +175,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='NERCorpora'></a>NER Corpora
 
-* [L3Cube-MahaNER](https://github.com/l3cube-pune/MarathiNLP/tree/main/L3Cube-MahaNER) ⭐ 163 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-09-14: The first major gold standard named entity recognition dataset in Marathi consisting of 25,000 sentences in Marathi language. Described in [this paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/WILDRE6/pdf/2022.wildre6-1.6.pdf).
+* [L3Cube-MahaNER](https://github.com/l3cube-pune/MarathiNLP/tree/main/L3Cube-MahaNER) ⭐ 164 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-09-14: The first major gold standard named entity recognition dataset in Marathi consisting of 25,000 sentences in Marathi language. Described in [this paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/WILDRE6/pdf/2022.wildre6-1.6.pdf).
 * [CFILT HiNER](https://github.com/cfiltnlp/hiner) ⭐ 17 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-06-06: A large Hindi NER dataset containing 109,146 sentences and 2,220,856 tokens. Described in [this paper](https://arxiv.org/abs/2204.13743).
 * [a-mma NER data](https://github.com/a-mma/NER_Open_Data) ⚠️ Archived
 * [FIRE 2013 AUKBC NER Corpus](http://au-kbc.org/nlp/NER-FIRE2013)
@@ -368,7 +368,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='Summarization'></a>Summarization
 
-* [XL-Sum](https://github.com/csebuetnlp/xl-sum) ⭐ 280 | 🐛 0 | 🌐 Python | 📅 2024-03-26: A Large-Scale Multilingual Abstractive Summarization for 44 Languages with a comprehensive and diverse dataset comprising of 1 million professionally annotated article-summary pairs from BBC. Span 150k examples across 10 Indic languages. Described in [this paper](https://arxiv.org/abs/2106.13822).
+* [XL-Sum](https://github.com/csebuetnlp/xl-sum) ⭐ 279 | 🐛 0 | 🌐 Python | 📅 2024-03-26: A Large-Scale Multilingual Abstractive Summarization for 44 Languages with a comprehensive and diverse dataset comprising of 1 million professionally annotated article-summary pairs from BBC. Span 150k examples across 10 Indic languages. Described in [this paper](https://arxiv.org/abs/2106.13822).
 * [WikiLingua](https://github.com/esdurmus/Wikilingua) ⭐ 100 | 🐛 2 | 📅 2025-03-14: Cross-lingual summarization dataset created from WikiHow. Contains 9k English-Hindi article-summary pairs. \[[paper](https://arxiv.org/abs/2010.03093)]
 * [MassiveSum](https://github.com/danielvarab/massive-summ) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2023-04-21: A large summarization dataset for containing 13 Indian languages with \~1.9million article-summary pairs. The summaries are mined from article metadata. \[[paper](https://aclanthology.org/2021.emnlp-main.797/)]
 * [TeSum](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/teSum): Telugu Abstractive Summarization dataset containing 20k+ article-summary pairs, with the summaries being manually created. \[[paper](https://aclanthology.org/2022.lrec-1.614)]
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
