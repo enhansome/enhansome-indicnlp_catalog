@@ -671,7 +671,7 @@
                 "open_issues": 10,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_corpus",
-                "stars": 207,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -1570,7 +1570,7 @@
                 "open_issues": 10,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_corpus",
-                "stars": 207,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2211,7 +2211,7 @@
                 "open_issues": 4,
                 "owner": "alexa",
                 "repo": "massive",
-                "stars": 569,
+                "stars": 570,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2549,7 +2549,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32221,
+                "stars": 32223,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2665,7 +2665,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32221,
+                "stars": 32223,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2858,7 +2858,7 @@
                 "open_issues": 10,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_corpus",
-                "stars": 207,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2886,7 +2886,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32221,
+                "stars": 32223,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T17:18:11.117Z",
+    "last_updated": "2026-09-23T17:28:24.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
