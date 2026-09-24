@@ -571,7 +571,7 @@
                     "open_issues": 17,
                     "owner": "AI4Bharat",
                     "repo": "IndicBERT",
-                    "stars": 123,
+                    "stars": 124,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:39:55.591Z"
@@ -671,7 +671,7 @@
                 "open_issues": 10,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_corpus",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -1570,7 +1570,7 @@
                 "open_issues": 10,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_corpus",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2549,7 +2549,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32223,
+                "stars": 32220,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2638,7 +2638,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40042,
+                "stars": 40043,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -2665,7 +2665,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32223,
+                "stars": 32220,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2858,7 +2858,7 @@
                 "open_issues": 10,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_corpus",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2886,7 +2886,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32223,
+                "stars": 32220,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2915,7 +2915,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2022-09-16T06:05:39Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "Open-Speech-EkStep",
                 "repo": "vakyansh-models",
                 "stars": 329,
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T17:28:24.379Z",
+    "last_updated": "2026-09-24T17:33:06.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",

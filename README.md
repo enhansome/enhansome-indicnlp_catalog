@@ -111,7 +111,7 @@ Benchmarks spanning multiple tasks.
 * [AI4Bharat IndicGLUE](https://ai4bharat.iitm.ac.in/indic-glue): NLU benchmark for 11 languages.
 * [AI4Bharat IndicNLG Suite](https://ai4bharat.iitm.ac.in/indic-nlg-suite): NLG benchmark for 11 languages spanning 5 generation tasks: biography generation, sentence summarization, headline generation, paraphrase generation and question generation.
 * [GLUECoS](https://microsoft.github.io/GLUECoS): For Hindi-English code-mixed benchmark containing the following tasks - Language Identification (LID), POS Tagging (POS), Named Entity Recognition (NER), Sentiment Analysis (SA), Question Answering (QA), Natural Language Inference (NLI).
-* [AI4Bharat Text Classification](https://github.com/ai4bharat/indicnlp_corpus#publicly-available-classification-datasets) ⭐ 206 | 🐛 10 | 🌐 Python | 📅 2023-04-16: A compilation of classification datasets for 10 languages.
+* [AI4Bharat Text Classification](https://github.com/ai4bharat/indicnlp_corpus#publicly-available-classification-datasets) ⭐ 207 | 🐛 10 | 🌐 Python | 📅 2023-04-16: A compilation of classification datasets for 10 languages.
 * [WAT 2021 Translation Dataset](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual): Standard train and test sets for translation between English and 10 Indian languages.
 
 ## <a name='Standards'></a>Standards
@@ -135,7 +135,7 @@ Benchmarks spanning multiple tasks.
 * [KMI Awadhi Corpus](https://github.com/kmi-linguistics/awadhi) ⭐ 1 | 🐛 0 | 📅 2017-09-08:
 * [FacebookDecadeCorpora](https://github.com/samithaj/FacebookDecadeCorpora) ⭐ 0 | 🐛 0 | 📅 2020-07-15: Contains two language corpora of colloquial Sinhala content extracted from Facebook using the Crowdtangle platform. The larger corpus contains 28,825,820 to 29,549,672 words of text, mostly in Sinhala, English and Tamil and the smaller corpus amounts to 5,402,76 words of only Sinhala text extracted from Corpus-Alpha. Described in [this paper](https://arxiv.org/ftp/arxiv/papers/2007/2007.07884.pdf).
 * \[AIBharat IndicCorp]: Text corpora for Indian languages
-  * [v2](https://github.com/AI4Bharat/IndicBERT?tab=readme-ov-file#indiccorp-v2) ⭐ 123 | 🐛 17 | 🌐 Python | 📅 2025-04-06: contains 20 billion tokens from 22 Indian languages (including Indian English). \[[paper](https://aclanthology.org/2023.acl-long.693/)]
+  * [v2](https://github.com/AI4Bharat/IndicBERT?tab=readme-ov-file#indiccorp-v2) ⭐ 124 | 🐛 17 | 🌐 Python | 📅 2025-04-06: contains 20 billion tokens from 22 Indian languages (including Indian English). \[[paper](https://aclanthology.org/2023.acl-long.693/)]
   * [v1](https://github.com/AI4Bharat/indicnlp_suite/blob/master/README.md#indiccorp) ⭐ 2 | 🐛 1 | 📅 2024-01-01: contains 8.9 billion tokens from 12 Indian languages (including Indian English). \[[paper](https://aclanthology.org/2020.findings-emnlp.445)]
 * [Wikipedia Dumps](https://dumps.wikimedia.org)
 * Common Crawl
@@ -163,7 +163,7 @@ Benchmarks spanning multiple tasks.
 ### <a name='LexicalResources'></a>Lexical Resources and Semantic Similarity
 
 * [Toxicity-200](https://github.com/facebookresearch/flores/blob/main/toxicity) ⚠️ Archived: Toxicity Lists for 200 languages including 27 Indian languages.
-* [AI4Bharat Word Frequency Lists](https://github.com/AI4Bharat/indicnlp_corpus#text-corpora) ⭐ 206 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Tokens and their frequencies from the AI4Bharat corpus, a large monolingual corpus.
+* [AI4Bharat Word Frequency Lists](https://github.com/AI4Bharat/indicnlp_corpus#text-corpora) ⭐ 207 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Tokens and their frequencies from the AI4Bharat corpus, a large monolingual corpus.
 * [IIIT-Hyderabad Word Similarity Database](https://github.com/syedsarfarazakhtar/Word-Similarity-Datasets-for-Indian-Languages) ⭐ 8 | 🐛 0 | 📅 2017-05-23: 7 Indian languages
 * [Hindi RG-63](https://github.com/ashwinivd/similarity_hindi) ⭐ 3 | 🐛 0 | 📅 2021-04-19: Hindi version of the Rubenstein and Goodenough (RG-65) word similarity dataset
 * [MGAD Hindi Analogy dataset](https://github.com/rutrastone/MGAD) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2018-05-10
@@ -265,7 +265,7 @@ Benchmarks spanning multiple tasks.
 
 * [iNLTK News Headlines classification](https://github.com/goru001/inltk) ⭐ 839 | 🐛 39 | 🌐 Python | 📅 2024-01-20: Datasets for multiple Indian languages.
 * [BBC news articles classification dataset](https://github.com/NirantK/hindi2vec/releases/tag/bbc-hindi-v0.1) ⭐ 219 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2019-03-09: 14 class classification
-* [AI4Bharat IndicNLP News Articles](https://github.com/ai4bharat/indicnlp_corpus) ⭐ 206 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Word embeddings for 10 Indian languages.
+* [AI4Bharat IndicNLP News Articles](https://github.com/ai4bharat/indicnlp_corpus) ⭐ 207 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Word embeddings for 10 Indian languages.
 * [XCOPA](https://github.com/cambridgeltl/xcopa) ⭐ 105 | 🐛 1 | 📅 2021-02-04: A Multilingual Dataset for Causal Commonsense Reasoning in 11 languages (includes Tamil). Described in [this paper](https://ducdauge.github.io/files/xcopa.pdf).
 * [KMI Linguistics TRAC - 1](https://github.com/kmi-linguistics/trac-1) ⭐ 10 | 🐛 0 | 📅 2018-03-12: Contains aggression-annotated dataset (in English and Hindi) for the Shared Task on Aggression Identification during First Workshop on Trolling, Aggression and Cyberbullying (TRAC - 1) at COLING - 2018.
 
@@ -417,7 +417,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='Morphanalyzers'></a>Morphanalyzers
 
-* [AI4Bharat IndicNLP Project](https://github.com/ai4bharat/indicnlp_corpus) ⭐ 206 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Unsupervised morphanalyzers for 10 Indian languages learnt using morfessor.
+* [AI4Bharat IndicNLP Project](https://github.com/ai4bharat/indicnlp_corpus) ⭐ 207 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Unsupervised morphanalyzers for 10 Indian languages learnt using morfessor.
 
 ### <a name='TranslationModels'></a>Translation Models
 
@@ -432,7 +432,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='SpeechModels'></a>Speech Models
 
-* [Vakyansh CLSRIL-23](https://github.com/Open-Speech-EkStep/vakyansh-models) ⭐ 329 | 🐛 8 | 📅 2022-09-16: Pretrained wav2vec2 model trained on 10,000 hours of Speech data in 23 Indic Languages [(documentation)](https://open-speech-ekstep.github.io/) [(experimentation platform)](https://github.com/Open-Speech-EkStep/vakyansh-wav2vec2-experimentation) ⭐ 90 | 🐛 23 | 🌐 Python | 📅 2022-09-22.
+* [Vakyansh CLSRIL-23](https://github.com/Open-Speech-EkStep/vakyansh-models) ⭐ 329 | 🐛 9 | 📅 2022-09-16: Pretrained wav2vec2 model trained on 10,000 hours of Speech data in 23 Indic Languages [(documentation)](https://open-speech-ekstep.github.io/) [(experimentation platform)](https://github.com/Open-Speech-EkStep/vakyansh-wav2vec2-experimentation) ⭐ 90 | 🐛 23 | 🌐 Python | 📅 2022-09-22.
 * [AI4Bharat IndicWav2Vec](https://ai4bharat.iitm.ac.in/indic-wav-2-vec): Multilingual pre-trained models for 40 Indian languages based on Wav2Vec 2.0.
 * [arijitx/wav2vec2-large-xlsr-bengali](https://huggingface.co/arijitx/wav2vec2-large-xlsr-bengali): Pretrained wav2vec2-large-xlsr trained on \~50 hrs(40,000 utterances) of OpenSLR Bengali data. Test WER 32.45% without LM.
 
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
