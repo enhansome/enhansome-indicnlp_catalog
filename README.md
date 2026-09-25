@@ -489,7 +489,7 @@ Benchmarks spanning multiple tasks.
 
 Pointers to language-specific NLP resource catalogs
 
-* [Nepali](https://github.com/amitness/ml-datasets) ⭐ 192 | 🐛 0 | 📅 2023-05-13
+* [Nepali](https://github.com/amitness/ml-datasets) ⭐ 193 | 🐛 0 | 📅 2023-05-13
 * [Urdu](https://github.com/urduhack/awesome-urdu) ⭐ 80 | 🐛 2 | 📅 2021-05-11
 * [Odia](https://github.com/shantipriyap/Odia-NLP-Resource-Catalog) ⭐ 33 | 🐛 0 | 📅 2024-01-23
 * [Sinhala](https://lknlp.github.io): [\[git repo\]](https://github.com/lknlp/lknlp.github.io) ⭐ 18 | 🐛 5 | 🌐 HTML | 📅 2023-12-23
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
