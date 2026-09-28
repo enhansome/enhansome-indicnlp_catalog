@@ -91,7 +91,7 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 
 ## <a name='Libraries'></a>Libraries and Tools
 
-* [CLTK](https://github.com/cltk/cltk/tree/master/cltk) ⭐ 921 | 🐛 4 | 🌐 Python | 📅 2026-08-01: Toolkit for many of the world's classical languages. Support for Sanskrit. Some parts of the Sanskrit library are forked from the Indic NLP Library.
+* [CLTK](https://github.com/cltk/cltk/tree/master/cltk) ⭐ 922 | 🐛 4 | 🌐 Python | 📅 2026-08-01: Toolkit for many of the world's classical languages. Support for Sanskrit. Some parts of the Sanskrit library are forked from the Indic NLP Library.
 * [iNLTK](https://github.com/goru001/inltk) ⭐ 839 | 🐛 39 | 🌐 Python | 📅 2024-01-20: iNLTK aims to provide out of the box support for various NLP tasks that an application developer might need for Indic languages.
 * [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library) ⭐ 648 | 🐛 34 | 🌐 Python | 📅 2024-06-07: Python Library for various Indian language NLP tasks like tokenization, sentence splitting, normalization, script conversion, transliteration, *etc*
   * [Devnagri to Roman transliteration](https://github.com/ritwikmishra/devanagari-to-roman-script-transliteration) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-01-20 using hand-crafted rules and lexicons.
@@ -111,7 +111,7 @@ Benchmarks spanning multiple tasks.
 * [AI4Bharat IndicGLUE](https://ai4bharat.iitm.ac.in/indic-glue): NLU benchmark for 11 languages.
 * [AI4Bharat IndicNLG Suite](https://ai4bharat.iitm.ac.in/indic-nlg-suite): NLG benchmark for 11 languages spanning 5 generation tasks: biography generation, sentence summarization, headline generation, paraphrase generation and question generation.
 * [GLUECoS](https://microsoft.github.io/GLUECoS): For Hindi-English code-mixed benchmark containing the following tasks - Language Identification (LID), POS Tagging (POS), Named Entity Recognition (NER), Sentiment Analysis (SA), Question Answering (QA), Natural Language Inference (NLI).
-* [AI4Bharat Text Classification](https://github.com/ai4bharat/indicnlp_corpus#publicly-available-classification-datasets) ⭐ 207 | 🐛 10 | 🌐 Python | 📅 2023-04-16: A compilation of classification datasets for 10 languages.
+* [AI4Bharat Text Classification](https://github.com/ai4bharat/indicnlp_corpus#publicly-available-classification-datasets) ⭐ 208 | 🐛 10 | 🌐 Python | 📅 2023-04-16: A compilation of classification datasets for 10 languages.
 * [WAT 2021 Translation Dataset](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual): Standard train and test sets for translation between English and 10 Indian languages.
 
 ## <a name='Standards'></a>Standards
@@ -163,7 +163,7 @@ Benchmarks spanning multiple tasks.
 ### <a name='LexicalResources'></a>Lexical Resources and Semantic Similarity
 
 * [Toxicity-200](https://github.com/facebookresearch/flores/blob/main/toxicity) ⚠️ Archived: Toxicity Lists for 200 languages including 27 Indian languages.
-* [AI4Bharat Word Frequency Lists](https://github.com/AI4Bharat/indicnlp_corpus#text-corpora) ⭐ 207 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Tokens and their frequencies from the AI4Bharat corpus, a large monolingual corpus.
+* [AI4Bharat Word Frequency Lists](https://github.com/AI4Bharat/indicnlp_corpus#text-corpora) ⭐ 208 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Tokens and their frequencies from the AI4Bharat corpus, a large monolingual corpus.
 * [IIIT-Hyderabad Word Similarity Database](https://github.com/syedsarfarazakhtar/Word-Similarity-Datasets-for-Indian-Languages) ⭐ 8 | 🐛 0 | 📅 2017-05-23: 7 Indian languages
 * [Hindi RG-63](https://github.com/ashwinivd/similarity_hindi) ⭐ 3 | 🐛 0 | 📅 2021-04-19: Hindi version of the Rubenstein and Goodenough (RG-65) word similarity dataset
 * [MGAD Hindi Analogy dataset](https://github.com/rutrastone/MGAD) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2018-05-10
@@ -195,7 +195,7 @@ Benchmarks spanning multiple tasks.
 * [FLORES dataset](https://github.com/facebookresearch/flores) ⚠️ Archived: English-Sinhala and English-Nepali corpora
 * [NLLB-Seed](https://github.com/facebookresearch/flores/tree/main/nllb_seed) ⚠️ Archived: Small human-translated parallel corpora from Wikipedia articles for very low resource languages. Includes 5 Indian languages: Kashmiri, Manipuri, Maithili, Bhojpuri, Chattisgarhi.
 * [NLLB-MD](https://github.com/facebookresearch/flores/tree/main/nllb_seed) ⚠️ Archived: NLLB Multi Domain is a set of professionally-translated sentences in News, Unscripted informal speech, and Health domains. Cover Bhojpuri amongst Indian languages.
-* [BPCC Parallel Corpus](https://github.com/ai4bharat/IndicTrans2/?tab=readme-ov-file#data) ⭐ 476 | 🐛 17 | 🌐 Python | 📅 2025-10-03: Largest parallel corpus for English and 22 Indian languages (as of Jan 2024). It comprises 230 million sentence pairs between English-Indian languages. A subset of this corpus is the BPCC-Human Corpus containing 2.2 English-Indic pairs for 22 Indic languages.
+* [BPCC Parallel Corpus](https://github.com/ai4bharat/IndicTrans2/?tab=readme-ov-file#data) ⭐ 477 | 🐛 17 | 🌐 Python | 📅 2025-10-03: Largest parallel corpus for English and 22 Indian languages (as of Jan 2024). It comprises 230 million sentence pairs between English-Indian languages. A subset of this corpus is the BPCC-Human Corpus containing 2.2 English-Indic pairs for 22 Indic languages.
 * [TED Parallel Corpus](https://github.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus) ⭐ 257 | 🐛 9 | 📅 2016-01-04
 * [BUET English-Bangla Corpus, EMNLP-2020](https://github.com/csebuetnlp/banglanmt) ⭐ 156 | 🐛 0 | 🌐 Python | 📅 2024-10-23: 2.7M sentences (has overlaps with OPUS)
 * [Itihasa Parallel Corpus](https://github.com/rahular/itihasa) ⭐ 85 | 🐛 1 | 📅 2023-03-20: 93k parallel sentences between English and Sanskrit from the Ramanyana and Mahabharata.
@@ -265,7 +265,7 @@ Benchmarks spanning multiple tasks.
 
 * [iNLTK News Headlines classification](https://github.com/goru001/inltk) ⭐ 839 | 🐛 39 | 🌐 Python | 📅 2024-01-20: Datasets for multiple Indian languages.
 * [BBC news articles classification dataset](https://github.com/NirantK/hindi2vec/releases/tag/bbc-hindi-v0.1) ⭐ 219 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2019-03-09: 14 class classification
-* [AI4Bharat IndicNLP News Articles](https://github.com/ai4bharat/indicnlp_corpus) ⭐ 207 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Word embeddings for 10 Indian languages.
+* [AI4Bharat IndicNLP News Articles](https://github.com/ai4bharat/indicnlp_corpus) ⭐ 208 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Word embeddings for 10 Indian languages.
 * [XCOPA](https://github.com/cambridgeltl/xcopa) ⭐ 105 | 🐛 1 | 📅 2021-02-04: A Multilingual Dataset for Causal Commonsense Reasoning in 11 languages (includes Tamil). Described in [this paper](https://ducdauge.github.io/files/xcopa.pdf).
 * [KMI Linguistics TRAC - 1](https://github.com/kmi-linguistics/trac-1) ⭐ 10 | 🐛 0 | 📅 2018-03-12: Contains aggression-annotated dataset (in English and Hindi) for the Shared Task on Aggression Identification during First Workshop on Trolling, Aggression and Cyberbullying (TRAC - 1) at COLING - 2018.
 
@@ -353,7 +353,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='DependencyParseCorpus'></a>Dependency Parse Corpus
 
-* [Vedic Sanskrit Treebank](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2020lrec) ⭐ 165 | 🐛 10 | 🌐 Python | 📅 2026-08-24: 4k Sanskrit dependency treebank \[[paper](https://www.aclweb.org/anthology/2020.lrec-1.632.pdf)]
+* [Vedic Sanskrit Treebank](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2020lrec) ⭐ 166 | 🐛 10 | 🌐 Python | 📅 2026-08-24: 4k Sanskrit dependency treebank \[[paper](https://www.aclweb.org/anthology/2020.lrec-1.632.pdf)]
 * [Universal Dependencies Hindi Treebank](https://github.com/UniversalDependencies/UD_Hindi-HDTB) ⭐ 24 | 🐛 2 | 📅 2026-09-06
 * [Universal Dependencies Urdu Treebank](https://github.com/UniversalDependencies/UD_Urdu-UDTB) ⭐ 9 | 🐛 1 | 📅 2026-09-06
 * [IIIT Hyderabad Hindi Treebank](http://tdil-dc.in/index.php?option=com_download\&task=showresourceDetails\&toolid=1977\&lang=en)
@@ -417,7 +417,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='Morphanalyzers'></a>Morphanalyzers
 
-* [AI4Bharat IndicNLP Project](https://github.com/ai4bharat/indicnlp_corpus) ⭐ 207 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Unsupervised morphanalyzers for 10 Indian languages learnt using morfessor.
+* [AI4Bharat IndicNLP Project](https://github.com/ai4bharat/indicnlp_corpus) ⭐ 208 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Unsupervised morphanalyzers for 10 Indian languages learnt using morfessor.
 
 ### <a name='TranslationModels'></a>Translation Models
 
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
