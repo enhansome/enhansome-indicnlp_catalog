@@ -804,7 +804,7 @@
                 "open_issues": 1,
                 "owner": "l3cube-pune",
                 "repo": "MarathiNLP",
-                "stars": 164,
+                "stars": 165,
                 "topics": [
                   "bert",
                   "dataset",
@@ -1185,6 +1185,27 @@
             },
             {
               "node_type": "item",
+              "title": "NLPC-UoM English-Tamil Corpus",
+              "description": "9k sentences, 24k glossary terms",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 235754905,
+                "language": null,
+                "license": null,
+                "last_commit": "2021-01-04T16:29:54Z",
+                "open_issues": 1,
+                "owner": "nlpcuom",
+                "repo": "English-Tamil-Parallel-Corpus",
+                "stars": 15,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:39:55.591Z"
+            },
+            {
+              "node_type": "item",
               "title": "SAP Software Documentation",
               "description": "test and evaluation set for English-Hindi in the software documentation domain [paper]",
               "children": [],
@@ -1200,27 +1221,6 @@
                 "owner": "SAP",
                 "repo": "software-documentation-data-set-for-machine-translation",
                 "stars": 15,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T22:39:55.591Z"
-            },
-            {
-              "node_type": "item",
-              "title": "NLPC-UoM English-Tamil Corpus",
-              "description": "9k sentences, 24k glossary terms",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 235754905,
-                "language": null,
-                "license": null,
-                "last_commit": "2021-01-04T16:29:54Z",
-                "open_issues": 1,
-                "owner": "nlpcuom",
-                "repo": "English-Tamil-Parallel-Corpus",
-                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2549,7 +2549,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32218,
+                "stars": 32219,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2638,7 +2638,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40044,
+                "stars": 40046,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -2665,7 +2665,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32218,
+                "stars": 32219,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2796,7 +2796,7 @@
                 "open_issues": 11,
                 "owner": "babylonhealth",
                 "repo": "fastText_multilingual",
-                "stars": 1200,
+                "stars": 1201,
                 "topics": [
                   "distributed-representations",
                   "machine-learning",
@@ -2886,7 +2886,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32218,
+                "stars": 32219,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T19:50:08.938Z",
+    "last_updated": "2026-09-29T18:15:31.157Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",

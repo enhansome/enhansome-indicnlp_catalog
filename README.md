@@ -86,7 +86,7 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 * [National Platform for Language Technology](https://nplt.in/demo/index.php?route=product/category\&path=75_59\&limit=100)
 * [BUET CSE NLP Group](https://csebuetnlp.github.io)
 * [KMI Linguistics](https://github.com/kmi-linguistics)
-* [L3Cube](https://github.com/l3cube-pune/MarathiNLP) ⭐ 164 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-09-14
+* [L3Cube](https://github.com/l3cube-pune/MarathiNLP) ⭐ 165 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-09-14
 * [IIT Patna](https://www.iitp.ac.in/~ai-nlp-ml/resources.html)
 
 ## <a name='Libraries'></a>Libraries and Tools
@@ -175,7 +175,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='NERCorpora'></a>NER Corpora
 
-* [L3Cube-MahaNER](https://github.com/l3cube-pune/MarathiNLP/tree/main/L3Cube-MahaNER) ⭐ 164 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-09-14: The first major gold standard named entity recognition dataset in Marathi consisting of 25,000 sentences in Marathi language. Described in [this paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/WILDRE6/pdf/2022.wildre6-1.6.pdf).
+* [L3Cube-MahaNER](https://github.com/l3cube-pune/MarathiNLP/tree/main/L3Cube-MahaNER) ⭐ 165 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-09-14: The first major gold standard named entity recognition dataset in Marathi consisting of 25,000 sentences in Marathi language. Described in [this paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/WILDRE6/pdf/2022.wildre6-1.6.pdf).
 * [CFILT HiNER](https://github.com/cfiltnlp/hiner) ⭐ 17 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-06-06: A large Hindi NER dataset containing 109,146 sentences and 2,220,856 tokens. Described in [this paper](https://arxiv.org/abs/2204.13743).
 * [a-mma NER data](https://github.com/a-mma/NER_Open_Data) ⚠️ Archived
 * [FIRE 2013 AUKBC NER Corpus](http://au-kbc.org/nlp/NER-FIRE2013)
@@ -202,8 +202,8 @@ Benchmarks spanning multiple tasks.
 * [MTurk Indian Parallel Corpus](https://github.com/joshua-decoder/indian-parallel-corpora) ⭐ 70 | 🐛 0 | 🌐 OCaml | 📅 2023-06-29
 * [Kathmandu University-English–Nepali Parallel Corpus](https://github.com/sharad461/nepali-translator) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2024-08-24: A parallel corpus of size 1.8 million sentence pairs for a low resource language pair Nepali–English. Described in [this paper](https://lt4all.elra.info/proceedings/lt4all2019/pdf/2019.lt4all-1.94.pdf).
 * [Sanskrit-Hindi-MT](https://github.com/priyanshu2103/Sanskrit-Hindi-Machine-Translation) ⭐ 20 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-01-16: Machine Translation from Sanskrit to Hindi using Unsupervised and Supervised Learning. Contains Sanskrit-English parallel data and Sanskrit-Hindi parallel(test) data.
+* [NLPC-UoM English-Tamil Corpus](https://github.com/nlpc-uom/English-Tamil-Parallel-Corpus) ⭐ 15 | 🐛 1 | 📅 2021-01-04: 9k sentences, 24k glossary terms
 * [SAP Software Documentation](https://github.com/SAP/software-documentation-data-set-for-machine-translation) ⭐ 15 | 🐛 0 | 🌐 Wolfram Language | 📅 2026-06-12: test and evaluation set for English-Hindi in the  software documentation domain \[[paper](https://arxiv.org/abs/2008.04550)]
-* [NLPC-UoM English-Tamil Corpus](https://github.com/nlpc-uom/English-Tamil-Parallel-Corpus) ⭐ 14 | 🐛 1 | 📅 2021-01-04: 9k sentences, 24k glossary terms
 * [IIIT-H en-hi-codemixed-corpus](https://github.com/mrinaldhar/en-hi-codemixed-corpus) ⭐ 13 | 🐛 1 | 📅 2019-02-17: A gold standard parallel corpus consisting of 6096 English-Hindi code-mixed sentences containing a total of 63,913 tokens and monolingual English. Described in [this paper](https://aclanthology.org/W18-3817.pdf).
 * [Uka Tarsadia University Corpus](https://github.com/shahparth123/eng_guj_parallel_corpus) ⭐ 10 | 🐛 2 | 📅 2020-12-27: 65k English-Gujarati sentence pairs. Corpus is described in [this paper](https://arxiv.org/abs/2002.02758)
 * [MTEnglish2Odia](https://github.com/soumendrak/MTEnglish2Odia) ⚠️ Archived: English-Odia (42k pairs)
@@ -412,7 +412,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='MultilingualWordEmbeddings'></a>Multilingual Word Embeddings
 
-* [Babylon Partners](https://github.com/Babylonpartners/fastText_multilingual) ⭐ 1,200 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10
+* [Babylon Partners](https://github.com/Babylonpartners/fastText_multilingual) ⭐ 1,201 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10
 * [GeoMM](https://github.com/anoopkunchukuttan/geomm) ⭐ 27 | 🐛 30 | 🌐 Python | 📅 2022-12-08
 
 ### <a name='Morphanalyzers'></a>Morphanalyzers
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
