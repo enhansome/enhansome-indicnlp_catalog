@@ -51,7 +51,7 @@
             "open_issues": 39,
             "owner": "goru001",
             "repo": "inltk",
-            "stars": 839,
+            "stars": 840,
             "topics": [
               "data-augmentation",
               "deep-learning",
@@ -104,7 +104,7 @@
             "open_issues": 34,
             "owner": "anoopkunchukuttan",
             "repo": "indic_nlp_library",
-            "stars": 648,
+            "stars": 649,
             "topics": [
               "indian-languages",
               "natural-language-processing",
@@ -901,7 +901,7 @@
                 "open_issues": 49,
                 "owner": "facebookresearch",
                 "repo": "LASER",
-                "stars": 3660,
+                "stars": 3659,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -1518,7 +1518,7 @@
                 "open_issues": 39,
                 "owner": "goru001",
                 "repo": "inltk",
-                "stars": 839,
+                "stars": 840,
                 "topics": [
                   "data-augmentation",
                   "deep-learning",
@@ -2549,7 +2549,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32218,
+                "stars": 32215,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2638,7 +2638,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40047,
+                "stars": 40046,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -2665,7 +2665,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32218,
+                "stars": 32215,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2690,7 +2690,7 @@
                 "open_issues": 39,
                 "owner": "goru001",
                 "repo": "inltk",
-                "stars": 839,
+                "stars": 840,
                 "topics": [
                   "data-augmentation",
                   "deep-learning",
@@ -2886,7 +2886,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32218,
+                "stars": 32215,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T18:34:26.558Z",
+    "last_updated": "2026-10-02T18:02:28.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
