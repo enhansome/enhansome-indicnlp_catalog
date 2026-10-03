@@ -320,7 +320,7 @@
             {
               "node_type": "item",
               "title": "Janmabhumi Malayalam Corpus",
-              "description": null,
+              "description": "ABHISHEKVALSAN/Malayalam-Newspaper-Article-Dataset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -490,7 +490,7 @@
             {
               "node_type": "item",
               "title": "KMI Magahi Corpus",
-              "description": null,
+              "description": "kmi-linguistics/magahi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -511,7 +511,7 @@
             {
               "node_type": "item",
               "title": "KMI Awadhi Corpus",
-              "description": null,
+              "description": "kmi-linguistics/awadhi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -721,7 +721,7 @@
             {
               "node_type": "item",
               "title": "MGAD Hindi Analogy dataset",
-              "description": null,
+              "description": "rutrastone/MGAD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -855,7 +855,7 @@
             {
               "node_type": "item",
               "title": "a-mma NER data",
-              "description": null,
+              "description": "a-mma/NER_Open_Data",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1035,7 +1035,7 @@
             {
               "node_type": "item",
               "title": "TED Parallel Corpus",
-              "description": null,
+              "description": "ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1110,7 +1110,7 @@
             {
               "node_type": "item",
               "title": "MTurk Indian Parallel Corpus",
-              "description": null,
+              "description": "joshua-decoder/indian-parallel-corpora",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1771,7 +1771,7 @@
             {
               "node_type": "item",
               "title": "Fear Speech in Indian WhatsApp Groups, 2021",
-              "description": null,
+              "description": "hate-alert/Fear-speech-analysis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2142,7 +2142,7 @@
             {
               "node_type": "item",
               "title": "a-mma Indic Casual Dialogs Datasets",
-              "description": null,
+              "description": "a-mma/indic_casual_dialogs_dataset",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2170,7 +2170,7 @@
             {
               "node_type": "item",
               "title": "MIDAS-Hindi Discourse Analysis",
-              "description": null,
+              "description": "midas-research/hindi-discourse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2254,7 +2254,7 @@
             {
               "node_type": "item",
               "title": "KMI Magahi Corpus",
-              "description": null,
+              "description": "kmi-linguistics/magahi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2275,7 +2275,7 @@
             {
               "node_type": "item",
               "title": "KMI Awadhi Corpus",
-              "description": null,
+              "description": "kmi-linguistics/awadhi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2329,7 +2329,7 @@
             {
               "node_type": "item",
               "title": "Universal Dependencies Hindi Treebank",
-              "description": null,
+              "description": "UniversalDependencies/UD_Hindi-HDTB",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2350,7 +2350,7 @@
             {
               "node_type": "item",
               "title": "Universal Dependencies Urdu Treebank",
-              "description": null,
+              "description": "UniversalDependencies/UD_Urdu-UDTB",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2549,7 +2549,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32215,
+                "stars": 32214,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2638,7 +2638,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40046,
+                "stars": 40047,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -2665,7 +2665,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32215,
+                "stars": 32214,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2783,7 +2783,7 @@
             {
               "node_type": "item",
               "title": "Babylon Partners",
-              "description": null,
+              "description": "babylonhealth/fastText_multilingual",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2811,7 +2811,7 @@
             {
               "node_type": "item",
               "title": "GeoMM",
-              "description": null,
+              "description": "anoopkunchukuttan/geomm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2886,7 +2886,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32215,
+                "stars": 32214,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -3086,7 +3086,7 @@
         {
           "node_type": "item",
           "title": "Nepali",
-          "description": null,
+          "description": "amitness/ml-datasets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3111,7 +3111,7 @@
         {
           "node_type": "item",
           "title": "Urdu",
-          "description": null,
+          "description": "urduhack/awesome-urdu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3141,7 +3141,7 @@
         {
           "node_type": "item",
           "title": "Odia",
-          "description": null,
+          "description": "shantipriyap/Odia-NLP-Resource-Catalog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:02:28.066Z",
+    "last_updated": "2026-10-03T04:51:23.555Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
