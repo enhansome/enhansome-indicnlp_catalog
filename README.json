@@ -1048,7 +1048,7 @@
                 "open_issues": 9,
                 "owner": "ajinkyakulkarni14",
                 "repo": "TED-Multilingual-Parallel-Corpus",
-                "stars": 257,
+                "stars": 258,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2994,7 +2994,7 @@
             "open_issues": 2,
             "owner": "facebookresearch",
             "repo": "covost",
-            "stars": 401,
+            "stars": 402,
             "topics": []
           },
           "first_seen": "2026-08-28T22:39:55.591Z"
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T16:43:36.565Z",
+    "last_updated": "2026-10-04T17:02:19.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
