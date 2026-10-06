@@ -170,7 +170,7 @@
             "open_issues": 11,
             "owner": "indic-transliteration",
             "repo": "indic_transliteration_py",
-            "stars": 212,
+            "stars": 213,
             "topics": []
           },
           "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2211,7 +2211,7 @@
                 "open_issues": 4,
                 "owner": "alexa",
                 "repo": "massive",
-                "stars": 572,
+                "stars": 573,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2721,7 +2721,7 @@
                 "open_issues": 0,
                 "owner": "csebuetnlp",
                 "repo": "banglabert",
-                "stars": 257,
+                "stars": 258,
                 "topics": [
                   "bangla-language-processing",
                   "bangla-natural-language-processing",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:13:27.647Z",
+    "last_updated": "2026-10-06T10:38:03.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
@@ -3194,7 +3194,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-12-14T02:21:43Z",
-      "open_issues": 150,
+      "open_issues": 151,
       "owner": "AI4Bharat",
       "repo": "indicnlp_catalog",
       "stars": 640,
