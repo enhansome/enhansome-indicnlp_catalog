@@ -1612,7 +1612,7 @@
                 "open_issues": 0,
                 "owner": "kmi-linguistics",
                 "repo": "trac-1",
-                "stars": 10,
+                "stars": 9,
                 "topics": [
                   "abuse-detection",
                   "abusive-language",
@@ -2549,7 +2549,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32213,
+                "stars": 32212,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2638,7 +2638,7 @@
                 "open_issues": 880,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40047,
+                "stars": 40046,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -2665,7 +2665,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32213,
+                "stars": 32212,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2886,7 +2886,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32213,
+                "stars": 32212,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -3151,7 +3151,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-01-23T21:44:53Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "shantipriyap",
             "repo": "Odia-NLP-Resource-Catalog",
             "stars": 33,
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:38:03.772Z",
+    "last_updated": "2026-10-06T18:37:16.418Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",

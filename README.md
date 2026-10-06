@@ -267,7 +267,7 @@ Benchmarks spanning multiple tasks.
 * [BBC news articles classification dataset](https://github.com/NirantK/hindi2vec/releases/tag/bbc-hindi-v0.1) ⭐ 219 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2019-03-09: 14 class classification
 * [AI4Bharat IndicNLP News Articles](https://github.com/ai4bharat/indicnlp_corpus) ⭐ 208 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Word embeddings for 10 Indian languages.
 * [XCOPA](https://github.com/cambridgeltl/xcopa) ⭐ 105 | 🐛 1 | 📅 2021-02-04: A Multilingual Dataset for Causal Commonsense Reasoning in 11 languages (includes Tamil). Described in [this paper](https://ducdauge.github.io/files/xcopa.pdf).
-* [KMI Linguistics TRAC - 1](https://github.com/kmi-linguistics/trac-1) ⭐ 10 | 🐛 0 | 📅 2018-03-12: Contains aggression-annotated dataset (in English and Hindi) for the Shared Task on Aggression Identification during First Workshop on Trolling, Aggression and Cyberbullying (TRAC - 1) at COLING - 2018.
+* [KMI Linguistics TRAC - 1](https://github.com/kmi-linguistics/trac-1) ⭐ 9 | 🐛 0 | 📅 2018-03-12: Contains aggression-annotated dataset (in English and Hindi) for the Shared Task on Aggression Identification during First Workshop on Trolling, Aggression and Cyberbullying (TRAC - 1) at COLING - 2018.
 
 ### <a name='TextualEntailment'></a>Textual Entailment/Natural Language Inference
 
@@ -491,7 +491,7 @@ Pointers to language-specific NLP resource catalogs
 
 * [Nepali](https://github.com/amitness/ml-datasets) ⭐ 193 | 🐛 0 | 📅 2023-05-13
 * [Urdu](https://github.com/urduhack/awesome-urdu) ⭐ 80 | 🐛 2 | 📅 2021-05-11
-* [Odia](https://github.com/shantipriyap/Odia-NLP-Resource-Catalog) ⭐ 33 | 🐛 0 | 📅 2024-01-23
+* [Odia](https://github.com/shantipriyap/Odia-NLP-Resource-Catalog) ⭐ 33 | 🐛 1 | 📅 2024-01-23
 * [Sinhala](https://lknlp.github.io): [\[git repo\]](https://github.com/lknlp/lknlp.github.io) ⭐ 18 | 🐛 5 | 🌐 HTML | 📅 2023-12-23
 * [Tamil](https://narvidhai.github.io/tamil-nlp-catalog/)
 
