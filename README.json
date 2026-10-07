@@ -104,7 +104,7 @@
             "open_issues": 34,
             "owner": "anoopkunchukuttan",
             "repo": "indic_nlp_library",
-            "stars": 649,
+            "stars": 650,
             "topics": [
               "indian-languages",
               "natural-language-processing",
@@ -2549,7 +2549,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32212,
+                "stars": 32213,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2665,7 +2665,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32212,
+                "stars": 32213,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2886,7 +2886,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32212,
+                "stars": 32213,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -3150,8 +3150,8 @@
             "id": 262844812,
             "language": null,
             "license": null,
-            "last_commit": "2024-01-23T21:44:53Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-06T19:28:35Z",
+            "open_issues": 0,
             "owner": "shantipriyap",
             "repo": "Odia-NLP-Resource-Catalog",
             "stars": 33,
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T18:37:16.418Z",
+    "last_updated": "2026-10-07T19:04:41.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
