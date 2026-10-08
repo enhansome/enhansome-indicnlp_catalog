@@ -195,10 +195,10 @@ Benchmarks spanning multiple tasks.
 * [FLORES dataset](https://github.com/facebookresearch/flores) ⚠️ Archived: English-Sinhala and English-Nepali corpora
 * [NLLB-Seed](https://github.com/facebookresearch/flores/tree/main/nllb_seed) ⚠️ Archived: Small human-translated parallel corpora from Wikipedia articles for very low resource languages. Includes 5 Indian languages: Kashmiri, Manipuri, Maithili, Bhojpuri, Chattisgarhi.
 * [NLLB-MD](https://github.com/facebookresearch/flores/tree/main/nllb_seed) ⚠️ Archived: NLLB Multi Domain is a set of professionally-translated sentences in News, Unscripted informal speech, and Health domains. Cover Bhojpuri amongst Indian languages.
-* [BPCC Parallel Corpus](https://github.com/ai4bharat/IndicTrans2/?tab=readme-ov-file#data) ⭐ 478 | 🐛 17 | 🌐 Python | 📅 2025-10-03: Largest parallel corpus for English and 22 Indian languages (as of Jan 2024). It comprises 230 million sentence pairs between English-Indian languages. A subset of this corpus is the BPCC-Human Corpus containing 2.2 English-Indic pairs for 22 Indic languages.
+* [BPCC Parallel Corpus](https://github.com/ai4bharat/IndicTrans2/?tab=readme-ov-file#data) ⭐ 479 | 🐛 17 | 🌐 Python | 📅 2025-10-03: Largest parallel corpus for English and 22 Indian languages (as of Jan 2024). It comprises 230 million sentence pairs between English-Indian languages. A subset of this corpus is the BPCC-Human Corpus containing 2.2 English-Indic pairs for 22 Indic languages.
 * [TED Parallel Corpus](https://github.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus) ⭐ 258 | 🐛 9 | 📅 2016-01-04
 * [BUET English-Bangla Corpus, EMNLP-2020](https://github.com/csebuetnlp/banglanmt) ⭐ 156 | 🐛 0 | 🌐 Python | 📅 2024-10-23: 2.7M sentences (has overlaps with OPUS)
-* [Itihasa Parallel Corpus](https://github.com/rahular/itihasa) ⭐ 86 | 🐛 1 | 📅 2023-03-20: 93k parallel sentences between English and Sanskrit from the Ramanyana and Mahabharata.
+* [Itihasa Parallel Corpus](https://github.com/rahular/itihasa) ⭐ 87 | 🐛 1 | 📅 2023-03-20: 93k parallel sentences between English and Sanskrit from the Ramanyana and Mahabharata.
 * [MTurk Indian Parallel Corpus](https://github.com/joshua-decoder/indian-parallel-corpora) ⭐ 70 | 🐛 0 | 🌐 OCaml | 📅 2023-06-29
 * [Kathmandu University-English–Nepali Parallel Corpus](https://github.com/sharad461/nepali-translator) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2024-08-24: A parallel corpus of size 1.8 million sentence pairs for a low resource language pair Nepali–English. Described in [this paper](https://lt4all.elra.info/proceedings/lt4all2019/pdf/2019.lt4all-1.94.pdf).
 * [Sanskrit-Hindi-MT](https://github.com/priyanshu2103/Sanskrit-Hindi-Machine-Translation) ⭐ 20 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-01-16: Machine Translation from Sanskrit to Hindi using Unsupervised and Supervised Learning. Contains Sanskrit-English parallel data and Sanskrit-Hindi parallel(test) data.
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
