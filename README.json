@@ -166,7 +166,7 @@
             "id": 93286921,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-09T04:07:16Z",
+            "last_commit": "2026-10-13T00:48:03Z",
             "open_issues": 11,
             "owner": "indic-transliteration",
             "repo": "indic_transliteration_py",
@@ -901,7 +901,7 @@
                 "open_issues": 49,
                 "owner": "facebookresearch",
                 "repo": "LASER",
-                "stars": 3659,
+                "stars": 3660,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2211,7 +2211,7 @@
                 "open_issues": 4,
                 "owner": "alexa",
                 "repo": "massive",
-                "stars": 573,
+                "stars": 574,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2549,7 +2549,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32207,
+                "stars": 32210,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2635,10 +2635,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-07-23T23:39:41Z",
-                "open_issues": 880,
+                "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40036,
+                "stars": 40038,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -2665,7 +2665,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32207,
+                "stars": 32210,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2796,7 +2796,7 @@
                 "open_issues": 11,
                 "owner": "babylonhealth",
                 "repo": "fastText_multilingual",
-                "stars": 1202,
+                "stars": 1203,
                 "topics": [
                   "distributed-representations",
                   "machine-learning",
@@ -2886,7 +2886,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32207,
+                "stars": 32210,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T21:24:38.891Z",
+    "last_updated": "2026-10-13T19:32:18.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
