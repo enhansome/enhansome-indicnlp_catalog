@@ -96,7 +96,7 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 * [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library) ⭐ 650 | 🐛 34 | 🌐 Python | 📅 2024-06-07: Python Library for various Indian language NLP tasks like tokenization, sentence splitting, normalization, script conversion, transliteration, *etc*
   * [Devnagri to Roman transliteration](https://github.com/ritwikmishra/devanagari-to-roman-script-transliteration) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-01-20 using hand-crafted rules and lexicons.
 * [BNLP](https://github.com/sagorbrur/bnlp) ⭐ 310 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-04-01: Bengali language processing toolkit with tokenization, embedding, POS tagging, NER suppport
-* [Sanskrit Coders Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 213 | 🐛 11 | 🌐 Python | 📅 2026-10-13: Script conversion and romanization for Indian languages.
+* [Sanskrit Coders Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 213 | 🐛 11 | 🌐 Python | 📅 2026-10-15: Script conversion and romanization for Indian languages.
 * [CodeSwitch](https://github.com/sagorbrur/codeswitch) ⭐ 38 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2020-11-02: Language identification, POS Tagging, NER, sentiment analysis support for code mixed data including Hindi and Nepali language
 * [pyiwn](https://github.com/riteshpanjwani/pyiwn) ⭐ 36 | 🐛 7 | 🌐 Python | 📅 2022-04-26: Python Interface to IndoWordNet
 * [Smart Sanskirt Annotator](https://github.com/iamdsc/smart-sanskrit-annotator) ⭐ 9 | 🐛 2 | 🌐 JavaScript | 📅 2020-10-31: Annotation tool for Sanskrit [paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.874.pdf)
@@ -111,7 +111,7 @@ Benchmarks spanning multiple tasks.
 * [AI4Bharat IndicGLUE](https://ai4bharat.iitm.ac.in/indic-glue): NLU benchmark for 11 languages.
 * [AI4Bharat IndicNLG Suite](https://ai4bharat.iitm.ac.in/indic-nlg-suite): NLG benchmark for 11 languages spanning 5 generation tasks: biography generation, sentence summarization, headline generation, paraphrase generation and question generation.
 * [GLUECoS](https://microsoft.github.io/GLUECoS): For Hindi-English code-mixed benchmark containing the following tasks - Language Identification (LID), POS Tagging (POS), Named Entity Recognition (NER), Sentiment Analysis (SA), Question Answering (QA), Natural Language Inference (NLI).
-* [AI4Bharat Text Classification](https://github.com/ai4bharat/indicnlp_corpus#publicly-available-classification-datasets) ⭐ 208 | 🐛 10 | 🌐 Python | 📅 2023-04-16: A compilation of classification datasets for 10 languages.
+* [AI4Bharat Text Classification](https://github.com/ai4bharat/indicnlp_corpus#publicly-available-classification-datasets) ⭐ 207 | 🐛 10 | 🌐 Python | 📅 2023-04-16: A compilation of classification datasets for 10 languages.
 * [WAT 2021 Translation Dataset](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual): Standard train and test sets for translation between English and 10 Indian languages.
 
 ## <a name='Standards'></a>Standards
@@ -163,7 +163,7 @@ Benchmarks spanning multiple tasks.
 ### <a name='LexicalResources'></a>Lexical Resources and Semantic Similarity
 
 * [Toxicity-200](https://github.com/facebookresearch/flores/blob/main/toxicity) ⚠️ Archived: Toxicity Lists for 200 languages including 27 Indian languages.
-* [AI4Bharat Word Frequency Lists](https://github.com/AI4Bharat/indicnlp_corpus#text-corpora) ⭐ 208 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Tokens and their frequencies from the AI4Bharat corpus, a large monolingual corpus.
+* [AI4Bharat Word Frequency Lists](https://github.com/AI4Bharat/indicnlp_corpus#text-corpora) ⭐ 207 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Tokens and their frequencies from the AI4Bharat corpus, a large monolingual corpus.
 * [IIIT-Hyderabad Word Similarity Database](https://github.com/syedsarfarazakhtar/Word-Similarity-Datasets-for-Indian-Languages) ⭐ 8 | 🐛 0 | 📅 2017-05-23: 7 Indian languages
 * [Hindi RG-63](https://github.com/ashwinivd/similarity_hindi) ⭐ 3 | 🐛 0 | 📅 2021-04-19: Hindi version of the Rubenstein and Goodenough (RG-65) word similarity dataset
 * [MGAD Hindi Analogy dataset](https://github.com/rutrastone/MGAD) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2018-05-10
@@ -265,7 +265,7 @@ Benchmarks spanning multiple tasks.
 
 * [iNLTK News Headlines classification](https://github.com/goru001/inltk) ⭐ 840 | 🐛 39 | 🌐 Python | 📅 2024-01-20: Datasets for multiple Indian languages.
 * [BBC news articles classification dataset](https://github.com/NirantK/hindi2vec/releases/tag/bbc-hindi-v0.1) ⭐ 219 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2019-03-09: 14 class classification
-* [AI4Bharat IndicNLP News Articles](https://github.com/ai4bharat/indicnlp_corpus) ⭐ 208 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Word embeddings for 10 Indian languages.
+* [AI4Bharat IndicNLP News Articles](https://github.com/ai4bharat/indicnlp_corpus) ⭐ 207 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Word embeddings for 10 Indian languages.
 * [XCOPA](https://github.com/cambridgeltl/xcopa) ⭐ 105 | 🐛 1 | 📅 2021-02-04: A Multilingual Dataset for Causal Commonsense Reasoning in 11 languages (includes Tamil). Described in [this paper](https://ducdauge.github.io/files/xcopa.pdf).
 * [KMI Linguistics TRAC - 1](https://github.com/kmi-linguistics/trac-1) ⭐ 9 | 🐛 0 | 📅 2018-03-12: Contains aggression-annotated dataset (in English and Hindi) for the Shared Task on Aggression Identification during First Workshop on Trolling, Aggression and Cyberbullying (TRAC - 1) at COLING - 2018.
 
@@ -417,7 +417,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='Morphanalyzers'></a>Morphanalyzers
 
-* [AI4Bharat IndicNLP Project](https://github.com/ai4bharat/indicnlp_corpus) ⭐ 208 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Unsupervised morphanalyzers for 10 Indian languages learnt using morfessor.
+* [AI4Bharat IndicNLP Project](https://github.com/ai4bharat/indicnlp_corpus) ⭐ 207 | 🐛 10 | 🌐 Python | 📅 2023-04-16: Unsupervised morphanalyzers for 10 Indian languages learnt using morfessor.
 
 ### <a name='TranslationModels'></a>Translation Models
 
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
