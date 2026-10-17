@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "cltk",
             "repo": "cltk",
-            "stars": 924,
+            "stars": 925,
             "topics": [
               "ai",
               "greek",
@@ -2549,7 +2549,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32213,
+                "stars": 32212,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2638,7 +2638,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40040,
+                "stars": 40039,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -2665,7 +2665,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32213,
+                "stars": 32212,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2886,7 +2886,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32213,
+                "stars": 32212,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2994,7 +2994,7 @@
             "open_issues": 2,
             "owner": "facebookresearch",
             "repo": "covost",
-            "stars": 402,
+            "stars": 401,
             "topics": []
           },
           "first_seen": "2026-08-28T22:39:55.591Z"
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T16:57:31.245Z",
+    "last_updated": "2026-10-17T15:56:49.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
