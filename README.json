@@ -2796,7 +2796,7 @@
                 "open_issues": 11,
                 "owner": "babylonhealth",
                 "repo": "fastText_multilingual",
-                "stars": 1203,
+                "stars": 1204,
                 "topics": [
                   "distributed-representations",
                   "machine-learning",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T16:08:13.248Z",
+    "last_updated": "2026-10-19T18:50:14.377Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",

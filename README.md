@@ -412,7 +412,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='MultilingualWordEmbeddings'></a>Multilingual Word Embeddings
 
-* [Babylon Partners](https://github.com/Babylonpartners/fastText_multilingual) ⭐ 1,203 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10
+* [Babylon Partners](https://github.com/Babylonpartners/fastText_multilingual) ⭐ 1,204 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10
 * [GeoMM](https://github.com/anoopkunchukuttan/geomm) ⭐ 27 | 🐛 30 | 🌐 Python | 📅 2022-12-08
 
 ### <a name='Morphanalyzers'></a>Morphanalyzers
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
