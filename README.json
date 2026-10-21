@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-01T22:16:44Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "cltk",
             "repo": "cltk",
             "stars": 925,
@@ -101,10 +101,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2024-06-07T07:14:41Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "anoopkunchukuttan",
             "repo": "indic_nlp_library",
-            "stars": 651,
+            "stars": 654,
             "topics": [
               "indian-languages",
               "natural-language-processing",
@@ -170,7 +170,7 @@
             "open_issues": 11,
             "owner": "indic-transliteration",
             "repo": "indic_transliteration_py",
-            "stars": 213,
+            "stars": 214,
             "topics": []
           },
           "first_seen": "2026-08-28T22:39:55.591Z"
@@ -901,7 +901,7 @@
                 "open_issues": 49,
                 "owner": "facebookresearch",
                 "repo": "LASER",
-                "stars": 3660,
+                "stars": 3659,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2316,7 +2316,7 @@
                 "open_issues": 10,
                 "owner": "OliverHellwig",
                 "repo": "sanskrit",
-                "stars": 166,
+                "stars": 167,
                 "topics": [
                   "ancient-languages",
                   "corpus-linguistics",
@@ -2638,7 +2638,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40036,
+                "stars": 40040,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -3121,7 +3121,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2021-05-11T07:42:31Z",
-            "open_issues": 2,
+            "open_issues": 4,
             "owner": "urduhack",
             "repo": "awesome-urdu",
             "stars": 80,
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T17:32:02.075Z",
+    "last_updated": "2026-10-21T17:39:54.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
@@ -3197,7 +3197,7 @@
       "open_issues": 152,
       "owner": "AI4Bharat",
       "repo": "indicnlp_catalog",
-      "stars": 640,
+      "stars": 641,
       "topics": [
         "awesome-list",
         "corpora",
