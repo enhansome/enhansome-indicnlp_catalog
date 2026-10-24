@@ -86,12 +86,12 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 * [National Platform for Language Technology](https://nplt.in/demo/index.php?route=product/category\&path=75_59\&limit=100)
 * [BUET CSE NLP Group](https://csebuetnlp.github.io)
 * [KMI Linguistics](https://github.com/kmi-linguistics)
-* [L3Cube](https://github.com/l3cube-pune/MarathiNLP) ⭐ 165 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-09-14
+* [L3Cube](https://github.com/l3cube-pune/MarathiNLP) ⭐ 166 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-09-14
 * [IIT Patna](https://www.iitp.ac.in/~ai-nlp-ml/resources.html)
 
 ## <a name='Libraries'></a>Libraries and Tools
 
-* [CLTK](https://github.com/cltk/cltk/tree/master/cltk) ⭐ 925 | 🐛 5 | 🌐 Python | 📅 2026-08-01: Toolkit for many of the world's classical languages. Support for Sanskrit. Some parts of the Sanskrit library are forked from the Indic NLP Library.
+* [CLTK](https://github.com/cltk/cltk/tree/master/cltk) ⭐ 926 | 🐛 5 | 🌐 Python | 📅 2026-08-01: Toolkit for many of the world's classical languages. Support for Sanskrit. Some parts of the Sanskrit library are forked from the Indic NLP Library.
 * [iNLTK](https://github.com/goru001/inltk) ⭐ 840 | 🐛 39 | 🌐 Python | 📅 2024-01-20: iNLTK aims to provide out of the box support for various NLP tasks that an application developer might need for Indic languages.
 * [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library) ⭐ 653 | 🐛 35 | 🌐 Python | 📅 2024-06-07: Python Library for various Indian language NLP tasks like tokenization, sentence splitting, normalization, script conversion, transliteration, *etc*
   * [Devnagri to Roman transliteration](https://github.com/ritwikmishra/devanagari-to-roman-script-transliteration) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-01-20 using hand-crafted rules and lexicons.
@@ -175,7 +175,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='NERCorpora'></a>NER Corpora
 
-* [L3Cube-MahaNER](https://github.com/l3cube-pune/MarathiNLP/tree/main/L3Cube-MahaNER) ⭐ 165 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-09-14: The first major gold standard named entity recognition dataset in Marathi consisting of 25,000 sentences in Marathi language. Described in [this paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/WILDRE6/pdf/2022.wildre6-1.6.pdf).
+* [L3Cube-MahaNER](https://github.com/l3cube-pune/MarathiNLP/tree/main/L3Cube-MahaNER) ⭐ 166 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-09-14: The first major gold standard named entity recognition dataset in Marathi consisting of 25,000 sentences in Marathi language. Described in [this paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/WILDRE6/pdf/2022.wildre6-1.6.pdf).
 * [CFILT HiNER](https://github.com/cfiltnlp/hiner) ⭐ 17 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-06-06: A large Hindi NER dataset containing 109,146 sentences and 2,220,856 tokens. Described in [this paper](https://arxiv.org/abs/2204.13743).
 * [a-mma NER data](https://github.com/a-mma/NER_Open_Data) ⚠️ Archived
 * [FIRE 2013 AUKBC NER Corpus](http://au-kbc.org/nlp/NER-FIRE2013)
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
