@@ -353,7 +353,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='DependencyParseCorpus'></a>Dependency Parse Corpus
 
-* [Vedic Sanskrit Treebank](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2020lrec) ⭐ 167 | 🐛 10 | 🌐 Python | 📅 2026-08-24: 4k Sanskrit dependency treebank \[[paper](https://www.aclweb.org/anthology/2020.lrec-1.632.pdf)]
+* [Vedic Sanskrit Treebank](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2020lrec) ⭐ 168 | 🐛 10 | 🌐 Python | 📅 2026-08-24: 4k Sanskrit dependency treebank \[[paper](https://www.aclweb.org/anthology/2020.lrec-1.632.pdf)]
 * [Universal Dependencies Hindi Treebank](https://github.com/UniversalDependencies/UD_Hindi-HDTB) ⭐ 24 | 🐛 2 | 📅 2026-09-06
 * [Universal Dependencies Urdu Treebank](https://github.com/UniversalDependencies/UD_Urdu-UDTB) ⭐ 9 | 🐛 1 | 📅 2026-09-06
 * [IIIT Hyderabad Hindi Treebank](http://tdil-dc.in/index.php?option=com_download\&task=showresourceDetails\&toolid=1977\&lang=en)
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
