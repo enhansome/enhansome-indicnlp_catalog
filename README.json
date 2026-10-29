@@ -104,7 +104,7 @@
             "open_issues": 35,
             "owner": "anoopkunchukuttan",
             "repo": "indic_nlp_library",
-            "stars": 653,
+            "stars": 654,
             "topics": [
               "indian-languages",
               "natural-language-processing",
@@ -129,7 +129,7 @@
             "open_issues": 1,
             "owner": "sagorbrur",
             "repo": "bnlp",
-            "stars": 310,
+            "stars": 311,
             "topics": [
               "bangla",
               "bangla-nlp",
@@ -2638,7 +2638,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40035,
+                "stars": 40036,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -2721,7 +2721,7 @@
                 "open_issues": 0,
                 "owner": "csebuetnlp",
                 "repo": "banglabert",
-                "stars": 259,
+                "stars": 260,
                 "topics": [
                   "bangla-language-processing",
                   "bangla-natural-language-processing",
@@ -2761,7 +2761,7 @@
                 "open_issues": 0,
                 "owner": "sagorbrur",
                 "repo": "bangla-bert",
-                "stars": 84,
+                "stars": 85,
                 "topics": [
                   "bangla",
                   "bangla-nlp",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T18:29:45.676Z",
+    "last_updated": "2026-10-29T18:39:07.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
