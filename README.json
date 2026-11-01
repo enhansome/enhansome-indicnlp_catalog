@@ -1027,7 +1027,7 @@
                 "open_issues": 18,
                 "owner": "AI4Bharat",
                 "repo": "IndicTrans2",
-                "stars": 489,
+                "stars": 490,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -1437,7 +1437,7 @@
                 "open_issues": 1,
                 "owner": "google-research-datasets",
                 "repo": "dakshina",
-                "stars": 213,
+                "stars": 214,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2549,7 +2549,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32212,
+                "stars": 32210,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2665,7 +2665,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32212,
+                "stars": 32210,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2886,7 +2886,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32212,
+                "stars": 32210,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:21:35.991Z",
+    "last_updated": "2026-11-01T18:07:04.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
@@ -3194,7 +3194,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-12-14T02:21:43Z",
-      "open_issues": 153,
+      "open_issues": 154,
       "owner": "AI4Bharat",
       "repo": "indicnlp_catalog",
       "stars": 641,
