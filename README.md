@@ -91,11 +91,11 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 
 ## <a name='Libraries'></a>Libraries and Tools
 
-* [CLTK](https://github.com/cltk/cltk/tree/master/cltk) ⭐ 927 | 🐛 5 | 🌐 Python | 📅 2026-08-01: Toolkit for many of the world's classical languages. Support for Sanskrit. Some parts of the Sanskrit library are forked from the Indic NLP Library.
+* [CLTK](https://github.com/cltk/cltk/tree/master/cltk) ⭐ 928 | 🐛 5 | 🌐 Python | 📅 2026-08-01: Toolkit for many of the world's classical languages. Support for Sanskrit. Some parts of the Sanskrit library are forked from the Indic NLP Library.
 * [iNLTK](https://github.com/goru001/inltk) ⭐ 840 | 🐛 39 | 🌐 Python | 📅 2024-01-20: iNLTK aims to provide out of the box support for various NLP tasks that an application developer might need for Indic languages.
 * [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library) ⭐ 654 | 🐛 35 | 🌐 Python | 📅 2024-06-07: Python Library for various Indian language NLP tasks like tokenization, sentence splitting, normalization, script conversion, transliteration, *etc*
   * [Devnagri to Roman transliteration](https://github.com/ritwikmishra/devanagari-to-roman-script-transliteration) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-01-20 using hand-crafted rules and lexicons.
-* [BNLP](https://github.com/sagorbrur/bnlp) ⭐ 311 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-10-31: Bengali language processing toolkit with tokenization, embedding, POS tagging, NER suppport
+* [BNLP](https://github.com/sagorbrur/bnlp) ⭐ 312 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-10-31: Bengali language processing toolkit with tokenization, embedding, POS tagging, NER suppport
 * [Sanskrit Coders Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 214 | 🐛 11 | 🌐 Python | 📅 2026-10-16: Script conversion and romanization for Indian languages.
 * [CodeSwitch](https://github.com/sagorbrur/codeswitch) ⭐ 38 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2020-11-02: Language identification, POS Tagging, NER, sentiment analysis support for code mixed data including Hindi and Nepali language
 * [pyiwn](https://github.com/riteshpanjwani/pyiwn) ⭐ 36 | 🐛 7 | 🌐 Python | 📅 2022-04-26: Python Interface to IndoWordNet
@@ -330,7 +330,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='InformationExtraction'></a>Information Extraction
 
-* [Amazon MASSIVE](https://github.com/alexa/massive) ⭐ 576 | 🐛 4 | 🌐 Python | 📅 2022-11-28: A Multilingual Amazon SLURP (SLU resource package) for Slot Filling, Intent Classification, and Virtual-Assistant Evaluation containing one million realistic, parallel, labeled virtual-assistant text utterances spanning 51 languages, 18 domains, 60 intents, and 55 slots. Described in [this paper](https://arxiv.org/abs/2204.08582).
+* [Amazon MASSIVE](https://github.com/alexa/massive) ⭐ 577 | 🐛 4 | 🌐 Python | 📅 2022-11-28: A Multilingual Amazon SLURP (SLU resource package) for Slot Filling, Intent Classification, and Virtual-Assistant Evaluation containing one million realistic, parallel, labeled virtual-assistant text utterances spanning 51 languages, 18 domains, 60 intents, and 55 slots. Described in [this paper](https://arxiv.org/abs/2204.08582).
 * [EventXtract-IL](http://78.46.86.133/EventXtractionIL-FIRE2018): Event extraction for Tamil and Hindi. Described in [this paper](http://ceur-ws.org/Vol-2266/T5-1.pdf).
 * \[EDNIL-FIRE2020]<https://ednilfire.github.io/ednil/2020/index.html>): Event extraction for Tamil, Hindi, Bengali, Marathi, English. Described in [this paper](http://ceur-ws.org/Vol-2266/T5-1.pdf).
 * [Facebook - MTOP Benchmark](https://fb.me/mtop_dataset): A Comprehensive Multilingual Task-Oriented Semantic Parsing Benchmark with a dataset comprising of 100k annotated utterances in 6 languages(including Indic language: Hindi) across 11 domains. Described in [this paper](https://arxiv.org/pdf/2008.09335.pdf).
@@ -353,7 +353,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='DependencyParseCorpus'></a>Dependency Parse Corpus
 
-* [Vedic Sanskrit Treebank](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2020lrec) ⭐ 168 | 🐛 10 | 🌐 Python | 📅 2026-08-24: 4k Sanskrit dependency treebank \[[paper](https://www.aclweb.org/anthology/2020.lrec-1.632.pdf)]
+* [Vedic Sanskrit Treebank](https://github.com/OliverHellwig/sanskrit/tree/master/papers/2020lrec) ⭐ 169 | 🐛 10 | 🌐 Python | 📅 2026-08-24: 4k Sanskrit dependency treebank \[[paper](https://www.aclweb.org/anthology/2020.lrec-1.632.pdf)]
 * [Universal Dependencies Hindi Treebank](https://github.com/UniversalDependencies/UD_Hindi-HDTB) ⭐ 24 | 🐛 2 | 📅 2026-09-06
 * [Universal Dependencies Urdu Treebank](https://github.com/UniversalDependencies/UD_Urdu-UDTB) ⭐ 9 | 🐛 1 | 📅 2026-09-06
 * [IIIT Hyderabad Hindi Treebank](http://tdil-dc.in/index.php?option=com_download\&task=showresourceDetails\&toolid=1977\&lang=en)
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
