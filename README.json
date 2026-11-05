@@ -51,7 +51,7 @@
             "open_issues": 39,
             "owner": "goru001",
             "repo": "inltk",
-            "stars": 840,
+            "stars": 839,
             "topics": [
               "data-augmentation",
               "deep-learning",
@@ -104,7 +104,7 @@
             "open_issues": 35,
             "owner": "anoopkunchukuttan",
             "repo": "indic_nlp_library",
-            "stars": 654,
+            "stars": 653,
             "topics": [
               "indian-languages",
               "natural-language-processing",
@@ -1027,7 +1027,7 @@
                 "open_issues": 18,
                 "owner": "AI4Bharat",
                 "repo": "IndicTrans2",
-                "stars": 490,
+                "stars": 491,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -1518,7 +1518,7 @@
                 "open_issues": 39,
                 "owner": "goru001",
                 "repo": "inltk",
-                "stars": 840,
+                "stars": 839,
                 "topics": [
                   "data-augmentation",
                   "deep-learning",
@@ -2690,7 +2690,7 @@
                 "open_issues": 39,
                 "owner": "goru001",
                 "repo": "inltk",
-                "stars": 840,
+                "stars": 839,
                 "topics": [
                   "data-augmentation",
                   "deep-learning",
@@ -2796,7 +2796,7 @@
                 "open_issues": 11,
                 "owner": "babylonhealth",
                 "repo": "fastText_multilingual",
-                "stars": 1204,
+                "stars": 1203,
                 "topics": [
                   "distributed-representations",
                   "machine-learning",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:01:48.280Z",
+    "last_updated": "2026-11-05T20:16:16.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
