@@ -195,7 +195,7 @@ Benchmarks spanning multiple tasks.
 * [FLORES dataset](https://github.com/facebookresearch/flores) ⚠️ Archived: English-Sinhala and English-Nepali corpora
 * [NLLB-Seed](https://github.com/facebookresearch/flores/tree/main/nllb_seed) ⚠️ Archived: Small human-translated parallel corpora from Wikipedia articles for very low resource languages. Includes 5 Indian languages: Kashmiri, Manipuri, Maithili, Bhojpuri, Chattisgarhi.
 * [NLLB-MD](https://github.com/facebookresearch/flores/tree/main/nllb_seed) ⚠️ Archived: NLLB Multi Domain is a set of professionally-translated sentences in News, Unscripted informal speech, and Health domains. Cover Bhojpuri amongst Indian languages.
-* [BPCC Parallel Corpus](https://github.com/ai4bharat/IndicTrans2/?tab=readme-ov-file#data) ⭐ 491 | 🐛 18 | 🌐 Python | 📅 2025-10-03: Largest parallel corpus for English and 22 Indian languages (as of Jan 2024). It comprises 230 million sentence pairs between English-Indian languages. A subset of this corpus is the BPCC-Human Corpus containing 2.2 English-Indic pairs for 22 Indic languages.
+* [BPCC Parallel Corpus](https://github.com/ai4bharat/IndicTrans2/?tab=readme-ov-file#data) ⭐ 493 | 🐛 18 | 🌐 Python | 📅 2025-10-03: Largest parallel corpus for English and 22 Indian languages (as of Jan 2024). It comprises 230 million sentence pairs between English-Indian languages. A subset of this corpus is the BPCC-Human Corpus containing 2.2 English-Indic pairs for 22 Indic languages.
 * [TED Parallel Corpus](https://github.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus) ⭐ 258 | 🐛 9 | 📅 2016-01-04
 * [BUET English-Bangla Corpus, EMNLP-2020](https://github.com/csebuetnlp/banglanmt) ⭐ 156 | 🐛 0 | 🌐 Python | 📅 2024-10-23: 2.7M sentences (has overlaps with OPUS)
 * [Itihasa Parallel Corpus](https://github.com/rahular/itihasa) ⭐ 88 | 🐛 1 | 📅 2023-03-20: 93k parallel sentences between English and Sanskrit from the Ramanyana and Mahabharata.
@@ -432,7 +432,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='SpeechModels'></a>Speech Models
 
-* [Vakyansh CLSRIL-23](https://github.com/Open-Speech-EkStep/vakyansh-models) ⭐ 329 | 🐛 9 | 📅 2022-09-16: Pretrained wav2vec2 model trained on 10,000 hours of Speech data in 23 Indic Languages [(documentation)](https://open-speech-ekstep.github.io/) [(experimentation platform)](https://github.com/Open-Speech-EkStep/vakyansh-wav2vec2-experimentation) ⭐ 90 | 🐛 23 | 🌐 Python | 📅 2022-09-22.
+* [Vakyansh CLSRIL-23](https://github.com/Open-Speech-EkStep/vakyansh-models) ⭐ 328 | 🐛 9 | 📅 2022-09-16: Pretrained wav2vec2 model trained on 10,000 hours of Speech data in 23 Indic Languages [(documentation)](https://open-speech-ekstep.github.io/) [(experimentation platform)](https://github.com/Open-Speech-EkStep/vakyansh-wav2vec2-experimentation) ⭐ 90 | 🐛 23 | 🌐 Python | 📅 2022-09-22.
 * [AI4Bharat IndicWav2Vec](https://ai4bharat.iitm.ac.in/indic-wav-2-vec): Multilingual pre-trained models for 40 Indian languages based on Wav2Vec 2.0.
 * [arijitx/wav2vec2-large-xlsr-bengali](https://huggingface.co/arijitx/wav2vec2-large-xlsr-bengali): Pretrained wav2vec2-large-xlsr trained on \~50 hrs(40,000 utterances) of OpenSLR Bengali data. Test WER 32.45% without LM.
 
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._

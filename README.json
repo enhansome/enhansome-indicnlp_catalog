@@ -1027,7 +1027,7 @@
                 "open_issues": 18,
                 "owner": "AI4Bharat",
                 "repo": "IndicTrans2",
-                "stars": 491,
+                "stars": 493,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2549,7 +2549,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32211,
+                "stars": 32208,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2638,7 +2638,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40036,
+                "stars": 40033,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -2665,7 +2665,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32211,
+                "stars": 32208,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2886,7 +2886,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32211,
+                "stars": 32208,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2918,7 +2918,7 @@
                 "open_issues": 9,
                 "owner": "Open-Speech-EkStep",
                 "repo": "vakyansh-models",
-                "stars": 329,
+                "stars": 328,
                 "topics": [
                   "indic-languages",
                   "speech-recognition",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T20:16:16.906Z",
+    "last_updated": "2026-11-06T19:41:28.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
