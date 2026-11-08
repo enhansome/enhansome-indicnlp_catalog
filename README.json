@@ -104,7 +104,7 @@
             "open_issues": 35,
             "owner": "anoopkunchukuttan",
             "repo": "indic_nlp_library",
-            "stars": 653,
+            "stars": 654,
             "topics": [
               "indian-languages",
               "natural-language-processing",
@@ -2338,7 +2338,7 @@
                 "id": 35936963,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-06T07:57:55Z",
+                "last_commit": "2026-11-08T11:20:36Z",
                 "open_issues": 2,
                 "owner": "UniversalDependencies",
                 "repo": "UD_Hindi-HDTB",
@@ -2359,7 +2359,7 @@
                 "id": 67670847,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-06T07:56:23Z",
+                "last_commit": "2026-11-08T11:52:12Z",
                 "open_issues": 1,
                 "owner": "UniversalDependencies",
                 "repo": "UD_Urdu-UDTB",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T17:51:32.892Z",
+    "last_updated": "2026-11-08T18:05:15.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
