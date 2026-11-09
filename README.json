@@ -571,7 +571,7 @@
                     "open_issues": 17,
                     "owner": "AI4Bharat",
                     "repo": "IndicBERT",
-                    "stars": 124,
+                    "stars": 125,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:39:55.591Z"
@@ -671,7 +671,7 @@
                 "open_issues": 10,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_corpus",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -804,7 +804,7 @@
                 "open_issues": 1,
                 "owner": "l3cube-pune",
                 "repo": "MarathiNLP",
-                "stars": 166,
+                "stars": 167,
                 "topics": [
                   "bert",
                   "dataset",
@@ -1027,7 +1027,7 @@
                 "open_issues": 18,
                 "owner": "AI4Bharat",
                 "repo": "IndicTrans2",
-                "stars": 494,
+                "stars": 493,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -1570,7 +1570,7 @@
                 "open_issues": 10,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_corpus",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -1982,7 +1982,7 @@
                 "open_issues": 3,
                 "owner": "google-deepmind",
                 "repo": "xquad",
-                "stars": 216,
+                "stars": 217,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2316,7 +2316,7 @@
                 "open_issues": 10,
                 "owner": "OliverHellwig",
                 "repo": "sanskrit",
-                "stars": 169,
+                "stars": 170,
                 "topics": [
                   "ancient-languages",
                   "corpus-linguistics",
@@ -2549,7 +2549,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32206,
+                "stars": 32203,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2638,7 +2638,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40033,
+                "stars": 40029,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -2665,7 +2665,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32206,
+                "stars": 32203,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2858,7 +2858,7 @@
                 "open_issues": 10,
                 "owner": "AI4Bharat",
                 "repo": "indicnlp_corpus",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2886,7 +2886,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32206,
+                "stars": 32203,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:05:15.622Z",
+    "last_updated": "2026-11-09T22:42:25.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
