@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "cltk",
             "repo": "cltk",
-            "stars": 929,
+            "stars": 930,
             "topics": [
               "ai",
               "greek",
@@ -104,7 +104,7 @@
             "open_issues": 35,
             "owner": "anoopkunchukuttan",
             "repo": "indic_nlp_library",
-            "stars": 654,
+            "stars": 655,
             "topics": [
               "indian-languages",
               "natural-language-processing",
@@ -166,7 +166,7 @@
             "id": 93286921,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-07T05:45:48Z",
+            "last_commit": "2026-11-10T06:14:12Z",
             "open_issues": 11,
             "owner": "indic-transliteration",
             "repo": "indic_transliteration_py",
@@ -692,7 +692,7 @@
                 "open_issues": 0,
                 "owner": "syedsarfarazakhtar",
                 "repo": "Word-Similarity-Datasets-for-Indian-Languages",
-                "stars": 8,
+                "stars": 9,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -1027,7 +1027,7 @@
                 "open_issues": 18,
                 "owner": "AI4Bharat",
                 "repo": "IndicTrans2",
-                "stars": 493,
+                "stars": 494,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2336,9 +2336,9 @@
                 "description": null,
                 "homepage": null,
                 "id": 35936963,
-                "language": null,
+                "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-08T11:20:36Z",
+                "last_commit": "2026-11-10T12:56:23Z",
                 "open_issues": 2,
                 "owner": "UniversalDependencies",
                 "repo": "UD_Hindi-HDTB",
@@ -2357,9 +2357,9 @@
                 "description": null,
                 "homepage": null,
                 "id": 67670847,
-                "language": null,
+                "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-08T11:52:12Z",
+                "last_commit": "2026-11-10T13:54:33Z",
                 "open_issues": 1,
                 "owner": "UniversalDependencies",
                 "repo": "UD_Urdu-UDTB",
@@ -2549,7 +2549,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32203,
+                "stars": 32204,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2665,7 +2665,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32203,
+                "stars": 32204,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2796,7 +2796,7 @@
                 "open_issues": 11,
                 "owner": "babylonhealth",
                 "repo": "fastText_multilingual",
-                "stars": 1203,
+                "stars": 1202,
                 "topics": [
                   "distributed-representations",
                   "machine-learning",
@@ -2886,7 +2886,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32203,
+                "stars": 32204,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T22:42:25.026Z",
+    "last_updated": "2026-11-10T20:00:22.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
