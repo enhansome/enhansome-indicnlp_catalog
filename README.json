@@ -170,7 +170,7 @@
             "open_issues": 11,
             "owner": "indic-transliteration",
             "repo": "indic_transliteration_py",
-            "stars": 214,
+            "stars": 215,
             "topics": []
           },
           "first_seen": "2026-08-28T22:39:55.591Z"
@@ -1982,7 +1982,7 @@
                 "open_issues": 3,
                 "owner": "google-deepmind",
                 "repo": "xquad",
-                "stars": 217,
+                "stars": 218,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2338,7 +2338,7 @@
                 "id": 35936963,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T12:56:23Z",
+                "last_commit": "2026-11-10T21:47:45Z",
                 "open_issues": 2,
                 "owner": "UniversalDependencies",
                 "repo": "UD_Hindi-HDTB",
@@ -2359,7 +2359,7 @@
                 "id": 67670847,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-10T13:54:33Z",
+                "last_commit": "2026-11-10T21:56:46Z",
                 "open_issues": 1,
                 "owner": "UniversalDependencies",
                 "repo": "UD_Urdu-UDTB",
@@ -2549,7 +2549,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32204,
+                "stars": 32205,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2665,7 +2665,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32204,
+                "stars": 32205,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2721,7 +2721,7 @@
                 "open_issues": 0,
                 "owner": "csebuetnlp",
                 "repo": "banglabert",
-                "stars": 260,
+                "stars": 261,
                 "topics": [
                   "bangla-language-processing",
                   "bangla-natural-language-processing",
@@ -2886,7 +2886,7 @@
                 "open_issues": 1352,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32204,
+                "stars": 32205,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:00:22.289Z",
+    "last_updated": "2026-11-11T19:52:01.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",

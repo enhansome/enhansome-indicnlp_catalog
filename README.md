@@ -96,7 +96,7 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 * [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library) ⭐ 655 | 🐛 35 | 🌐 Python | 📅 2024-06-07: Python Library for various Indian language NLP tasks like tokenization, sentence splitting, normalization, script conversion, transliteration, *etc*
   * [Devnagri to Roman transliteration](https://github.com/ritwikmishra/devanagari-to-roman-script-transliteration) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-01-20 using hand-crafted rules and lexicons.
 * [BNLP](https://github.com/sagorbrur/bnlp) ⭐ 313 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-10-31: Bengali language processing toolkit with tokenization, embedding, POS tagging, NER suppport
-* [Sanskrit Coders Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 214 | 🐛 11 | 🌐 Python | 📅 2026-11-10: Script conversion and romanization for Indian languages.
+* [Sanskrit Coders Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 215 | 🐛 11 | 🌐 Python | 📅 2026-11-10: Script conversion and romanization for Indian languages.
 * [CodeSwitch](https://github.com/sagorbrur/codeswitch) ⭐ 38 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2020-11-02: Language identification, POS Tagging, NER, sentiment analysis support for code mixed data including Hindi and Nepali language
 * [pyiwn](https://github.com/riteshpanjwani/pyiwn) ⭐ 36 | 🐛 7 | 🌐 Python | 📅 2022-04-26: Python Interface to IndoWordNet
 * [Smart Sanskirt Annotator](https://github.com/iamdsc/smart-sanskrit-annotator) ⭐ 9 | 🐛 2 | 🌐 JavaScript | 📅 2020-10-31: Annotation tool for Sanskrit [paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.874.pdf)
@@ -308,7 +308,7 @@ Benchmarks spanning multiple tasks.
 
 * [TyDi QA datasets](https://github.com/google-research-datasets/tydiqa) ⚠️ Archived: QA dataset for Bengali and Telugu.
 * [Facebook Multilingual QA datasets](https://github.com/facebookresearch/MLQA) ⚠️ Archived: Contains dev and test sets for Hindi.
-* [XQuAD](https://github.com/deepmind/xquad) ⭐ 217 | 🐛 3 | 📅 2021-11-12: testset for Hindi QA from human translation of subset of SQuAD v1.1. Described in [this paper](https://arxiv.org/abs/1910.11856)
+* [XQuAD](https://github.com/deepmind/xquad) ⭐ 218 | 🐛 3 | 📅 2021-11-12: testset for Hindi QA from human translation of subset of SQuAD v1.1. Described in [this paper](https://arxiv.org/abs/1910.11856)
 * [XQA](http://github.com/thunlp/XQA) ⭐ 89 | 🐛 2 | 🌐 Python | 📅 2021-11-16: testset for Tamil QA. Described in [this paper](https://www.aclweb.org/anthology/P19-1227.pdf)
 * [XOR QA](https://github.com/AkariAsai/XORQA) ⭐ 80 | 🐛 1 | 🌐 Python | 📅 2021-06-03: A large-scale cross-lingual open-retrieval QA dataset (includes Bengali and Telugu) with 40k newly annotated open-retrieval questions that cover seven typologically diverse languages. Described in [this paper](https://arxiv.org/pdf/2010.11856.pdf). More information is available [here](https://nlp.cs.washington.edu/xorqa/).
 * [IITH HiDG](https://github.com/kaushal0494/ZmBART) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2023-03-19: A Distractor Generation [Dataset](https://drive.google.com/drive/folders/1XlY9yOfk0XcfHNO5k0QGsbLQU1nMekG-) for Hindi consisting of 1k/1k/5k (train/validation/test) split. Described in [this paper](https://arxiv.org/pdf/2106.01597.pdf)
@@ -398,7 +398,7 @@ Benchmarks spanning multiple tasks.
 * [BERT Multilingual](https://github.com/google-research/bert) ⚠️ Archived: BERT model trained on Wikipedias of many languages (including major Indic languages).
 * [LASER3](https://github.com/facebookresearch/fairseq/tree/nllb#laser3-encoder-models) ⚠️ Archived: Encoder models suitable for sentence retrieval tasks supporting 200 languages (including 27 Indic languges).
 * [iNLTK](https://github.com/goru001/inltk) ⭐ 839 | 🐛 39 | 🌐 Python | 📅 2024-01-20: ULMFit and TransformerXL pre-trained embeddings for many languages trained on Wikipedia and some News articles.
-* [BanglaBERT](https://github.com/csebuetnlp/banglabert) ⭐ 260 | 🐛 0 | 🌐 Python | 📅 2026-10-20: Language Model Pretraining and Benchmarks for Low-Resource Language Understanding Evaluation in Bangla. Described in [this paper](https://arxiv.org/abs/2101.00204).
+* [BanglaBERT](https://github.com/csebuetnlp/banglabert) ⭐ 261 | 🐛 0 | 🌐 Python | 📅 2026-10-20: Language Model Pretraining and Benchmarks for Low-Resource Language Understanding Evaluation in Bangla. Described in [this paper](https://arxiv.org/abs/2101.00204).
 * [Bangla-BERT-Base](https://github.com/sagorbrur/bangla-bert) ⭐ 85 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-04-29: Bengali BERT model trained on Bengali wikipedia and OSCAR datasets.
 * [AI4Bharat IndicBERT](https://ai4bharat.iitm.ac.in/indic-bert): Multilingual ALBERT based embeddings spanning 12 languages for Natural Language Understanding (including Indian English).
 * [AI4Bharat IndicBART](https://ai4bharat.iitm.ac.in/indic-bart): A multilingual,sequence-to-sequence pre-trained model based on the mBART architecture focusing on 11 Indic languages and English for Natural Language Generation of Indic Languages. Described in [this paper](https://arxiv.org/abs/2109.02903).
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
