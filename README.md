@@ -91,7 +91,7 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 
 ## <a name='Libraries'></a>Libraries and Tools
 
-* [CLTK](https://github.com/cltk/cltk/tree/master/cltk) ⭐ 931 | 🐛 5 | 🌐 Python | 📅 2026-08-01: Toolkit for many of the world's classical languages. Support for Sanskrit. Some parts of the Sanskrit library are forked from the Indic NLP Library.
+* [CLTK](https://github.com/cltk/cltk/tree/master/cltk) ⭐ 931 | 🐛 6 | 🌐 Python | 📅 2026-08-01: Toolkit for many of the world's classical languages. Support for Sanskrit. Some parts of the Sanskrit library are forked from the Indic NLP Library.
 * [iNLTK](https://github.com/goru001/inltk) ⭐ 839 | 🐛 39 | 🌐 Python | 📅 2024-01-20: iNLTK aims to provide out of the box support for various NLP tasks that an application developer might need for Indic languages.
 * [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library) ⭐ 655 | 🐛 35 | 🌐 Python | 📅 2024-06-07: Python Library for various Indian language NLP tasks like tokenization, sentence splitting, normalization, script conversion, transliteration, *etc*
   * [Devnagri to Roman transliteration](https://github.com/ritwikmishra/devanagari-to-roman-script-transliteration) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-01-20 using hand-crafted rules and lexicons.
@@ -369,7 +369,7 @@ Benchmarks spanning multiple tasks.
 ### <a name='Summarization'></a>Summarization
 
 * [XL-Sum](https://github.com/csebuetnlp/xl-sum) ⭐ 279 | 🐛 0 | 🌐 Python | 📅 2024-03-26: A Large-Scale Multilingual Abstractive Summarization for 44 Languages with a comprehensive and diverse dataset comprising of 1 million professionally annotated article-summary pairs from BBC. Span 150k examples across 10 Indic languages. Described in [this paper](https://arxiv.org/abs/2106.13822).
-* [WikiLingua](https://github.com/esdurmus/Wikilingua) ⭐ 100 | 🐛 2 | 📅 2025-03-14: Cross-lingual summarization dataset created from WikiHow. Contains 9k English-Hindi article-summary pairs. \[[paper](https://arxiv.org/abs/2010.03093)]
+* [WikiLingua](https://github.com/esdurmus/Wikilingua) ⭐ 103 | 🐛 2 | 📅 2025-03-14: Cross-lingual summarization dataset created from WikiHow. Contains 9k English-Hindi article-summary pairs. \[[paper](https://arxiv.org/abs/2010.03093)]
 * [MassiveSum](https://github.com/danielvarab/massive-summ) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2023-04-21: A large summarization dataset for containing 13 Indian languages with \~1.9million article-summary pairs. The summaries are mined from article metadata. \[[paper](https://aclanthology.org/2021.emnlp-main.797/)]
 * [TeSum](https://ltrc.iiit.ac.in/showfile.php?filename=downloads/teSum): Telugu Abstractive Summarization dataset containing 20k+ article-summary pairs, with the summaries being manually created. \[[paper](https://aclanthology.org/2022.lrec-1.614)]
 
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._

@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-01T22:16:44Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "cltk",
             "repo": "cltk",
             "stars": 931,
@@ -2459,7 +2459,7 @@
                 "open_issues": 2,
                 "owner": "esdurmus",
                 "repo": "Wikilingua",
-                "stars": 100,
+                "stars": 103,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2638,7 +2638,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40030,
+                "stars": 40029,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:03:12.545Z",
+    "last_updated": "2026-11-14T18:29:36.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
