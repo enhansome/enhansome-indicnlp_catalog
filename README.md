@@ -130,7 +130,7 @@ Benchmarks spanning multiple tasks.
 * [CMU Romanized Hinglish Corpus](https://github.com/khyathiraghavi/multi_task_code_switched_language_modeling/tree/master/hinglishData) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2018-05-14: See [THIS PAPER](https://www.aclweb.org/anthology/W18-3211.pdf) for details.
 * [JNU-BHLTR Bhojpuri Corpus](https://github.com/shashwatup9k/bho-resources/tree/master/mono-bho-corpus) ⭐ 5 | 🐛 0 | 📅 2026-06-12: Bhojpuri corpus of 45k sentences.
 * [KMI Linguistics Bodo](https://github.com/kmi-linguistics/bodo) ⭐ 5 | 🐛 0 | 📅 2020-07-31: Contains the Bodo corpus and the frequency-ordered word and punctuation list.
-* [Kangri\_corpus](https://github.com/chauhanshweta/Kangri_corpus) ⭐ 5 | 🐛 0 | 📅 2024-07-27: Monolingual corpus of Himachali low resource endangered language, Kangri comprising of 1,81,552 sentences. Described in [this paper](https://arxiv.org/abs/2103.11596).
+* [Kangri\_corpus](https://github.com/chauhanshweta/Kangri_corpus) ⭐ 5 | 🐛 0 | 📅 2026-11-15: Monolingual corpus of Himachali low resource endangered language, Kangri comprising of 1,81,552 sentences. Described in [this paper](https://arxiv.org/abs/2103.11596).
 * [KMI Magahi Corpus](https://github.com/kmi-linguistics/magahi) ⭐ 3 | 🐛 0 | 🌐 Java | 📅 2020-07-30:
 * [KMI Awadhi Corpus](https://github.com/kmi-linguistics/awadhi) ⭐ 1 | 🐛 0 | 📅 2017-09-08:
 * [FacebookDecadeCorpora](https://github.com/samithaj/FacebookDecadeCorpora) ⭐ 0 | 🐛 0 | 📅 2020-07-15: Contains two language corpora of colloquial Sinhala content extracted from Facebook using the Crowdtangle platform. The larger corpus contains 28,825,820 to 29,549,672 words of text, mostly in Sinhala, English and Tamil and the smaller corpus amounts to 5,402,76 words of only Sinhala text extracted from Corpus-Alpha. Described in [this paper](https://arxiv.org/ftp/arxiv/papers/2007/2007.07884.pdf).
@@ -202,14 +202,14 @@ Benchmarks spanning multiple tasks.
 * [MTurk Indian Parallel Corpus](https://github.com/joshua-decoder/indian-parallel-corpora) ⭐ 70 | 🐛 0 | 🌐 OCaml | 📅 2023-06-29
 * [Kathmandu University-English–Nepali Parallel Corpus](https://github.com/sharad461/nepali-translator) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2024-08-24: A parallel corpus of size 1.8 million sentence pairs for a low resource language pair Nepali–English. Described in [this paper](https://lt4all.elra.info/proceedings/lt4all2019/pdf/2019.lt4all-1.94.pdf).
 * [Sanskrit-Hindi-MT](https://github.com/priyanshu2103/Sanskrit-Hindi-Machine-Translation) ⭐ 20 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-01-16: Machine Translation from Sanskrit to Hindi using Unsupervised and Supervised Learning. Contains Sanskrit-English parallel data and Sanskrit-Hindi parallel(test) data.
-* [NLPC-UoM English-Tamil Corpus](https://github.com/nlpc-uom/English-Tamil-Parallel-Corpus) ⭐ 15 | 🐛 1 | 📅 2021-01-04: 9k sentences, 24k glossary terms
+* [NLPC-UoM English-Tamil Corpus](https://github.com/nlpc-uom/English-Tamil-Parallel-Corpus) ⭐ 16 | 🐛 1 | 📅 2021-01-04: 9k sentences, 24k glossary terms
 * [SAP Software Documentation](https://github.com/SAP/software-documentation-data-set-for-machine-translation) ⭐ 15 | 🐛 0 | 🌐 Wolfram Language | 📅 2026-06-12: test and evaluation set for English-Hindi in the  software documentation domain \[[paper](https://arxiv.org/abs/2008.04550)]
 * [IIIT-H en-hi-codemixed-corpus](https://github.com/mrinaldhar/en-hi-codemixed-corpus) ⭐ 13 | 🐛 1 | 📅 2019-02-17: A gold standard parallel corpus consisting of 6096 English-Hindi code-mixed sentences containing a total of 63,913 tokens and monolingual English. Described in [this paper](https://aclanthology.org/W18-3817.pdf).
 * [Uka Tarsadia University Corpus](https://github.com/shahparth123/eng_guj_parallel_corpus) ⭐ 10 | 🐛 2 | 📅 2020-12-27: 65k English-Gujarati sentence pairs. Corpus is described in [this paper](https://arxiv.org/abs/2002.02758)
 * [MTEnglish2Odia](https://github.com/soumendrak/MTEnglish2Odia) ⚠️ Archived: English-Odia (42k pairs)
 * [IndoWordnet Parallel Corpus](https://github.com/anoopkunchukuttan/indowordnet_parallel) ⭐ 8 | 🐛 1 | 📅 2020-06-16: Parallel corpora mined from IndoWordNet gloss and/or examples for Indian-Indian language corpora  (6.3 million segments, 18 languages).
 * [JNU-BHLTR Bhojpuri Corpus](https://github.com/shashwatup9k/bho-resources) ⭐ 5 | 🐛 0 | 📅 2026-06-12: English-Bhojpuri corpus of 65k sentences
-* [Kangri\_corpus](https://github.com/chauhanshweta/Kangri_corpus) ⭐ 5 | 🐛 0 | 📅 2024-07-27: The corpus contains 27,362 Hindi-Kangri Parallel corpora. Described in \[this paper] (<https://arxiv.org/abs/2103.11596>).
+* [Kangri\_corpus](https://github.com/chauhanshweta/Kangri_corpus) ⭐ 5 | 🐛 0 | 📅 2026-11-15: The corpus contains 27,362 Hindi-Kangri Parallel corpora. Described in \[this paper] (<https://arxiv.org/abs/2103.11596>).
 * [CoPara](https://github.com/ENikhil/CoPara) ⭐ 0 | 🐛 0 | 📅 2024-09-15: Long-context parallel corpora for 4 Dravidian languages. Contains 2586 passage pairs mined from New India Samachar \[[paper](https://aclanthology.org/2023.dravidianlangtech-1.12)]
 * [Samanantar Parallel Corpus](https://ai4bharat.iitm.ac.in/samanantar): Largest parallel corpus for English and 11 Indian languages (as of 2021). It comprises 46m sentence pairs between English-Indian languages and 82m sentence  pairs between Indian languages.
 * [IIT Bombay English-Hindi Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel): Largest en-hi parallel corpora in public domain (about 1.5 million segments)
@@ -432,7 +432,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='SpeechModels'></a>Speech Models
 
-* [Vakyansh CLSRIL-23](https://github.com/Open-Speech-EkStep/vakyansh-models) ⭐ 328 | 🐛 9 | 📅 2022-09-16: Pretrained wav2vec2 model trained on 10,000 hours of Speech data in 23 Indic Languages [(documentation)](https://open-speech-ekstep.github.io/) [(experimentation platform)](https://github.com/Open-Speech-EkStep/vakyansh-wav2vec2-experimentation) ⭐ 90 | 🐛 23 | 🌐 Python | 📅 2022-09-22.
+* [Vakyansh CLSRIL-23](https://github.com/Open-Speech-EkStep/vakyansh-models) ⭐ 329 | 🐛 9 | 📅 2022-09-16: Pretrained wav2vec2 model trained on 10,000 hours of Speech data in 23 Indic Languages [(documentation)](https://open-speech-ekstep.github.io/) [(experimentation platform)](https://github.com/Open-Speech-EkStep/vakyansh-wav2vec2-experimentation) ⭐ 90 | 🐛 23 | 🌐 Python | 📅 2022-09-22.
 * [AI4Bharat IndicWav2Vec](https://ai4bharat.iitm.ac.in/indic-wav-2-vec): Multilingual pre-trained models for 40 Indian languages based on Wav2Vec 2.0.
 * [arijitx/wav2vec2-large-xlsr-bengali](https://huggingface.co/arijitx/wav2vec2-large-xlsr-bengali): Pretrained wav2vec2-large-xlsr trained on \~50 hrs(40,000 utterances) of OpenSLR Bengali data. Test WER 32.45% without LM.
 
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
