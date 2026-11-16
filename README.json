@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-01T22:16:44Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "cltk",
             "repo": "cltk",
             "stars": 931,
@@ -51,7 +51,7 @@
             "open_issues": 39,
             "owner": "goru001",
             "repo": "inltk",
-            "stars": 839,
+            "stars": 838,
             "topics": [
               "data-augmentation",
               "deep-learning",
@@ -104,7 +104,7 @@
             "open_issues": 35,
             "owner": "anoopkunchukuttan",
             "repo": "indic_nlp_library",
-            "stars": 655,
+            "stars": 654,
             "topics": [
               "indian-languages",
               "natural-language-processing",
@@ -166,7 +166,7 @@
             "id": 93286921,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-12T11:07:48Z",
+            "last_commit": "2026-11-16T04:36:02Z",
             "open_issues": 11,
             "owner": "indic-transliteration",
             "repo": "indic_transliteration_py",
@@ -1518,7 +1518,7 @@
                 "open_issues": 39,
                 "owner": "goru001",
                 "repo": "inltk",
-                "stars": 839,
+                "stars": 838,
                 "topics": [
                   "data-augmentation",
                   "deep-learning",
@@ -1549,7 +1549,7 @@
                 "open_issues": 4,
                 "owner": "NirantK",
                 "repo": "hindi2vec",
-                "stars": 219,
+                "stars": 218,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -1940,7 +1940,7 @@
                 "open_issues": 3,
                 "owner": "google-research-datasets",
                 "repo": "tydiqa",
-                "stars": 319,
+                "stars": 320,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2211,7 +2211,7 @@
                 "open_issues": 4,
                 "owner": "alexa",
                 "repo": "massive",
-                "stars": 577,
+                "stars": 578,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2508,7 +2508,7 @@
                 "open_issues": 0,
                 "owner": "tushar117",
                 "repo": "XAlign",
-                "stars": 11,
+                "stars": 12,
                 "topics": [
                   "cross-lingual-text-generation",
                   "machine-learning",
@@ -2549,7 +2549,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32205,
+                "stars": 32204,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2638,7 +2638,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40026,
+                "stars": 40025,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -2665,7 +2665,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32205,
+                "stars": 32204,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2690,7 +2690,7 @@
                 "open_issues": 39,
                 "owner": "goru001",
                 "repo": "inltk",
-                "stars": 839,
+                "stars": 838,
                 "topics": [
                   "data-augmentation",
                   "deep-learning",
@@ -2886,7 +2886,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32205,
+                "stars": 32204,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:06:51.916Z",
+    "last_updated": "2026-11-16T22:30:55.347Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
