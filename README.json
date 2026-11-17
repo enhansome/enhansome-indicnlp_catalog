@@ -166,7 +166,7 @@
             "id": 93286921,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-16T04:36:02Z",
+            "last_commit": "2026-11-17T02:33:44Z",
             "open_issues": 11,
             "owner": "indic-transliteration",
             "repo": "indic_transliteration_py",
@@ -1027,7 +1027,7 @@
                 "open_issues": 18,
                 "owner": "AI4Bharat",
                 "repo": "IndicTrans2",
-                "stars": 495,
+                "stars": 496,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2638,7 +2638,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40025,
+                "stars": 40024,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -2761,7 +2761,7 @@
                 "open_issues": 0,
                 "owner": "sagorbrur",
                 "repo": "bangla-bert",
-                "stars": 85,
+                "stars": 86,
                 "topics": [
                   "bangla",
                   "bangla-nlp",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T22:30:55.347Z",
+    "last_updated": "2026-11-17T21:20:08.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
