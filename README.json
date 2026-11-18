@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "cltk",
             "repo": "cltk",
-            "stars": 931,
+            "stars": 930,
             "topics": [
               "ai",
               "greek",
@@ -1027,7 +1027,7 @@
                 "open_issues": 18,
                 "owner": "AI4Bharat",
                 "repo": "IndicTrans2",
-                "stars": 496,
+                "stars": 497,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2313,7 +2313,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-08-24T18:33:32Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "OliverHellwig",
                 "repo": "sanskrit",
                 "stars": 170,
@@ -2549,7 +2549,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32204,
+                "stars": 32205,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2638,7 +2638,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40024,
+                "stars": 40022,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -2665,7 +2665,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32204,
+                "stars": 32205,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2886,7 +2886,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32204,
+                "stars": 32205,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -3124,7 +3124,7 @@
             "open_issues": 4,
             "owner": "urduhack",
             "repo": "awesome-urdu",
-            "stars": 80,
+            "stars": 81,
             "topics": [
               "awsome",
               "awsome-list",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T21:20:08.047Z",
+    "last_updated": "2026-11-18T20:54:06.965Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
