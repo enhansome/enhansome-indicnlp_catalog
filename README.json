@@ -19,7 +19,7 @@
             "open_issues": 5,
             "owner": "cltk",
             "repo": "cltk",
-            "stars": 930,
+            "stars": 929,
             "topics": [
               "ai",
               "greek",
@@ -104,7 +104,7 @@
             "open_issues": 35,
             "owner": "anoopkunchukuttan",
             "repo": "indic_nlp_library",
-            "stars": 654,
+            "stars": 653,
             "topics": [
               "indian-languages",
               "natural-language-processing",
@@ -167,7 +167,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-17T02:33:44Z",
-            "open_issues": 11,
+            "open_issues": 8,
             "owner": "indic-transliteration",
             "repo": "indic_transliteration_py",
             "stars": 215,
@@ -1048,7 +1048,7 @@
                 "open_issues": 9,
                 "owner": "ajinkyakulkarni14",
                 "repo": "TED-Multilingual-Parallel-Corpus",
-                "stars": 258,
+                "stars": 259,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2549,7 +2549,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32205,
+                "stars": 32203,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2638,7 +2638,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40022,
+                "stars": 40021,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -2665,7 +2665,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32205,
+                "stars": 32203,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2761,7 +2761,7 @@
                 "open_issues": 0,
                 "owner": "sagorbrur",
                 "repo": "bangla-bert",
-                "stars": 86,
+                "stars": 87,
                 "topics": [
                   "bangla",
                   "bangla-nlp",
@@ -2796,7 +2796,7 @@
                 "open_issues": 11,
                 "owner": "babylonhealth",
                 "repo": "fastText_multilingual",
-                "stars": 1202,
+                "stars": 1201,
                 "topics": [
                   "distributed-representations",
                   "machine-learning",
@@ -2886,7 +2886,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32205,
+                "stars": 32203,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T20:54:06.965Z",
+    "last_updated": "2026-11-19T20:58:34.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
@@ -3194,7 +3194,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-12-14T02:21:43Z",
-      "open_issues": 154,
+      "open_issues": 156,
       "owner": "AI4Bharat",
       "repo": "indicnlp_catalog",
       "stars": 641,
