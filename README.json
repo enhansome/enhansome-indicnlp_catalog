@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T20:43:43.589Z",
+    "last_updated": "2026-11-21T19:47:51.539Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
@@ -3194,10 +3194,10 @@
       "language": null,
       "license": null,
       "last_commit": "2024-12-14T02:21:43Z",
-      "open_issues": 157,
+      "open_issues": 159,
       "owner": "AI4Bharat",
       "repo": "indicnlp_catalog",
-      "stars": 641,
+      "stars": 642,
       "topics": [
         "awesome-list",
         "corpora",
