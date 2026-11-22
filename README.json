@@ -804,7 +804,7 @@
                 "open_issues": 1,
                 "owner": "l3cube-pune",
                 "repo": "MarathiNLP",
-                "stars": 167,
+                "stars": 168,
                 "topics": [
                   "bert",
                   "dataset",
@@ -1027,7 +1027,7 @@
                 "open_issues": 18,
                 "owner": "AI4Bharat",
                 "repo": "IndicTrans2",
-                "stars": 499,
+                "stars": 500,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -2549,7 +2549,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32206,
+                "stars": 32204,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2665,7 +2665,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32206,
+                "stars": 32204,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2886,7 +2886,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32206,
+                "stars": 32204,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T19:47:51.539Z",
+    "last_updated": "2026-11-22T19:58:25.491Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",

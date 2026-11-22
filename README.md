@@ -86,7 +86,7 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 * [National Platform for Language Technology](https://nplt.in/demo/index.php?route=product/category\&path=75_59\&limit=100)
 * [BUET CSE NLP Group](https://csebuetnlp.github.io)
 * [KMI Linguistics](https://github.com/kmi-linguistics)
-* [L3Cube](https://github.com/l3cube-pune/MarathiNLP) ⭐ 167 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-09-14
+* [L3Cube](https://github.com/l3cube-pune/MarathiNLP) ⭐ 168 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-09-14
 * [IIT Patna](https://www.iitp.ac.in/~ai-nlp-ml/resources.html)
 
 ## <a name='Libraries'></a>Libraries and Tools
@@ -175,7 +175,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='NERCorpora'></a>NER Corpora
 
-* [L3Cube-MahaNER](https://github.com/l3cube-pune/MarathiNLP/tree/main/L3Cube-MahaNER) ⭐ 167 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-09-14: The first major gold standard named entity recognition dataset in Marathi consisting of 25,000 sentences in Marathi language. Described in [this paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/WILDRE6/pdf/2022.wildre6-1.6.pdf).
+* [L3Cube-MahaNER](https://github.com/l3cube-pune/MarathiNLP/tree/main/L3Cube-MahaNER) ⭐ 168 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2025-09-14: The first major gold standard named entity recognition dataset in Marathi consisting of 25,000 sentences in Marathi language. Described in [this paper](http://www.lrec-conf.org/proceedings/lrec2022/workshops/WILDRE6/pdf/2022.wildre6-1.6.pdf).
 * [CFILT HiNER](https://github.com/cfiltnlp/hiner) ⭐ 17 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-06-06: A large Hindi NER dataset containing 109,146 sentences and 2,220,856 tokens. Described in [this paper](https://arxiv.org/abs/2204.13743).
 * [a-mma NER data](https://github.com/a-mma/NER_Open_Data) ⚠️ Archived
 * [FIRE 2013 AUKBC NER Corpus](http://au-kbc.org/nlp/NER-FIRE2013)
@@ -195,7 +195,7 @@ Benchmarks spanning multiple tasks.
 * [FLORES dataset](https://github.com/facebookresearch/flores) ⚠️ Archived: English-Sinhala and English-Nepali corpora
 * [NLLB-Seed](https://github.com/facebookresearch/flores/tree/main/nllb_seed) ⚠️ Archived: Small human-translated parallel corpora from Wikipedia articles for very low resource languages. Includes 5 Indian languages: Kashmiri, Manipuri, Maithili, Bhojpuri, Chattisgarhi.
 * [NLLB-MD](https://github.com/facebookresearch/flores/tree/main/nllb_seed) ⚠️ Archived: NLLB Multi Domain is a set of professionally-translated sentences in News, Unscripted informal speech, and Health domains. Cover Bhojpuri amongst Indian languages.
-* [BPCC Parallel Corpus](https://github.com/ai4bharat/IndicTrans2/?tab=readme-ov-file#data) ⭐ 499 | 🐛 18 | 🌐 Python | 📅 2025-10-03: Largest parallel corpus for English and 22 Indian languages (as of Jan 2024). It comprises 230 million sentence pairs between English-Indian languages. A subset of this corpus is the BPCC-Human Corpus containing 2.2 English-Indic pairs for 22 Indic languages.
+* [BPCC Parallel Corpus](https://github.com/ai4bharat/IndicTrans2/?tab=readme-ov-file#data) ⭐ 500 | 🐛 18 | 🌐 Python | 📅 2025-10-03: Largest parallel corpus for English and 22 Indian languages (as of Jan 2024). It comprises 230 million sentence pairs between English-Indian languages. A subset of this corpus is the BPCC-Human Corpus containing 2.2 English-Indic pairs for 22 Indic languages.
 * [TED Parallel Corpus](https://github.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus) ⭐ 259 | 🐛 9 | 📅 2016-01-04
 * [BUET English-Bangla Corpus, EMNLP-2020](https://github.com/csebuetnlp/banglanmt) ⭐ 156 | 🐛 0 | 🌐 Python | 📅 2024-10-23: 2.7M sentences (has overlaps with OPUS)
 * [Itihasa Parallel Corpus](https://github.com/rahular/itihasa) ⭐ 88 | 🐛 1 | 📅 2023-03-20: 93k parallel sentences between English and Sanskrit from the Ramanyana and Mahabharata.
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
