@@ -170,7 +170,7 @@
             "open_issues": 8,
             "owner": "indic-transliteration",
             "repo": "indic_transliteration_py",
-            "stars": 215,
+            "stars": 216,
             "topics": []
           },
           "first_seen": "2026-08-28T22:39:55.591Z"
@@ -1024,7 +1024,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-10-03T07:05:20Z",
-                "open_issues": 18,
+                "open_issues": 17,
                 "owner": "AI4Bharat",
                 "repo": "IndicTrans2",
                 "stars": 500,
@@ -2211,7 +2211,7 @@
                 "open_issues": 4,
                 "owner": "alexa",
                 "repo": "massive",
-                "stars": 577,
+                "stars": 578,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T19:58:25.491Z",
+    "last_updated": "2026-11-24T00:22:28.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
@@ -3194,7 +3194,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-12-14T02:21:43Z",
-      "open_issues": 159,
+      "open_issues": 158,
       "owner": "AI4Bharat",
       "repo": "indicnlp_catalog",
       "stars": 642,
