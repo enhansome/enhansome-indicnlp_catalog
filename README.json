@@ -2549,7 +2549,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32204,
+                "stars": 32205,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2638,7 +2638,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40019,
+                "stars": 40018,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -2665,7 +2665,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32204,
+                "stars": 32205,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2886,7 +2886,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32204,
+                "stars": 32205,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -3121,7 +3121,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2021-05-11T07:42:31Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "urduhack",
             "repo": "awesome-urdu",
             "stars": 81,
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T00:22:28.064Z",
+    "last_updated": "2026-11-24T22:45:32.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
