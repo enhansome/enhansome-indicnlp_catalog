@@ -129,7 +129,7 @@
             "open_issues": 0,
             "owner": "sagorbrur",
             "repo": "bnlp",
-            "stars": 313,
+            "stars": 314,
             "topics": [
               "bangla",
               "bangla-nlp",
@@ -166,8 +166,8 @@
             "id": 93286921,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T02:33:44Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-25T11:01:15Z",
+            "open_issues": 9,
             "owner": "indic-transliteration",
             "repo": "indic_transliteration_py",
             "stars": 216,
@@ -1683,7 +1683,7 @@
                 "open_issues": 1,
                 "owner": "rezacsedu",
                 "repo": "Classification_Benchmarks_Benglai_NLP",
-                "stars": 20,
+                "stars": 21,
                 "topics": [
                   "bengali",
                   "gensim-word2vec",
@@ -1818,7 +1818,7 @@
                 "open_issues": 1,
                 "owner": "rezacsedu",
                 "repo": "Classification_Benchmarks_Benglai_NLP",
-                "stars": 20,
+                "stars": 21,
                 "topics": [
                   "bengali",
                   "gensim-word2vec",
@@ -2549,7 +2549,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32205,
+                "stars": 32206,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2638,7 +2638,7 @@
                 "open_issues": 879,
                 "owner": "google-research",
                 "repo": "bert",
-                "stars": 40018,
+                "stars": 40019,
                 "topics": [
                   "google",
                   "natural-language-processing",
@@ -2665,7 +2665,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32205,
+                "stars": 32206,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -2796,7 +2796,7 @@
                 "open_issues": 11,
                 "owner": "babylonhealth",
                 "repo": "fastText_multilingual",
-                "stars": 1201,
+                "stars": 1200,
                 "topics": [
                   "distributed-representations",
                   "machine-learning",
@@ -2886,7 +2886,7 @@
                 "open_issues": 1351,
                 "owner": "facebookresearch",
                 "repo": "fairseq",
-                "stars": 32205,
+                "stars": 32206,
                 "topics": [
                   "artificial-intelligence",
                   "python",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T22:45:32.817Z",
+    "last_updated": "2026-11-25T21:58:41.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",

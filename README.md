@@ -95,8 +95,8 @@ Indian language NLP has come a long way. We feature a few resources that are ill
 * [iNLTK](https://github.com/goru001/inltk) ⭐ 838 | 🐛 39 | 🌐 Python | 📅 2024-01-20: iNLTK aims to provide out of the box support for various NLP tasks that an application developer might need for Indic languages.
 * [Indic NLP Library](https://github.com/anoopkunchukuttan/indic_nlp_library) ⭐ 653 | 🐛 35 | 🌐 Python | 📅 2024-06-07: Python Library for various Indian language NLP tasks like tokenization, sentence splitting, normalization, script conversion, transliteration, *etc*
   * [Devnagri to Roman transliteration](https://github.com/ritwikmishra/devanagari-to-roman-script-transliteration) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-01-20 using hand-crafted rules and lexicons.
-* [BNLP](https://github.com/sagorbrur/bnlp) ⭐ 313 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-10-31: Bengali language processing toolkit with tokenization, embedding, POS tagging, NER suppport
-* [Sanskrit Coders Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 216 | 🐛 8 | 🌐 Python | 📅 2026-11-17: Script conversion and romanization for Indian languages.
+* [BNLP](https://github.com/sagorbrur/bnlp) ⭐ 314 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-10-31: Bengali language processing toolkit with tokenization, embedding, POS tagging, NER suppport
+* [Sanskrit Coders Indic Transliteration](https://github.com/sanskrit-coders/indic_transliteration) ⭐ 216 | 🐛 9 | 🌐 Python | 📅 2026-11-25: Script conversion and romanization for Indian languages.
 * [CodeSwitch](https://github.com/sagorbrur/codeswitch) ⭐ 38 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2020-11-02: Language identification, POS Tagging, NER, sentiment analysis support for code mixed data including Hindi and Nepali language
 * [pyiwn](https://github.com/riteshpanjwani/pyiwn) ⭐ 36 | 🐛 7 | 🌐 Python | 📅 2022-04-26: Python Interface to IndoWordNet
 * [Smart Sanskirt Annotator](https://github.com/iamdsc/smart-sanskrit-annotator) ⭐ 9 | 🐛 2 | 🌐 JavaScript | 📅 2020-10-31: Annotation tool for Sanskrit [paper](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.874.pdf)
@@ -280,7 +280,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='SentimentAnalysis'></a>Sentiment, Sarcasm, Emotion Analysis
 
-* [Bengali Sentiment Analysis - Classification Benchmark, 2020](https://github.com/rezacsedu/BengFastText) ⭐ 20 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-07-26: 8k sentences
+* [Bengali Sentiment Analysis - Classification Benchmark, 2020](https://github.com/rezacsedu/BengFastText) ⭐ 21 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-07-26: 8k sentences
 * [BHAAV (भाव) Corpus](https://github.com/midas-research/bhaav) ⭐ 11 | 🐛 0 | 📅 2019-11-26: A Text Corpus for Emotion Analysis from Hindi Stories
 * [SentNoB](https://github.com/KhondokerIslam/SentNoB) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2022-12-29: sentiment dataset for Bangla from 3 domains on user comments containing 15k examples [(Paper)](https://aclanthology.org/2021.findings-emnlp.278.pdf)  [(Dataset)](https://www.kaggle.com/cryptexcode/sentnob-sentiment-analysis-in-noisy-bangla-texts)
 * [UoM-Sinhala Sentiment Analysis](https://github.com/LahiruSen/sinhala_sentiment_anlaysis_tallip#data-set) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2021-11-09: Sentiment Analysis for Sinhala Language. Consists of a multi-class annotated data set with 15059 sentiment annotated Sinhala news comments extracted from two Sinhala online news papers with four sentiment categories namely POSITIVE, NEGATIVE, NEUTRAL and CONFLICT and a corpus of 9.48 million tokens. Described in [this paper](https://arxiv.org/pdf/2011.07280.pdf).
@@ -294,7 +294,7 @@ Benchmarks spanning multiple tasks.
 ### <a name='HateSpeech'></a>Hate Speech and Offensive Comments
 
 * [Fear Speech in Indian WhatsApp Groups, 2021](https://github.com/punyajoy/Fear-speech-analysis) ⭐ 26 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-03-27
-* [Bengali Hate Speech - Classification Benchmark, 2020](https://github.com/rezacsedu/BengFastText) ⭐ 20 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-07-26: 1.5k sentences
+* [Bengali Hate Speech - Classification Benchmark, 2020](https://github.com/rezacsedu/BengFastText) ⭐ 21 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-07-26: 1.5k sentences
 * [Roman Urdu Offensive Language Detection, 2020](https://github.com/haroonshakeel/roman_urdu_hate_speech) ⭐ 18 | 🐛 1 | 📅 2021-09-03: 10k tweets, can also used for Hindi, ([Paper](https://www.aclweb.org/anthology/2020.emnlp-main.197))
 * [HateCheckHIn](https://github.com/hate-alert/HateCheckHIn) ⭐ 6 | 🐛 0 | 📅 2022-05-07: An evaluation dataset for Hindi Hate Speech Detection Models having a total of 34 functionalities out of which 28 functionalities are monolingual and the remaining 6 are multilingual. Hindi is used as the base language. Described in [this paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.575.pdf).
 * [Did You Offend Me? Classification of Offensive Tweets in Hinglish Language, 2018](https://github.com/pmathur5k10/Hinglish-Offensive-Text-Classification/tree/b8433ff1ebb885bd657f5117eab6bd3798f20408) ⭐ 4 | 🐛 0 | 📅 2023-04-13: 3k tweets ([Paper](https://www.aclweb.org/anthology/W18-5118))
@@ -412,7 +412,7 @@ Benchmarks spanning multiple tasks.
 
 ### <a name='MultilingualWordEmbeddings'></a>Multilingual Word Embeddings
 
-* [Babylon Partners](https://github.com/Babylonpartners/fastText_multilingual) ⭐ 1,201 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10
+* [Babylon Partners](https://github.com/Babylonpartners/fastText_multilingual) ⭐ 1,200 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10
 * [GeoMM](https://github.com/anoopkunchukuttan/geomm) ⭐ 27 | 🐛 30 | 🌐 Python | 📅 2022-12-08
 
 ### <a name='Morphanalyzers'></a>Morphanalyzers
@@ -497,4 +497,4 @@ Pointers to language-specific NLP resource catalogs
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
