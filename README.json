@@ -1612,7 +1612,7 @@
                 "open_issues": 0,
                 "owner": "kmi-linguistics",
                 "repo": "trac-1",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "abuse-detection",
                   "abusive-language",
@@ -2211,7 +2211,7 @@
                 "open_issues": 4,
                 "owner": "alexa",
                 "repo": "massive",
-                "stars": 578,
+                "stars": 579,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:39:55.591Z"
@@ -3124,7 +3124,7 @@
             "open_issues": 5,
             "owner": "urduhack",
             "repo": "awesome-urdu",
-            "stars": 81,
+            "stars": 82,
             "topics": [
               "awsome",
               "awsome-list",
@@ -3185,7 +3185,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T21:55:54.053Z",
+    "last_updated": "2026-11-27T21:38:44.159Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collaborative catalog of NLP resources for Indic languages",
@@ -3194,7 +3194,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-12-14T02:21:43Z",
-      "open_issues": 158,
+      "open_issues": 159,
       "owner": "AI4Bharat",
       "repo": "indicnlp_catalog",
       "stars": 642,
